@@ -1,20 +1,5 @@
 [
   {
-    "date": "2026-08-13",
-    "topic": "IAF",
-    "post_num": 1
-  },
-  {
-    "date": "2026-08-13",
-    "topic": "DEFENCE TECHNOLOGY",
-    "post_num": 2
-  },
-  {
-    "date": "2026-08-13",
-    "topic": "IAF Trainer Jets",
-    "post_num": 3
-  },
-  {
     "date": "2026-08-14",
     "topic": "DEFENCE PROCUREMENT",
     "post_num": 1
@@ -363,6 +348,27 @@
     "topic": "FROM HTT-40 TO HLFT-42: INSIDE THE IAF\u2019S FUTURE FOUR-STAGE FIGHTER PILOT TRAINING SYSTEM",
     "headline": "FROM HTT-40 TO HLFT-42: INSIDE THE IAF\u2019S FUTURE FOUR-STAGE FIGHTER PILOT TRAINING SYSTEM",
     "url": "https://idrw.org/from-htt-40-to-hlft-42-inside-the-iafs-future-four-stage-fighter-pilot-training-system/",
+    "post_num": 3
+  },
+  {
+    "date": "2026-09-06",
+    "topic": "ASTRA MICROWAVE EXPANDS COUNTER-UAV PORTFOLIO WITH \u201cELECTROMAGNETIC WALL\u201d CONCEPT",
+    "headline": "ASTRA MICROWAVE EXPANDS COUNTER-UAV PORTFOLIO WITH \u201cELECTROMAGNETIC WALL\u201d CONCEPT",
+    "url": "https://idrw.org/astra-microwave-expands-counter-uav-portfolio-with-electromagnetic-wall-concept/",
+    "post_num": 1
+  },
+  {
+    "date": "2026-09-06",
+    "topic": "HOW INDIA CAN SELL MORE BRAHMOS: THE ROADMAP TO A $5 BILLION MISSILE EXPORT EMPIRE",
+    "headline": "HOW INDIA CAN SELL MORE BRAHMOS: THE ROADMAP TO A $5 BILLION MISSILE EXPORT EMPIRE",
+    "url": "https://idrw.org/how-india-can-sell-more-brahmos-the-roadmap-to-a-5-billion-missile-export-empire/",
+    "post_num": 2
+  },
+  {
+    "date": "2026-09-06",
+    "topic": "SAAB WINS \u20b9472 CRORE DEAL FOR 450 CARL-GUSTAF M4",
+    "headline": "SAAB WINS \u20b9472 CRORE DEAL FOR 450 CARL-GUSTAF M4",
+    "url": "https://idrw.org/saab-wins-%e2%82%b9472-crore-deal-for-450-carl-gustaf-m4/",
     "post_num": 3
   }
 ]
