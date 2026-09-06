@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Office | Automation Workflow</title>
+    <link rel="stylesheet" href="dashboard.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="background-effects">
+        <div class="glow-orb orb-1"></div>
+        <div class="glow-orb orb-2"></div>
+        <div class="glow-orb orb-3"></div>
+    </div>
+
+    <header class="dashboard-header">
+        <div class="logo">
+            <i class="fa-solid fa-microchip"></i> AI OFFICE <span>DASHBOARD</span>
+        </div>
+        <div class="system-status">
+            <div class="status-indicator live"></div>
+            <span>System Online</span>
+        </div>
+    </header>
+
+    <main class="dashboard-container">
+        <div class="info-panel">
+            <h2>Current Workflow: <span class="highlight">Daily News Pipeline</span></h2>
+            <p id="overall-status">Awaiting task initiation...</p>
+            <button id="start-demo-btn" class="cyber-button">Initiate Workflow <i class="fa-solid fa-play"></i></button>
+        </div>
+
+        <div class="pipeline-flow">
+            <!-- Researcher -->
+            <div class="agent-desk" id="agent-researcher">
+                <div class="agent-avatar"><i class="fa-solid fa-satellite-dish"></i></div>
+                <div class="agent-info">
+                    <h3>Researcher</h3>
+                    <p class="task-desc">Fetching RSS/Reddit</p>
+                    <div class="status-badge">Idle</div>
+                </div>
+            </div>
+            
+            <div class="connector" id="conn-1">
+                <div class="data-packet"></div>
+            </div>
+
+            <!-- Editor -->
+            <div class="agent-desk" id="agent-editor">
+                <div class="agent-avatar"><i class="fa-solid fa-brain"></i></div>
+                <div class="agent-info">
+                    <h3>Editor</h3>
+                    <p class="task-desc">Planning Daily Posts</p>
+                    <div class="status-badge">Idle</div>
+                </div>
+            </div>
+
+            <div class="connector" id="conn-2">
+                <div class="data-packet"></div>
+            </div>
+
+            <!-- Designer -->
+            <div class="agent-desk" id="agent-designer">
+                <div class="agent-avatar"><i class="fa-solid fa-palette"></i></div>
+                <div class="agent-info">
+                    <h3>Designer</h3>
+                    <p class="task-desc">Building HTML & Reels</p>
+                    <div class="status-badge">Idle</div>
+                </div>
+            </div>
+
+            <div class="connector" id="conn-3">
+                <div class="data-packet"></div>
+            </div>
+
+            <!-- Copywriter -->
+            <div class="agent-desk" id="agent-copywriter">
+                <div class="agent-avatar"><i class="fa-solid fa-pen-nib"></i></div>
+                <div class="agent-info">
+                    <h3>Copywriter</h3>
+                    <p class="task-desc">Generating Captions</p>
+                    <div class="status-badge">Idle</div>
+                </div>
+            </div>
+
+            <div class="connector" id="conn-4">
+                <div class="data-packet"></div>
+            </div>
+
+            <!-- Publisher -->
+            <div class="agent-desk" id="agent-publisher">
+                <div class="agent-avatar"><i class="fa-solid fa-rocket"></i></div>
+                <div class="agent-info">
+                    <h3>Publisher</h3>
+                    <p class="task-desc">Posting to YT, Insta</p>
+                    <div class="status-badge">Idle</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="terminal-log">
+            <div class="terminal-header">
+                <span><i class="fa-solid fa-terminal"></i> Activity Log</span>
+            </div>
+            <div class="terminal-body" id="log-output">
+                <div>[System] Dashboard initialized. Waiting for pipeline...</div>
+            </div>
+        </div>
+    </main>
+
+    <script src="dashboard.js"></script>
+</body>
+</html>

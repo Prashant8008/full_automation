@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DRDO & Defence Pulse | Advanced News Dashboard</title>
+    <meta name="description" content="Stay updated with the latest in Indian Defence, DRDO research, and Aatmanirbhar Bharat initiatives.">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <header class="top-nav">
+        <div class="logo">
+            <i class="fa-solid fa-shield-halved"></i>
+            <span>DEFENCE<span class="highlight">PULSE</span></span>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#" class="active">Live Updates</a></li>
+                <li><a href="#">DRDO Projects</a></li>
+                <li><a href="#">Make In India</a></li>
+                <li><a href="#">Global Treaties</a></li>
+            </ul>
+        </nav>
+        <div class="search-bar">
+            <input type="text" placeholder="Search Intel...">
+            <i class="fa-solid fa-search"></i>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero-section">
+            <div class="hero-content">
+                <span class="badge">BREAKING</span>
+                <h1 id="hero-title">Loading strategic update...</h1>
+                <p id="hero-excerpt">Acquiring intel...</p>
+                <button class="btn-primary">Read Full Report <i class="fa-solid fa-arrow-right"></i></button>
+            </div>
+        </section>
+
+        <section class="news-grid-container">
+            <div class="section-header">
+                <h2>Latest Intelligence</h2>
+                <div class="filters">
+                    <button class="filter-btn active" data-filter="all">All</button>
+                    <button class="filter-btn" data-filter="DRDO">DRDO</button>
+                    <button class="filter-btn" data-filter="Policy">Policy</button>
+                    <button class="filter-btn" data-filter="Aviation">Aviation</button>
+                </div>
+            </div>
+            
+            <div class="news-grid" id="news-grid">
+                <!-- Cards will be injected here by JS -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Defence Pulse | Secure Intelligence Network</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
