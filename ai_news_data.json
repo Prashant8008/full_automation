@@ -2,6 +2,14 @@
   {
     "source": "SSBCrack",
     "priority": 1,
+    "title": "Lieutenant P. Shashi Kumar Wins Sword of Honour at OTA Gaya",
+    "description": "From the ranks to the Sword of Honour and now the Gorkha Rifles, his journey demonstrates how sustained discipline, ambition and perseverance can transform a long-held dream into reality.",
+    "pubDate": "Mon, 07 Sep 2026 06:26:37 +0000",
+    "url": "https://www.ssbcrack.com/2026/09/lieutenant-p-shashi-kumar-wins-sword-of-honour-at-ota-gaya.html"
+  },
+  {
+    "source": "SSBCrack",
+    "priority": 1,
     "title": "118 Engineering Officers Pass Out from AFTC Bengaluru; Fg Off Raghvendra Pratap Singh Wins Sword of Honour",
     "description": "The inclusion of officers from friendly foreign countries also reflects India’s growing role as a centre for aerospace professional training.",
     "pubDate": "Sun, 06 Sep 2026 07:12:19 +0000",
@@ -72,12 +80,12 @@
     "url": "https://www.ssbcrack.com/2026/09/lieutenant-gurkeerat-singh-hora-wins-sword-of-honour-at-ota-chennai.html"
   },
   {
-    "source": "SSBCrack",
+    "source": "SSBCrack News",
     "priority": 1,
-    "title": "Lt Gen Pushpendra Singh Pays Tribute to Naik Ajay Kumar and Lance Naik Rohit Narayan Patil",
-    "description": "Western Army Commander honours the two 1 Para Special Forces bravehearts who lost their lives during a watermanship training exercise in the Yamuna.",
-    "pubDate": "Sat, 05 Sep 2026 04:51:15 +0000",
-    "url": "https://www.ssbcrack.com/2026/09/lt-gen-pushpendra-singh-pays-tribute-to-naik-ajay-kumar-and-lance-naik-rohit-narayan-patil.html"
+    "title": "Lieutenant P. Shashi Kumar: From Havildar to Sword of Honour in Indian Army",
+    "description": "Lieutenant P. Shashi Kumar has achieved a remarkable feat in the Indian Army, progressing from a Havildar in the Assam Rifles to becoming a commissioned officer, recently commanding the Passing Out Parade at the Officers Training Academy (OTA) in Gaya. Hailing from Tamil Nadu, Kumar’s commitment to serving his nation is deeply rooted in his […]",
+    "pubDate": "Mon, 07 Sep 2026 06:42:58 +0000",
+    "url": "https://news.ssbcrack.com/lieutenant-p-shashi-kumar-from-havildar-to-sword-of-honour-in-indian-army/"
   },
   {
     "source": "SSBCrack News",
@@ -150,14 +158,6 @@
     "description": "For Officer Cadet Amit Kumar Mishra, the pursuit of wearing the military uniform has been an emotional journey filled with both challenges and profound personal loss. Just a mere 20 days after enrolling in the Academy, Amit faced the devastating news of his father’s passing. His father, a dedicated veteran of the Maratha Light Infantry, […]",
     "pubDate": "Sat, 05 Sep 2026 05:00:53 +0000",
     "url": "https://news.ssbcrack.com/officer-cadet-amit-kumar-mishras-journey-from-personal-tragedy-to-military-commitment/"
-  },
-  {
-    "source": "SSBCrack News",
-    "priority": 1,
-    "title": "OTA Chennai Honors Parents of Officer Cadets with Gaurav Padak Ceremony",
-    "description": "Chennai recently witnessed a heartfelt ceremony at the Officers Training Academy (OTA), where the institution honored the parents of Officer Cadets from the latest Passing Out Course. This event featured the presentation of the esteemed “Gaurav Padak,” a recognition of the crucial support families provide in their children’s decision to join the Indian Army. Lieutenant […]",
-    "pubDate": "Fri, 04 Sep 2026 20:20:59 +0000",
-    "url": "https://news.ssbcrack.com/ota-chennai-honors-parents-of-officer-cadets-with-gaurav-padak-ceremony/"
   },
   {
     "source": "ThePrint Defence",
@@ -322,6 +322,126 @@
   {
     "source": "IDRW Defence",
     "priority": 1,
+    "title": "After Khagantak-243 Success, IAF Shows Interest in Larger Khagantak-306",
+    "description": "This article was originally published on idrw.org. After the Indian Air Force (IAF) successfully conducted a drop trial of the indigenously designed and developed... Read the full article on idrw.org: After Khagantak-243 Success, IAF Shows Interest in Larger Khagantak-306",
+    "pubDate": "Mon, 07 Sep 2026 02:31:35 +0000",
+    "url": "https://idrw.org/after-khagantak-243-success-iaf-shows-interest-in-larger-khagantak-306/"
+  },
+  {
+    "source": "IDRW Defence",
+    "priority": 1,
+    "title": "62 Years On, IAF’s Kiran Trainer Still Flies — With No Retirement Plan in Sight",
+    "description": "This article was originally published on idrw.org. The HAL HJT-16 Kiran (“Ray of Light”) is an Indian two-seat intermediate jet trainer aircraft, built by... Read the full article on idrw.org: 62 Years On, IAF’s Kiran Trainer Still Flies — With No Retirement Plan in Sight",
+    "pubDate": "Mon, 07 Sep 2026 02:31:32 +0000",
+    "url": "https://idrw.org/62-years-on-iafs-kiran-trainer-still-flies-with-no-retirement-plan-in-sight/"
+  },
+  {
+    "source": "IDRW Defence",
+    "priority": 1,
+    "title": "SSS Defence M72 Draws Interest From 5 Foreign Buyers",
+    "description": "This article was originally published on idrw.org. International queries about Bengaluru-based SSS Defence’s homegrown M72 5.56mm family are on the rise as the company... Read the full article on idrw.org: SSS Defence M72 Draws Interest From 5 Foreign Buyers",
+    "pubDate": "Mon, 07 Sep 2026 02:31:27 +0000",
+    "url": "https://idrw.org/sss-defence-m72-draws-interest-from-5-foreign-buyers/"
+  },
+  {
+    "source": "IDRW Defence",
+    "priority": 1,
+    "title": "IAF still has a Soft Corner for Su-57E ?",
+    "description": "This article was originally published on idrw.org. Despite the official stance of the Defence Secretary Rajesh Kumar Singh, being against the purchase, it seems... Read the full article on idrw.org: IAF still has a Soft Corner for Su-57E ?",
+    "pubDate": "Mon, 07 Sep 2026 02:31:11 +0000",
+    "url": "https://idrw.org/iaf-still-has-a-soft-corner-for-su-57e/"
+  },
+  {
+    "source": "IDRW Defence",
+    "priority": 1,
+    "title": "MoD likely to Clear funds to overhaul 40 Su-30MKI jets",
+    "description": "This article was originally published on idrw.org. According to a ET Now report, the Defence Acquisition Council (DAC) might have a discussion on overhauling... Read the full article on idrw.org: MoD likely to Clear funds to overhaul 40 Su-30MKI jets",
+    "pubDate": "Mon, 07 Sep 2026 02:31:06 +0000",
+    "url": "https://idrw.org/mod-likely-to-clear-funds-to-overhaul-40-su-30mki-jets/"
+  },
+  {
+    "source": "IDRW Defence",
+    "priority": 1,
+    "title": "PAF’s Latest Propaganda Video Shows Missile Strikes on INS Vikrant, Indian Parliament and Kandla Port",
+    "description": "This article was originally published on idrw.org. The Pakistan Air Force (PAF) has published a new animation propaganda video of a massive missile and... Read the full article on idrw.org: PAF’s Latest Propaganda Video Shows Missile Strikes on INS Vikrant, Indian Parliament and Kandla Port",
+    "pubDate": "Mon, 07 Sep 2026 02:31:00 +0000",
+    "url": "https://idrw.org/pafs-latest-propaganda-video-shows-missile-strikes-on-ins-vikrant-indian-parliament-and-kandla-port/"
+  },
+  {
+    "source": "IDRW Defence",
+    "priority": 1,
+    "title": "PAF Claims 32 IAF Bases Hit in New Propaganda Video, But Provides No Satellite Imagery",
+    "description": "This article was originally published on idrw.org. In a newly released propaganda video named “Fizaon K Pasbaan,” Pakistan Air Force (PAF) has claimed to... Read the full article on idrw.org: PAF Claims 32 IAF Bases Hit in New Propaganda Video, But Provides No Satellite Imagery",
+    "pubDate": "Mon, 07 Sep 2026 02:30:55 +0000",
+    "url": "https://idrw.org/paf-claims-32-iaf-bases-hit-in-new-propaganda-video-but-provides-no-satellite-imagery/"
+  },
+  {
+    "source": "IDRW Defence",
+    "priority": 1,
+    "title": "IAF’s Sarang Soars Over Egypt’s Pyramids",
+    "description": "This article was originally published on idrw.org. The Indian Air Force’s Sarang Helicopter Display Team has arrived in Egypt for the 2nd El Alamein... Read the full article on idrw.org: IAF’s Sarang Soars Over Egypt’s Pyramids",
+    "pubDate": "Mon, 07 Sep 2026 02:30:35 +0000",
+    "url": "https://idrw.org/iafs-sarang-soars-over-egypts-pyramids/"
+  },
+  {
+    "source": "IDRW Defence",
+    "priority": 1,
+    "title": "China’s MizarVision develops its AI Powered Data Model",
+    "description": "This article was originally published on idrw.org. A Chinese geospatial intelligence company says it has developed its own AI-powered big-data model capable of fusing... Read the full article on idrw.org: China’s MizarVision develops its AI Powered Data Model",
+    "pubDate": "Mon, 07 Sep 2026 02:30:28 +0000",
+    "url": "https://idrw.org/chinas-mizarvision-develops-its-ai-powered-data-model/"
+  },
+  {
+    "source": "IDRW Defence",
+    "priority": 1,
+    "title": "Rajnath to travel to Sri Lanka on 3-day trip",
+    "description": "This article was originally published on idrw.org. Defence Minister Rajnath Singh will undertake a three-day trip to Sri Lanka beginning Tuesday to explore ways... Read the full article on idrw.org: Rajnath to travel to Sri Lanka on 3-day trip",
+    "pubDate": "Mon, 07 Sep 2026 02:30:22 +0000",
+    "url": "https://idrw.org/rajnath-to-travel-to-sri-lanka-on-3-day-trip/"
+  },
+  {
+    "source": "IDRW Defence",
+    "priority": 1,
+    "title": "Iran claims strike on US ship in Strait of Hormuz, but US denies it",
+    "description": "This article was originally published on idrw.org. Iran said Sunday it struck an unmanned US vessel trying to enter the Strait of Hormuz, a... Read the full article on idrw.org: Iran claims strike on US ship in Strait of Hormuz, but US denies it",
+    "pubDate": "Mon, 07 Sep 2026 02:30:18 +0000",
+    "url": "https://idrw.org/iran-claims-strike-on-us-ship-in-strait-of-hormuz-but-us-denies-it/"
+  },
+  {
+    "source": "IDRW Defence",
+    "priority": 1,
+    "title": "India-France partnership reaches new heights, says PM Modi",
+    "description": "This article was originally published on idrw.org. Prime Minister Narendra Modi on Sunday said India-France relations have reached new heights and this strategic partnership... Read the full article on idrw.org: India-France partnership reaches new heights, says PM Modi",
+    "pubDate": "Mon, 07 Sep 2026 02:30:15 +0000",
+    "url": "https://idrw.org/india-france-partnership-reaches-new-heights-says-pm-modi/"
+  },
+  {
+    "source": "IDRW Defence",
+    "priority": 1,
+    "title": "Isro at core of India’s space programme: IN-SPACe Chairman Pawan Goenka",
+    "description": "This article was originally published on idrw.org. The role of the Indian Space Research Organisation (ISRO) is by no means diminishing and it will... Read the full article on idrw.org: Isro at core of India’s space programme: IN-SPACe Chairman Pawan Goenka",
+    "pubDate": "Mon, 07 Sep 2026 02:30:13 +0000",
+    "url": "https://idrw.org/isro-at-core-of-indias-space-programme-in-space-chairman-pawan-goenka/"
+  },
+  {
+    "source": "IDRW Defence",
+    "priority": 1,
+    "title": "India emerges as key diesel supplier to Europe as Russian, US flows falter",
+    "description": "This article was originally published on idrw.org. India has emerged as a crucial source of diesel for Europe, supplying about 60 per cent of... Read the full article on idrw.org: India emerges as key diesel supplier to Europe as Russian, US flows falter",
+    "pubDate": "Mon, 07 Sep 2026 02:30:09 +0000",
+    "url": "https://idrw.org/india-emerges-as-key-diesel-supplier-to-europe-as-russian-us-flows-falter/"
+  },
+  {
+    "source": "IDRW Defence",
+    "priority": 1,
+    "title": "Commander of the UAE Air Force and Air Defence Receives Chief of Staff of the Indian Air Force",
+    "description": "This article was originally published on idrw.org. Major General Staff Rashid Mohammed Al Shamsi, Commander of the UAE Air Force and Air Defence, received... Read the full article on idrw.org: Commander of the UAE Air Force and Air Defence Receives Chief of Staff of the Indian Air Force",
+    "pubDate": "Mon, 07 Sep 2026 01:46:00 +0000",
+    "url": "https://idrw.org/commander-of-the-uae-air-force-and-air-defence-receives-chief-of-staff-of-the-indian-air-force/"
+  },
+  {
+    "source": "IDRW Defence",
+    "priority": 1,
     "title": "Astra Microwave Expands Counter-UAV Portfolio With “Electromagnetic Wall” Concept",
     "description": "This article was originally published on idrw.org. According to what appears on the company’s ongoing counter-drone capabilities, Astra Microwave Products is expanding its Counter-UAVs... Read the full article on idrw.org: Astra Microwave Expands Counter-UAV Portfolio With “Electromagnetic Wall” Concept",
     "pubDate": "Sun, 06 Sep 2026 12:32:09 +0000",
@@ -440,124 +560,76 @@
     "url": "https://idrw.org/four-cadets-from-punjab-commissioned-in-army-at-ota-chennai/"
   },
   {
-    "source": "IDRW Defence",
-    "priority": 1,
-    "title": "Exclusive: India Eyes Ex-French Mirage-2000 Jets to Extend IAF Fleet Life Beyond 2035",
-    "description": "This article was originally published on idrw.org. Sources told idrw.org that the Indian Air Force (IAF) is mulling to acquire retired Mirage-2000s from the... Read the full article on idrw.org: Exclusive: India Eyes Ex-French Mirage-2000 Jets to Extend IAF Fleet Life Beyond 2035",
-    "pubDate": "Sun, 06 Sep 2026 02:31:05 +0000",
-    "url": "https://idrw.org/exclusive-india-eyes-ex-french-mirage-2000-jets-to-extend-iaf-fleet-life-beyond-2035/"
+    "source": "Defence.in",
+    "priority": 2,
+    "title": "Evaluating Safran and Rolls-Royce, The Crucial 120kN Engine Decision for India’s AMCA Mk2 Future",
+    "description": "",
+    "pubDate": "Sun, 06 Sep 2026 19:17:00 +0000",
+    "url": "https://defence.in/threads/evaluating-safran-and-rolls-royce-the-crucial-120kn-engine-decision-for-indias-amca-mk2-future.18081/"
   },
   {
-    "source": "IDRW Defence",
-    "priority": 1,
-    "title": "India’s Rafale Fleet Could Benefit from France’s Laser-Guided Counter-Drone System to hunt Drones",
-    "description": "This article was originally published on idrw.org. The French Directorate General of Armaments (DGA) and the Air Warfare Centre (CEAM) have certified a new... Read the full article on idrw.org: India’s Rafale Fleet Could Benefit from France’s Laser-Guided Counter-Drone System to hunt Drones",
-    "pubDate": "Sun, 06 Sep 2026 02:31:01 +0000",
-    "url": "https://idrw.org/indias-rafale-fleet-could-benefit-from-frances-laser-guided-counter-drone-system-to-hunt-drones/"
+    "source": "Defence.in",
+    "priority": 2,
+    "title": "How Japan’s F-2 Deployment in Veer Guardian 2026 Can Give IAF Vital Insights Against F-16-Class Threats",
+    "description": "",
+    "pubDate": "Sun, 06 Sep 2026 18:50:44 +0000",
+    "url": "https://defence.in/threads/how-japans-f-2-deployment-in-veer-guardian-2026-can-give-iaf-vital-insights-against-f-16-class-threats.18641/"
   },
   {
-    "source": "IDRW Defence",
-    "priority": 1,
-    "title": "From HTT-40 to HLFT-42: Inside the IAF’s Future Four-Stage Fighter Pilot Training System",
-    "description": "This article was originally published on idrw.org. India’s Air Force is set to undergo the most radical redesign of pilot training in over three... Read the full article on idrw.org: From HTT-40 to HLFT-42: Inside the IAF’s Future Four-Stage Fighter Pilot Training System",
-    "pubDate": "Sun, 06 Sep 2026 02:30:57 +0000",
-    "url": "https://idrw.org/from-htt-40-to-hlft-42-inside-the-iafs-future-four-stage-fighter-pilot-training-system/"
+    "source": "Defence.in",
+    "priority": 2,
+    "title": "Record-Setting Ahuti MK-II to Nagastra-1: India’s Push for High-Speed Interceptors and Precision Loitering Munitions",
+    "description": "",
+    "pubDate": "Sun, 06 Sep 2026 18:34:41 +0000",
+    "url": "https://defence.in/threads/record-setting-ahuti-mk-ii-to-nagastra-1-indias-push-for-high-speed-interceptors-and-precision-loitering-munitions.18640/"
   },
   {
-    "source": "IDRW Defence",
-    "priority": 1,
-    "title": "HAL to get 3 F-404 Engines this week in India",
-    "description": "This article was originally published on idrw.org. After GE Aerospace said that it had shipped three F404-IN20 engines to HAL in August, it has... Read the full article on idrw.org: HAL to get 3 F-404 Engines this week in India",
-    "pubDate": "Sun, 06 Sep 2026 02:30:53 +0000",
-    "url": "https://idrw.org/hal-to-get-3-f-404-engines-this-week-in-india/"
+    "source": "Defence.in",
+    "priority": 2,
+    "title": "Beyond Firepower, How Indian Army Blending Spectrum Control with Frontline Infantry for Future Battlefield Dominance",
+    "description": "",
+    "pubDate": "Sun, 06 Sep 2026 18:15:25 +0000",
+    "url": "https://defence.in/threads/beyond-firepower-how-indian-army-blending-spectrum-control-with-frontline-infantry-for-future-battlefield-dominance.18639/"
   },
   {
-    "source": "IDRW Defence",
-    "priority": 1,
-    "title": "India’s MALE UAV Dilemma: Did Drishti-10 Offer Enough Over DRDO’s TAPAS?",
-    "description": "This article was originally published on idrw.org. India’s growing unmanned aerial vehicle ecosystem has generated an intriguing question: how much capability does Drishti-10 add... Read the full article on idrw.org: India’s MALE UAV Dilemma: Did Drishti-10 Offer Enough Over DRDO’s TAPAS?",
-    "pubDate": "Sun, 06 Sep 2026 02:30:48 +0000",
-    "url": "https://idrw.org/indias-male-uav-dilemma-did-drishti-10-offer-enough-over-drdos-tapas/"
+    "source": "Defence.in",
+    "priority": 2,
+    "title": "Beyond Surrender Ceremonies: How Former Maoist Cadres Are Rebuilding Their Lives Through Constitutional Democratic Rights",
+    "description": "",
+    "pubDate": "Sun, 06 Sep 2026 18:04:18 +0000",
+    "url": "https://defence.in/threads/beyond-surrender-ceremonies-how-former-maoist-cadres-are-rebuilding-their-lives-through-constitutional-democratic-rights.18638/"
   },
   {
-    "source": "IDRW Defence",
-    "priority": 1,
-    "title": "Vijay-Z21 UAV Completes 1 Hour 18 Minute Flight at 14,000 Feet in Indian Army Trials",
-    "description": "This article was originally published on idrw.org. Indian unmanned aerial vehicle developer Vijay-Z21 has demonstrated its high-altitude endurance capabilities after reportedly sustaining 1 hour... Read the full article on idrw.org: Vijay-Z21 UAV Completes 1 Hour 18 Minute Flight at 14,000 Feet in Indian Army Trials",
-    "pubDate": "Sun, 06 Sep 2026 02:30:44 +0000",
-    "url": "https://idrw.org/vijay-z21-uav-completes-1-hour-18-minute-flight-at-14000-feet-in-indian-army-trials/"
+    "source": "Defence.in",
+    "priority": 2,
+    "title": "Zenith’s Vijay-Z1 Drone Demonstrates Exceptional 78-Minute Flight Time at 14,000 Feet During Indian Army Trials",
+    "description": "",
+    "pubDate": "Sun, 06 Sep 2026 17:44:58 +0000",
+    "url": "https://defence.in/threads/zeniths-vijay-z1-drone-demonstrates-exceptional-78-minute-flight-time-at-14-000-feet-during-indian-army-trials.18637/"
   },
   {
-    "source": "IDRW Defence",
-    "priority": 1,
-    "title": "Picraft Technology Unveils Harpy Eagle AI-Powered Anti-Drone Interceptor for Autonomous UAV Defence",
-    "description": "This article was originally published on idrw.org. India’s counter-drone technology ecosystem is witnessing the rise of innovative indigenous concepts to meet the challenge of... Read the full article on idrw.org: Picraft Technology Unveils Harpy Eagle AI-Powered Anti-Drone Interceptor for Autonomous UAV Defence",
-    "pubDate": "Sun, 06 Sep 2026 02:30:36 +0000",
-    "url": "https://idrw.org/picraft-technology-unveils-harpy-eagle-ai-powered-anti-drone-interceptor-for-autonomous-uav-defence/"
+    "source": "Defence.in",
+    "priority": 2,
+    "title": "Makkah Defence Pact Could Spark Dangerous Overconfidence in the Pakistani Military, Warns Former CDS Anil Chauhan",
+    "description": "",
+    "pubDate": "Sun, 06 Sep 2026 17:25:15 +0000",
+    "url": "https://defence.in/threads/makkah-defence-pact-could-spark-dangerous-overconfidence-in-the-pakistani-military-warns-former-cds-anil-chauhan.18636/"
   },
   {
-    "source": "IDRW Defence",
-    "priority": 1,
-    "title": "US Air Force to replace the MQ-9 Reaper with new system that costs $10 million after heavy losses",
-    "description": "This article was originally published on idrw.org. US Air Force wants to develop a cheaper, expendable drone to replace the MQ-9 Reaper. The new... Read the full article on idrw.org: US Air Force to replace the MQ-9 Reaper with new system that costs $10 million after heavy losses",
-    "pubDate": "Sun, 06 Sep 2026 02:30:32 +0000",
-    "url": "https://idrw.org/us-air-force-to-replace-the-mq-9-reaper-with-new-system-that-costs-10-million-after-heavy-losses/"
+    "source": "Defence.in",
+    "priority": 2,
+    "title": "Turkey Reportedly Delivers Hundreds of Songar Armed Drones to Pakistan Following Mecca Defence Pact",
+    "description": "",
+    "pubDate": "Sun, 06 Sep 2026 17:18:30 +0000",
+    "url": "https://defence.in/threads/turkey-reportedly-delivers-hundreds-of-songar-armed-drones-to-pakistan-following-mecca-defence-pact.18555/"
   },
   {
-    "source": "IDRW Defence",
-    "priority": 1,
-    "title": "KAAN Chief Engineer Says Turkey’s Fighter Is No F-16 Rival, Targets F-22, Su-57 and J-20",
-    "description": "This article was originally published on idrw.org. Türkiye’s first domestically developed fifth-generation stealth fighter jet KAAN’s chief engineer Emre Yaban says that it does... Read the full article on idrw.org: KAAN Chief Engineer Says Turkey’s Fighter Is No F-16 Rival, Targets F-22, Su-57 and J-20",
-    "pubDate": "Sun, 06 Sep 2026 02:30:28 +0000",
-    "url": "https://idrw.org/kaan-chief-engineer-says-turkeys-fighter-is-no-f-16-rival-targets-f-22-su-57-and-j-20/"
-  },
-  {
-    "source": "IDRW Defence",
-    "priority": 1,
-    "title": "Mecca defence pact may fuel ‘Over Confidence ” in Pakistan : Ex-CDS Gen Anil Chauhan",
-    "description": "This article was originally published on idrw.org. Nearly a month after Pakistan, Saudi Arabia and Turkiye signed a key joint defence agreement, former CDS... Read the full article on idrw.org: Mecca defence pact may fuel ‘Over Confidence ” in Pakistan : Ex-CDS Gen Anil Chauhan",
-    "pubDate": "Sun, 06 Sep 2026 02:30:24 +0000",
-    "url": "https://idrw.org/mecca-defence-pact-make-fuel-over-confidence-in-pakistan-ex-cds-gen-anil-chauhan/"
-  },
-  {
-    "source": "IDRW Defence",
-    "priority": 1,
-    "title": "ISRO successfully conducts hot test of Semicryogenic Engine Power Head Test Article at full thrust level",
-    "description": "This article was originally published on idrw.org. Indian Space Research Organisation (ISRO) demonstrated successful hot test of the Semi-Cryogenic Engine Power Head Test Article... Read the full article on idrw.org: ISRO successfully conducts hot test of Semicryogenic Engine Power Head Test Article at full thrust level",
-    "pubDate": "Sun, 06 Sep 2026 02:30:21 +0000",
-    "url": "https://idrw.org/isro-successfully-conducts-hot-test-of-semicryogenic-engine-power-head-test-article-at-full-thrust-level/"
-  },
-  {
-    "source": "IDRW Defence",
-    "priority": 1,
-    "title": "Relationship with China cannot be held hostage to only boundary issues: Former CDS Chauhan",
-    "description": "This article was originally published on idrw.org. Acknowledging that China presents a long-term and comprehensive challenge to India, former CDS Anil Chauhan on Saturday... Read the full article on idrw.org: Relationship with China cannot be held hostage to only boundary issues: Former CDS Chauhan",
-    "pubDate": "Sun, 06 Sep 2026 02:30:17 +0000",
-    "url": "https://idrw.org/relationship-with-china-cannot-be-held-hostage-to-only-boundary-issues-former-cds-chauhan/"
-  },
-  {
-    "source": "IDRW Defence",
-    "priority": 1,
-    "title": "Jaishankar to address UN General Assembly high-level session on September 26",
-    "description": "This article was originally published on idrw.org. External Affairs Minister S Jaishankar will address the annual high-level UN General Assembly session on September 26.... Read the full article on idrw.org: Jaishankar to address UN General Assembly high-level session on September 26",
-    "pubDate": "Sun, 06 Sep 2026 02:30:14 +0000",
-    "url": "https://idrw.org/jaishankar-to-address-un-general-assembly-high-level-session-on-september-26/"
-  },
-  {
-    "source": "IDRW Defence",
-    "priority": 1,
-    "title": "Terrorist slain in Budgam a Pakistani national, was involved in 2024 attacks",
-    "description": "This article was originally published on idrw.org. A terrorist gunned down by the Indian Army in the higher reaches of Yusmarg in central Kashmir... Read the full article on idrw.org: Terrorist slain in Budgam a Pakistani national, was involved in 2024 attacks",
-    "pubDate": "Sun, 06 Sep 2026 02:30:12 +0000",
-    "url": "https://idrw.org/terrorist-slain-in-budgam-a-pakistani-national-was-involved-in-2024-attacks/"
-  },
-  {
-    "source": "IDRW Defence",
-    "priority": 1,
-    "title": "2013 Jhiram Valley Maoist attack: Court convicts all 10 accused; sentencing on Sept 16",
-    "description": "This article was originally published on idrw.org. A special court here on Saturday convicted all ten accused in the 2013 Jhiram Valley Maoist attack... Read the full article on idrw.org: 2013 Jhiram Valley Maoist attack: Court convicts all 10 accused; sentencing on Sept 16",
-    "pubDate": "Sun, 06 Sep 2026 02:30:08 +0000",
-    "url": "https://idrw.org/2013-jhiram-valley-maoist-attack-court-convicts-all-10-accused-sentencing-on-sept-16/"
+    "source": "Defence.in",
+    "priority": 2,
+    "title": "IAF Sarang Team to Showcase Dolphin Leap and Spot Stall Turn at Egypt International Airshow",
+    "description": "",
+    "pubDate": "Sun, 06 Sep 2026 17:16:01 +0000",
+    "url": "https://defence.in/threads/iaf-sarang-team-to-showcase-dolphin-leap-and-spot-stall-turn-at-egypt-international-airshow.18635/"
   },
   {
     "source": "Defence.in",
@@ -566,14 +638,6 @@
     "description": "",
     "pubDate": "Sun, 06 Sep 2026 15:24:48 +0000",
     "url": "https://defence.in/threads/why-india-cannot-build-the-amca-stealth-fighter-without-first-mastering-the-tejas-mk2.18515/"
-  },
-  {
-    "source": "Defence.in",
-    "priority": 2,
-    "title": "Bridging the Stealth Gap After FGFA Exit: How India Plans to Counter China’s J-20 Fleet Before AMCA Arrives by 2035",
-    "description": "",
-    "pubDate": "Sun, 06 Sep 2026 15:23:13 +0000",
-    "url": "https://defence.in/threads/bridging-the-stealth-gap-after-fgfa-exit-how-india-plans-to-counter-chinas-j-20-fleet-before-amca-arrives-by-2035.18517/"
   },
   {
     "source": "Defence.in",
@@ -656,68 +720,28 @@
     "url": "https://defence.in/threads/isi-instructs-khalistan-groups-to-shun-open-violence-for-political-campaigns-amid-global-security-crackdowns-intel.18626/"
   },
   {
-    "source": "Defence.in",
+    "source": "Swarajya Defence",
     "priority": 2,
-    "title": "Report Flags Proliferation and Escalation Risks in Pakistan’s Weapon-Centric Nuclear Sector",
-    "description": "",
-    "pubDate": "Sat, 05 Sep 2026 17:25:38 +0000",
-    "url": "https://defence.in/threads/report-flags-proliferation-and-escalation-risks-in-pakistans-weapon-centric-nuclear-sector.18631/"
+    "title": "Record-breaking Ganga floods hit Patna; 2.24 million people affected across Bihar's 12 districts",
+    "description": "The flood situation in Bihar remained grim as more than 2. 24 million people across 12 districts have been affected by rising",
+    "pubDate": "Mon, 07 Sep 2026 11:16:00 +0530",
+    "url": "https://swarajyamag.com/news-brief/record-breaking-ganga-floods-hit-patna-224-million-people-affected-across-bihars-12-districts"
   },
   {
-    "source": "Defence.in",
+    "source": "Swarajya Defence",
     "priority": 2,
-    "title": "From Rafale to FCAS: How France and India Are Cementing Strategic Ties Amid Shifting Geopolitics, US Report Details",
-    "description": "",
-    "pubDate": "Sat, 05 Sep 2026 17:19:00 +0000",
-    "url": "https://defence.in/threads/from-rafale-to-fcas-how-france-and-india-are-cementing-strategic-ties-amid-shifting-geopolitics-us-report-details.18630/"
+    "title": "Delhi Building Collapse: Death Toll Reaches Six After Overnight Rescue Operations In Satya Niketan",
+    "description": "Six people have died and 11 were rescued after a 50-year-old multi-storey building collapsed in southwest Delhi's Satya Niket",
+    "pubDate": "Mon, 07 Sep 2026 09:17:16 +0530",
+    "url": "https://swarajyamag.com/news-brief/delhi-building-collapse-death-toll-reaches-six-after-overnight-rescue-operations-in-satya-niketan"
   },
   {
-    "source": "Defence.in",
+    "source": "StratNews Global",
     "priority": 2,
-    "title": "Four Baloch Civilians Forcibly Disappeared by Pakistani Security Forces Amid Escalating Human Rights Violations",
-    "description": "",
-    "pubDate": "Sat, 05 Sep 2026 17:10:10 +0000",
-    "url": "https://defence.in/threads/four-baloch-civilians-forcibly-disappeared-by-pakistani-security-forces-amid-escalating-human-rights-violations.18629/"
-  },
-  {
-    "source": "Defence.in",
-    "priority": 2,
-    "title": "HAL Focuses on Engine Selection for HLFT-42 to Wrap Up Design Before 2030, Positioning Dual-Role Jet to Replace IAF Hawk Fleet",
-    "description": "",
-    "pubDate": "Sat, 05 Sep 2026 14:59:33 +0000",
-    "url": "https://defence.in/threads/hal-focuses-on-engine-selection-for-hlft-42-to-wrap-up-design-before-2030-positioning-dual-role-jet-to-replace-iaf-hawk-fleet.18086/"
-  },
-  {
-    "source": "Defence.in",
-    "priority": 2,
-    "title": "Exercise Veer Guardian 2026: IAF and Japanese Forces Unite to Enhance Interoperability and Operational Synergy",
-    "description": "",
-    "pubDate": "Sat, 05 Sep 2026 13:50:08 +0000",
-    "url": "https://defence.in/threads/exercise-veer-guardian-2026-iaf-and-japanese-forces-unite-to-enhance-interoperability-and-operational-synergy.18628/"
-  },
-  {
-    "source": "Defence.in",
-    "priority": 2,
-    "title": "Post-Operation Sindoor, Pakistan Adopts Covert Strategy to Mask Direct Links in Terror Attacks Against India",
-    "description": "",
-    "pubDate": "Sat, 05 Sep 2026 08:34:08 +0000",
-    "url": "https://defence.in/threads/post-operation-sindoor-pakistan-adopts-covert-strategy-to-mask-direct-links-in-terror-attacks-against-india.18627/"
-  },
-  {
-    "source": "Defence.in",
-    "priority": 2,
-    "title": "DRDO’s SSPL Successfully Develops 500-Watt Pulsed Laser Diode Stacks for QRSAM and NGARM Proximity Fuzes",
-    "description": "",
-    "pubDate": "Sat, 05 Sep 2026 08:20:04 +0000",
-    "url": "https://defence.in/threads/drdos-sspl-successfully-develops-500-watt-pulsed-laser-diode-stacks-for-qrsam-and-ngarm-proximity-fuzes.18625/"
-  },
-  {
-    "source": "Defence.in",
-    "priority": 2,
-    "title": "Assam Rifles and CRPF Seize Weapons and Narcotics Worth Cr in Coordinated Northeast Counter Terrorism Operations",
-    "description": "",
-    "pubDate": "Sat, 05 Sep 2026 07:10:09 +0000",
-    "url": "https://defence.in/threads/assam-rifles-and-crpf-seize-weapons-and-narcotics-worth-cr-in-coordinated-northeast-counter-terrorism-operations.18624/"
+    "title": "Indian Air Force Rafales In Hasimara And The Roads To Tawang",
+    "description": "In the final part of 'Eastern Front Airpower', Season Two, watch this documentary on the 101 Squadron of the Indian Air Force's Rafales and the two critical roads to Tawang, Arunachal Pradesh. This episode has 1,000,000 + views. The post Indian Air Force Rafales In Hasimara And The Roads To Tawang appeared first on StratNews Global.",
+    "pubDate": "Sun, 06 Sep 2026 18:05:34 +0000",
+    "url": "https://stratnewsglobal.com/documentaries/indian-air-force-rafales-in-hasimara-and-the-roads-to-tawang/"
   },
   {
     "source": "StratNews Global",
@@ -870,14 +894,6 @@
     "description": "Apple Faces £2 Billion London Lawsuit Over App Tracking Rules Apple is facing a £2 billion ($2.7 billion) lawsuit in London brought on behalf of app developers over its app tracking rules. The iPhone maker is accused of abusing its market power by imposing stricter requirements on third-party developers than on its own services. The […] The post Apple Tracking Rules Face £2 Billion London Lawsuit appeared first on StratNews Global.",
     "pubDate": "Thu, 03 Sep 2026 13:33:56 +0000",
     "url": "https://stratnewsglobal.com/technology/apple-tracking-rules-london-lawsuit/"
-  },
-  {
-    "source": "StratNews Global",
-    "priority": 2,
-    "title": "Feminist Activist Gloria Steinem Dies At 92",
-    "description": "Gloria Steinem, the American writer and feminist, lecturer, activist and organiser who fought for gender equality and women’s civil and reproductive rights for more than five decades, has died, her foundation said. She was 92 years old. The co-founder and consulting editor of Ms Magazine, Gloria Steinem championed the feminist movement from the late 1960s […] The post Feminist Activist Gloria Steinem Dies At 92 appeared first on StratNews Global.",
-    "pubDate": "Thu, 03 Sep 2026 13:30:25 +0000",
-    "url": "https://stratnewsglobal.com/united-states/feminist-activist-gloria-steinem-dies-at-92/"
   },
   {
     "source": "The Diplomat South Asia",
@@ -1865,114 +1881,114 @@
   },
   {
     "source": "Indian Defence News",
-    "title": "BARC Explores Andaman Sites For Small Modular Nuclear-Powered Future",
-    "description": "BARC has initiated a site inspection exercise in the Andaman and Nicobar Islands to assess potential locations for Small Modular Reactors. A team of scientists from the Department of Atomic Energy is currently in Sri Vijaya Puram, where they began their visit by meeting Lieutenant Governor Admiral D K Joshi (Retd).During the meeting, the team presented details of possible sites and features of",
-    "pubDate": "2026-09-06T16:01:00.000+05:30",
-    "url": "https://www.indiandefensenews.in/2026/09/barc-explores-andaman-sites-for-small.html"
+    "title": "Aravalli Engine Powers India’s Leap To Helicopter Self‑Reliance",
+    "description": "The HAL–Safran Aravalli engine is a landmark in India’s helicopter program\n  because it represents genuine co‑development rather than licensed\n  modification, giving Indian engineers direct access to core propulsion\n  technologies and ensuring self‑reliance in one of the most complex areas of\n  aerospace.\n\n\n\n  It will power HAL’s upcoming 13‑ton Indian Multi‑Role Helicopter (IMRH) and\n  its",
+    "pubDate": "2026-09-07T11:30:00.000+05:30",
+    "url": "https://www.indiandefensenews.in/2026/09/aravalli-engine-powers-indias-leap-to.html"
   },
   {
     "source": "Indian Defence News",
-    "title": "DLRL’s Develops New Mobile AI-Driven Jammer Designed To Defeat Next-Gen Cognitive Military Radios",
-    "description": "The Defence Electronics Research Laboratory (DLRL) of the Defence Research and Development Organisation (DRDO) is developing a new vehicle-mounted jammer designed specifically to counter cognitive radios, Alpha Defense reported.This marks a significant step in India’s electronic warfare capabilities, targeting advanced communication systems that can rapidly adapt to jamming attempts.Three units",
-    "pubDate": "2026-09-06T16:00:00.000+05:30",
-    "url": "https://www.indiandefensenews.in/2026/09/dlrls-develops-new-mobile-ai-driven.html"
+    "title": "Government Meeting To Decide On Overhaul of Forty Su‑30MKI Jets",
+    "description": "Defence Minister Rajnath Singh will chair a meeting of the Defence Acquisition Council on Monday, with the most significant agenda item being a proposal to overhaul forty Sukhoi Su‑30MKI fighter jets, NDTV reported. These aircraft continue to form the backbone of the Indian Air Force’s combat fleet, and the proposal reflects the urgent need to sustain their operational readiness.Hindustan",
+    "pubDate": "2026-09-07T11:29:00.000+05:30",
+    "url": "https://www.indiandefensenews.in/2026/09/government-meeting-to-decide-on.html"
   },
   {
     "source": "Indian Defence News",
-    "title": "India Develops Indigenous Helium Cryocooler For Quantum And Space Research",
-    "description": "India has achieved another milestone in deep-tech research by joining the highly exclusive group of nations possessing closed-loop cryogenic refrigeration technology.The Raja Ramanna Centre for Advanced Technology has successfully developed a Gifford-McMahon cryocooler capable of reaching minus 243 degrees Celsius, equivalent to 30 Kelvin, along with an indigenous helium compressor.This",
-    "pubDate": "2026-09-06T15:59:00.000+05:30",
-    "url": "https://www.indiandefensenews.in/2026/09/india-develops-indigenous-helium.html"
+    "title": "India, China Expand Corps Commander Talks To Arunachal Amid LAC Tensions",
+    "description": "The Indian and Chinese armies convened their first Corps Commander-level meeting in the Eastern Sector on Sunday, 6 September 2026, at the Vacha-Damai Border Personnel Meeting Point in Arunachal Pradesh.This marked a significant expansion of the military dialogue mechanism beyond Ladakh, where such meetings have traditionally been held. The talks took place amid concerns over territorial claims",
+    "pubDate": "2026-09-07T11:28:00.000+05:30",
+    "url": "https://www.indiandefensenews.in/2026/09/india-china-expand-corps-commander.html"
   },
   {
     "source": "Indian Defence News",
-    "title": "India’s $1,94,000 Crore Battery Race: Can It Break Free From China’s Grip?",
-    "description": "India’s battery market, projected to reach ₹1,94,000 crore by 2031, is expanding rapidly across electric vehicles, renewable energy, telecom and consumer electronics, but the country remains deeply dependent on China, which controls up to 98% of the global supply chain for critical components. Despite ambitious government programs and subsidies, India’s self-reliance in battery manufacturing",
-    "pubDate": "2026-09-06T15:59:00.000+05:30",
-    "url": "https://www.indiandefensenews.in/2026/09/indias-194000-crore-battery-race-can-it.html"
+    "title": "US Envoy Hails Indian Astronaut’s ISS Mission As Symbol of US-India Space Cooperation",
+    "description": "US Ambassador to India Sergio Gor met Indian Air Force Group Captain Shubhanshu Shukla in Bangalore on Sunday, describing his journey as a symbol of US-India space cooperation.Shukla, the first Indian astronaut to travel to the International Space Station, trained at NASA before serving as Mission Pilot for Axiom Space’s Ax-4 mission. The mission was launched on 25 June 2025 and successfully",
+    "pubDate": "2026-09-07T11:28:00.000+05:30",
+    "url": "https://www.indiandefensenews.in/2026/09/us-envoy-hails-indian-astronauts-iss.html"
   },
   {
     "source": "Indian Defence News",
-    "title": "TCS HyperVault To Build ₹7,00,000 Crore AI Data Centre Campus In Hyderabad",
-    "description": "TATA Consultancy Services has announced a landmark investment through its subsidiary HyperVault, which, along with partners, will commit up to ₹7,00,000 Crores ($7.4 Billion US) to establish a massive AI data centre campus in Telangana.The project, unveiled on Saturday, marks one of the largest single investments in India’s digital infrastructure sector.HyperVault has already secured 264 acres in",
-    "pubDate": "2026-09-06T15:58:00.000+05:30",
-    "url": "https://www.indiandefensenews.in/2026/09/tcs-hypervault-to-build-700000-crore-ai.html"
+    "title": "No U-Turn, No Exit: ISRO Reaffirms It Will Remain ‘Bedrock of Indian Space Sector’ Post-Reforms",
+    "description": "ISRO has issued a categorical clarification regarding recent media reports that speculated about its future role in the wake of space sector reforms.The organisation has firmly stated that it will neither be privatised nor diminished in importance. Assertions suggesting otherwise have been described as baseless and incorrect.ISRO will continue to remain India’s principal institution for advanced",
+    "pubDate": "2026-09-07T11:28:00.000+05:30",
+    "url": "https://www.indiandefensenews.in/2026/09/no-u-turn-no-exit-isro-reaffirms.html"
   },
   {
     "source": "Indian Defence News",
-    "title": "ISRO Lead Centres & Select Departments Demand Clarity On Privatisation Plans",
-    "description": "For the first time since the government opened the space sector to private industry, nine employee bodies representing staff at ISRO centres have formally raised concerns about the direction and basis of the transition, Times of India reported.In a joint representation dated 4 September, they have sought a written clarification from the chairman of the Space Commission.The representation stated",
-    "pubDate": "2026-09-06T15:57:00.000+05:30",
-    "url": "https://www.indiandefensenews.in/2026/09/isro-lead-centres-select-departments.html"
+    "title": "EOS-05 Achieves Key Milestone With Successful Apogee-Raising Operation",
+    "description": "EOS-05 has successfully completed its second apogee-raising operation, marking another crucial milestone in its journey towards Geostationary Orbit.The Liquid Apogee Motor (LAM) engine was fired for 338.9 seconds at 7:00 pm on 06 September 2026. This precise manoeuvre has raised the satellite’s apogee to an estimated 35,786 km, which corresponds to the altitude of a standard Geostationary Orbit.",
+    "pubDate": "2026-09-07T11:28:00.000+05:30",
+    "url": "https://www.indiandefensenews.in/2026/09/eos-05-achieves-key-milestone-with.html"
   },
   {
     "source": "Indian Defence News",
-    "title": "IAF To Closely Study Japan’s F-2 Fighters (Heavily Modified F-16s) In Veer Guardian 2026 Exercise",
-    "description": "Exercise Veer Guardian 2026, scheduled from 9 to 21 September at Jodhpur Air Force Station, is a joint air combat drill between the Indian Air Force and the Japan Air Self-Defence Force, according to a report by The Week.It represents a unique strategic opportunity for India, as Japanese Mitsubishi F-2A fighters will be deployed for the first time to Indian soil. The Japanese contingent has",
-    "pubDate": "2026-09-06T15:57:00.000+05:30",
-    "url": "https://www.indiandefensenews.in/2026/09/iaf-to-closely-study-japans-f-2.html"
+    "title": "IAF Sarang Helicopter Team To Debut New Manoeuvre At El Alamein Air Show In Egypt",
+    "description": "The Indian Air Force’s Sarang Helicopter Display Team has arrived in Egypt to participate in the second edition of the El Alamein International Air Show, which will be held from 8 to 10 September at El Alamein International Airport.According to the Ministry of Defence, the team’s presence at the event highlights India’s growing defence and diplomatic ties with Egypt and marks another milestone in",
+    "pubDate": "2026-09-07T11:27:00.000+05:30",
+    "url": "https://www.indiandefensenews.in/2026/09/iaf-sarang-helicopter-team-to-debut-new.html"
   },
   {
     "source": "Indian Defence News",
-    "title": "India’s Eye In The Sky: Ex-ISRO Chairman Reveals EOS-5 Satellite’s Strategic Edge",
-    "description": "ISRO’s EOS-05 launch marks a historic milestone as India’s first geosynchronous earth imaging satellite, delivering real-time strategic data for agriculture, disaster management, and national security, NewsX Live reported. Former Chairman G Madhavan Nair emphasised its importance in strengthening India’s space program and enhancing surveillance capabilities across sensitive borders and",
-    "pubDate": "2026-09-06T15:57:00.000+05:30",
-    "url": "https://www.indiandefensenews.in/2026/09/indias-eye-in-sky-ex-isro-chairman.html"
+    "title": "Defence Minister Rajnath Singh To Embark On Strategic Sri Lanka Visit To Boost Defence And Maritime Ties",
+    "description": "Defence Minister Rajnath Singh will undertake a three‑day official visit to Sri Lanka from 8 to 10 September, as confirmed by the Ministry of Defence in an official statement released on Sunday.During the visit, he will hold consultations with the leadership of Sri Lanka on a wide range of issues. He will also interact with the Indian diaspora in Colombo, strengthening cultural and community",
+    "pubDate": "2026-09-07T11:27:00.000+05:30",
+    "url": "https://www.indiandefensenews.in/2026/09/defence-minister-rajnath-singh-to.html"
   },
   {
     "source": "GKToday Current Affairs",
-    "title": "Amit Shah launches Nasha Mukt Bharat 2029 roadmap",
-    "description": "Union Home Minister Amit Shah launched the Nasha Mukt Bharat 2029 roadmap in Panaji, Goa, on 6 September 2026 after a state security and narcotics review meeting with...",
-    "pubDate": "September 6, 2026 Government Schemes Current Affairs",
-    "url": "https://www.gktoday.in/amit-shah-launches-nasha-mukt-bharat-2029-roadmap/"
+    "title": "Tamil Nadu Launches Third Phase of Poompuhar Underwater Exploration",
+    "description": "The Tamil Nadu State Department of Archaeology (TNSDA) launched the third phase of underwater archaeological exploration off Poompuhar, also known as Kaveripoompattinam, in Mayiladuthurai district on 6 September...",
+    "pubDate": "September 7, 2026 Environment & Biodiversity Current Affairs",
+    "url": "https://www.gktoday.in/tamil-nadu-launches-third-phase-of-poompuhar-underwater-exploration/"
   },
   {
     "source": "GKToday Current Affairs",
-    "title": "Anak Krakatau Eruption Disrupts Jakarta Flights",
-    "description": "Mount Anak Krakatau in the Sunda Strait erupted on 6 September 2026 at 3:53 a.m. local time. Volcanic ash from the eruption led to flight suspensions at Jakarta’s...",
-    "pubDate": "September 6, 2026 Environment & Biodiversity Current Affairs",
-    "url": "https://www.gktoday.in/anak-krakatau-eruption-disrupts-jakarta-flights/"
+    "title": "India Eyes Nuclear Power in Andaman Islands",
+    "description": "The Bhabha Atomic Research Centre, under the Department of Atomic Energy, conducted a five-day site assessment in the Andaman and Nicobar Islands from 4 to 8 September 2026...",
+    "pubDate": "September 7, 2026 Science & Technology",
+    "url": "https://www.gktoday.in/india-eyes-nuclear-power-in-andaman-islands/"
   },
   {
     "source": "GKToday Current Affairs",
-    "title": "Indonesia’s Peat Fires Intensify Amid El Niño",
-    "description": "Indonesia’s 2026 peat fires have intensified across Kalimantan and Sumatra amid El Niño conditions, severe drought, and widespread degradation of peatland areas. Peat fires burn below the surface...",
-    "pubDate": "September 6, 2026 Environment & Biodiversity Current Affairs",
-    "url": "https://www.gktoday.in/indonesias-peat-fires-intensify-amid-el-nino/"
+    "title": "16th National Meet of Biodiversity Boards Held in Chandigarh",
+    "description": "The 16th National Meet of State Biodiversity Boards and Union Territory Biodiversity Councils was held in Chandigarh on 6–7 September 2026. The two-day meeting was organised by the...",
+    "pubDate": "September 7, 2026 Environment & Biodiversity Current Affairs",
+    "url": "https://www.gktoday.in/16th-national-meet-of-biodiversity-boards-held-in-chandigarh/"
   },
   {
     "source": "GKToday Current Affairs",
-    "title": "Dinesh Sharma Appointed Lieutenant Governor of Andaman and Nicobar Islands",
-    "description": "Dr. Dinesh Sharma, a Bharatiya Janata Party Rajya Sabha Member of Parliament and former Deputy Chief Minister of Uttar Pradesh, was appointed Lieutenant Governor of the Andaman and...",
-    "pubDate": "September 6, 2026 Government Schemes Current Affairs",
-    "url": "https://www.gktoday.in/dinesh-sharma-appointed-lieutenant-governor-of-andaman-and-nicobar-islands/"
+    "title": "IAF Sarang Team Reaches Egypt for El Alamein Airshow",
+    "description": "The Indian Air Force (IAF) Sarang Helicopter Display Team arrived in Egypt on 6 September 2026 for the second edition of the El Alamein International Airshow. The airshow...",
+    "pubDate": "September 7, 2026 Defence Current Affairs",
+    "url": "https://www.gktoday.in/iaf-sarang-team-reaches-egypt-for-el-alamein-airshow/"
   },
   {
     "source": "GKToday Current Affairs",
-    "title": "Russia Begins First Oil Flow Through Vostok Oil Pipeline",
-    "description": "Russia began the first oil transport through the Vostok Oil trunk pipeline on 5 September 2026, with crude loaded at the Sever Bay (Bukhta Sever) terminal in Krasnoyarsk...",
-    "pubDate": "September 6, 2026 International / World Current Affairs",
-    "url": "https://www.gktoday.in/russia-begins-first-oil-flow-through-vostok-oil-pipeline/"
+    "title": "India to Modify Su-30 MKI for RVV-BD Missiles",
+    "description": "India has taken up a proposal to modify the Indian Air Force’s Su-30 MKI fighter aircraft for integration with the Russian-origin RVV-BD air-to-air missile. The proposal covers changes...",
+    "pubDate": "September 7, 2026 Defence Current Affairs",
+    "url": "https://www.gktoday.in/india-to-modify-su-30-mki-for-rvv-bd-missiles/"
   },
   {
     "source": "GKToday Current Affairs",
-    "title": "Japan Reinforces Male-Only Imperial Succession Rules",
-    "description": "Japan’s National Diet approved amendments to the Imperial House Law of 1947 on 17 July 2026. The revised framework retains male-only succession to the Chrysanthemum Throne and permits...",
-    "pubDate": "September 6, 2026 Legal & Constitution Current Affairs",
-    "url": "https://www.gktoday.in/japan-reinforces-male-only-imperial-succession-rules/"
+    "title": "India Qualifies for AFC U20 Asian Cup After 20 Years",
+    "description": "The Indian men’s U20 football team qualified for the AFC U20 Asian Cup main tournament after 20 years, with its last appearance recorded in 2006. India secured qualification...",
+    "pubDate": "September 7, 2026 Sports Current Affairs",
+    "url": "https://www.gktoday.in/india-qualifies-for-afc-u20-asian-cup-after-20-years/"
   },
   {
     "source": "GKToday Current Affairs",
-    "title": "Government Appoints Eight New High Court Chief Justices",
-    "description": "The Central Government of India notified the appointment of eight Chief Justices to different High Courts on 5 September 2026. President Droupadi Murmu approved the appointments under the...",
-    "pubDate": "September 6, 2026 Legal & Constitution Current Affairs",
-    "url": "https://www.gktoday.in/government-appoints-eight-new-high-court-chief-justices/"
+    "title": "National Workshop on Vulture Conservation Held in Panchkula",
+    "description": "Union Minister for Environment, Forest and Climate Change Bhupender Yadav inaugurated a national workshop titled “From Crisis to Recovery – Conserving India’s Vultures” in Panchkula, Haryana, on 6...",
+    "pubDate": "September 7, 2026 Environment & Biodiversity Current Affairs",
+    "url": "https://www.gktoday.in/national-workshop-on-vulture-conservation-held-in-panchkula/"
   },
   {
     "source": "GKToday Current Affairs",
-    "title": "Sanjay K. Agrawal Appointed Rajasthan High Court Chief Justice",
-    "description": "Justice Sanjay Kumar Agrawal was appointed as the 44th regular Chief Justice of the Rajasthan High Court on 5 September 2026. He was serving as a judge of...",
-    "pubDate": "September 6, 2026 Legal & Constitution Current Affairs",
-    "url": "https://www.gktoday.in/sanjay-k-agrawal-appointed-rajasthan-high-court-chief-justice/"
+    "title": "Vice President Launches India Valve Registry in Chennai",
+    "description": "The Vice President of India, C. P. Radhakrishnan, launched the India Valve Registry on 5 September 2026 at the India Valves 2026 conference in Chennai, Tamil Nadu. The...",
+    "pubDate": "September 7, 2026 Science & Technology",
+    "url": "https://www.gktoday.in/vice-president-launches-india-valve-registry-in-chennai/"
   }
 ]

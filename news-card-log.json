@@ -1,20 +1,5 @@
 [
   {
-    "date": "2026-08-14",
-    "topic": "DEFENCE PROCUREMENT",
-    "post_num": 1
-  },
-  {
-    "date": "2026-08-14",
-    "topic": "Gallantry Awards",
-    "post_num": 2
-  },
-  {
-    "date": "2026-08-14",
-    "topic": "MILITARY EDUCATION",
-    "post_num": 3
-  },
-  {
     "date": "2026-08-18",
     "topic": "DEFENCE DIPLOMACY",
     "post_num": 1
@@ -369,6 +354,27 @@
     "topic": "SAAB WINS \u20b9472 CRORE DEAL FOR 450 CARL-GUSTAF M4",
     "headline": "SAAB WINS \u20b9472 CRORE DEAL FOR 450 CARL-GUSTAF M4",
     "url": "https://idrw.org/saab-wins-%e2%82%b9472-crore-deal-for-450-carl-gustaf-m4/",
+    "post_num": 3
+  },
+  {
+    "date": "2026-09-07",
+    "topic": "IAF EYES LARGER KHAGANTAK-306 AFTER SUCCESSFUL DROP TRIALS OF KHAGANTAK-243",
+    "headline": "IAF EYES LARGER KHAGANTAK-306 AFTER SUCCESSFUL DROP TRIALS OF KHAGANTAK-243",
+    "url": "https://idrw.org/after-khagantak-243-success-iaf-shows-interest-in-larger-khagantak-306/",
+    "post_num": 1
+  },
+  {
+    "date": "2026-09-07",
+    "topic": "62 YEARS ON, IAF\u2019S KIRAN TRAINER STILL FLIES \u2014 WITH NO RETIREMENT PLAN IN SIGHT",
+    "headline": "62 YEARS ON, IAF\u2019S KIRAN TRAINER STILL FLIES \u2014 WITH NO RETIREMENT PLAN IN SIGHT",
+    "url": "https://idrw.org/62-years-on-iafs-kiran-trainer-still-flies-with-no-retirement-plan-in-sight/",
+    "post_num": 2
+  },
+  {
+    "date": "2026-09-07",
+    "topic": "SSS DEFENCE M72 DRAWS INTEREST FROM 5 FOREIGN BUYERS",
+    "headline": "SSS DEFENCE M72 DRAWS INTEREST FROM 5 FOREIGN BUYERS",
+    "url": "https://idrw.org/sss-defence-m72-draws-interest-from-5-foreign-buyers/",
     "post_num": 3
   }
 ]
