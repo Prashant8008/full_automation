@@ -18,22 +18,48 @@ NEWS_LOG_PATH = "news-card-log.json"
 SSB_LOG_PATH = "ssb-topic-log.json"
 OUTPUT_PATH = "daily_post_plan.json"
 
-MIN_NEWS_CARDS = 3
+MIN_NEWS_CARDS = 5
 SSB_TOPICS = ["TAT", "WAT", "SRT", "PPDT", "OIR", "GTO"]
 
-DEFENCE_KEYWORDS = [
+TOPIC_KEYWORDS = [
+    # Indian & Global Defence / Military / Security
     "defence", "defense", "army", "navy", "air force", "military", "ssb",
     "missile", "drone", "exercise", "agniveer", "mod", "indigenous",
     "geopolit", "border", "iaf", "ins ", "drdo", "procurement", "current affairs",
+    "warfare", "submarine", "stealth", "fighter jet", "aircraft", "artillery",
+    "pentagon", "nato", "conflict", "security", "aerospace", "weapon",
+
+    # AI & Tech Innovations / Space / Science
+    "artificial intelligence", "ai ", "genai", "llm", "space", "isro", "nasa",
+    "satellite", "rocket", "quantum", "cyber", "semiconductor", "autonomous",
+    "robotics", "tech", "hypersonic", "deepseek", "openai", "nvidia", "meta ai",
+
+    # National / Global Economy & Strategic Affairs
+    "economy", "gdp", "trade", "inflation", "rbi", "budget", "export", "import",
+    "summit", "bilateral", "sanctions", "treaty", "foreign policy", "diplomac",
+    "explained", "infrastructure", "growth"
 ]
+DEFENCE_KEYWORDS = TOPIC_KEYWORDS
 
 # Tier 1 sources get priority selection for news cards
 TIER_1_SOURCES = {
+    # Defence & SSB
     "SSBCrack",
     "SSBCrack News",
     "ThePrint Defence",
     "PIB Defence",
     "IDRW Defence",
+    # International Defence
+    "Defense News",
+    "Breaking Defense",
+    # AI, Tech & Space
+    "TechCrunch AI",
+    "The Verge AI",
+    "SpaceNews",
+    # Economy & Current Affairs
+    "Livemint News",
+    "Indian Express Explained",
+    "Business Standard Economy",
 }
 
 
@@ -206,13 +232,14 @@ def _pick_ssb_topic(ssb_log):
     return SSB_TOPICS[len(ssb_log) % len(SSB_TOPICS)]
 
 
-def build_plan(require_new=False):
+def build_plan(require_new=False, news_only=False, news_count=None):
     import sys
     news_data = _load_json(NEWS_PATH, [])
     news_log = _load_json(NEWS_LOG_PATH, [])
     ssb_log = _load_json(SSB_LOG_PATH, [])
 
-    news_assignments = _pick_top_news(news_data, news_log, MIN_NEWS_CARDS, strict_new_only=require_new)
+    count = news_count if news_count is not None else int(os.environ.get("NEWS_COUNT", MIN_NEWS_CARDS))
+    news_assignments = _pick_top_news(news_data, news_log, count, strict_new_only=require_new)
     
     if require_new and len(news_assignments) == 0:
         empty_plan = {
@@ -229,16 +256,20 @@ def build_plan(require_new=False):
 
     ssb_topic = _pick_ssb_topic(ssb_log)
 
-    post_types = ["NewsCard"] * len(news_assignments) + ["SSBCard"]
+    if news_only:
+        post_types = ["NewsCard"] * len(news_assignments)
+        plan_desc = f"Selected {len(news_assignments)} GKToday news cards from {len(news_data)} feed items. (News Only)"
+    else:
+        post_types = ["NewsCard"] * len(news_assignments) + ["SSBCard"]
+        plan_desc = f"Selected {len(news_assignments)} GKToday news cards from {len(news_data)} feed items."
+
     plan = {
         "num_posts": len(post_types),
         "post_types": post_types,
         "news_assignments": news_assignments,
         "ssb_topic": ssb_topic,
         "has_new_content": True,
-        "reasoning": (
-            f"Selected {len(news_assignments)} GKToday news cards from {len(news_data)} feed items."
-        ),
+        "reasoning": plan_desc,
     }
 
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
@@ -253,5 +284,14 @@ if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser()
     parser.add_argument("--require-new", action="store_true", help="Only plan if fresh/unposted news is found")
+    parser.add_argument("--news-only", action="store_true", help="Only post news cards, omit SSB card")
+    parser.add_argument("--count", type=int, default=None, help="Total number of posts (e.g. 6 = 5 news + 1 SSB)")
+    parser.add_argument("--news-count", type=int, default=None, help="Number of news posts")
     args = parser.parse_args()
-    build_plan(require_new=args.require_new)
+
+    news_cnt = args.news_count
+    if news_cnt is None and args.count is not None:
+        news_cnt = max(1, args.count if args.news_only else args.count - 1)
+
+    build_plan(require_new=args.require_new, news_only=args.news_only, news_count=news_cnt)
+

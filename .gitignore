@@ -1,5 +1,7 @@
 # Sensitive files
 .env
+client_secret.json
+*.pickle
 
 # Python caching
 __pycache__/

@@ -8,11 +8,15 @@ import os
 import re
 import ssl
 import sys
+try:
+    sys.stdout.reconfigure(encoding="utf-8", line_buffering=True)
+except Exception:
+    pass
 import time
 import urllib.error
 import urllib.request
 
-from brand_utils import sanitize_brand_text
+from brand_utils import sanitize_brand_text, clean_article_text
 
 ctx = ssl.create_default_context()
 ctx.check_hostname = False
@@ -48,13 +52,13 @@ try:
 except Exception as e:
     print(f"Warning loading news-card-log.json: {e}")
 
-MODELS = ["gemini-flash-latest", "gemini-2.5-flash"]
+MODELS = ["gemini-flash-latest"]
 
 CAPTION_RULES = """
 CAPTION RULES:
-1. Third-person observer voice, inspiring and disciplined tone.
+1. Conversational and relatable tone. Speak directly to the viewer (use "you", "we").
 2. Short punchy sentences. Line breaks between ideas. Use emojis naturally.
-3. Hook in caps. End with engagement question, then 5-8 relevant hashtags.
+3. Hook in caps. Ask for the viewer's opinion early on to drive engagement. End with 5-8 relevant hashtags.
 4. No em-dashes.
 5. BRAND CTA (REQUIRED): End every caption with this exact line on its own line:
    Follow @ssb.connect for daily SSB prep & defence updates.
@@ -63,6 +67,7 @@ CAPTION RULES:
    landscape, leverages, game-changer, revolutionary, groundbreaking, empower, unlock,
    journey, ecosystem, passionate, excited to share.
 8. LOCATION (REQUIRED): Immediately below the top HOOK line, always include a location line starting with 📍, e.g. '📍 India' or specific Indian city/station (e.g. '📍 New Delhi, India', '📍 Pokhran, Rajasthan', '📍 Bengaluru, India', '📍 NDA Khadakwasla, Pune').
+9. NEVER mention or cite where the article was originally published (e.g. 'This article was originally published on...', 'Read more on...').
 """
 
 def make_call(system_p, user_p, max_t=3000):
@@ -126,6 +131,10 @@ def extract_caption_text(response, caption_key):
 
 
 def save_card_json(num, ptype, data):
+    if isinstance(data, dict):
+        for k in ("spoken_script", "headline", "header", "detail", "topic"):
+            if k in data and isinstance(data[k], str):
+                data[k] = clean_article_text(data[k])
     filename = f"./{ptype.lower()}_{num}.json"
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2)
@@ -135,27 +144,44 @@ def save_card_json(num, ptype, data):
 def generate_fallback_post(ptype, num, article=None, ssb_topic="TAT", bg="./assets/card-bg_1.jpg"):
     print(f"  [Fallback Engine] Generating post {num} ({ptype}) via structured template...")
     if ptype == "NewsCard" and article:
-        title = article.get("title", "Defence & Security Update").strip()
-        desc = article.get("description", article.get("summary", "")).strip()
+        title = clean_article_text(article.get("title", "Defence & Security Update").strip())
+        desc = clean_article_text(article.get("description", article.get("summary", "")).strip())
         clean_title = re.sub(r"<[^>]+>", "", title).replace("\n", " ")
         clean_desc = re.sub(r"<[^>]+>", "", desc).replace("\n", " ")
         if len(clean_desc) < 30:
             clean_desc = clean_title
 
+        txt_lower = f"{clean_title} {clean_desc}".lower()
+        if any(w in txt_lower for w in ("ai ", "artificial intelligence", "tech", "semiconductor", "quantum", "cyber", "robot")):
+            badge = "TECH PULSE"
+            category_tag = "TECH & AI UPDATE"
+        elif any(w in txt_lower for w in ("space", "isro", "nasa", "satellite", "orbit", "moon", "rocket")):
+            badge = "SPACE WATCH"
+            category_tag = "SPACE UPDATE"
+        elif any(w in txt_lower for w in ("economy", "gdp", "inflation", "trade", "rbi", "budget", "export")):
+            badge = "ECONOMY BRIEF"
+            category_tag = "ECONOMY UPDATE"
+        elif any(w in txt_lower for w in ("pentagon", "nato", "us navy", "global", "carrier", "conflict", "international")):
+            badge = "GLOBAL DEFENCE"
+            category_tag = "GLOBAL SECURITY"
+        else:
+            badge = "DEFENCE FLASH"
+            category_tag = "DEFENCE UPDATE"
+
         headline = clean_title.upper()[:120]
-        spoken = f"{clean_title}. {clean_desc[:140]}. Stay updated with SSB Connect for daily defence news!"
+        spoken = f"{clean_title}. {clean_desc[:140]}. Stay updated with SSB Connect for daily updates!"
         caption = (
-            f"🔴 DEFENCE UPDATE: {clean_title.upper()}\n"
+            f"🔴 {category_tag}: {clean_title.upper()}\n"
             f"📍 India\n\n"
             f"{clean_desc[:250]}\n\n"
-            f"Key takeaway: India continues to strengthen its strategic security posture.\n\n"
+            f"Key takeaway: Key strategic developments shaping national and global capabilities.\n\n"
             f"What are your thoughts on this development?\n\n"
             f"Follow @ssb.connect for daily SSB prep & defence updates.\n\n"
-            f"#IndianDefence #DefenceNews #IndianArmedForces #SSBPrep #CurrentAffairs #SSBConnect"
+            f"#CurrentAffairs #IndianDefence #GlobalAffairs #TechNews #SSBPrep #SSBConnect"
         )
         card_data = {
             "card_type": "NewsCard",
-            "badge": "DEFENCE FLASH",
+            "badge": badge,
             "headline": headline,
             "spoken_script": spoken,
             "highlight_phrases": [clean_title[:30]],
@@ -217,18 +243,21 @@ for idx, ptype in enumerate(post_types):
         news_idx += 1
         bg = article.get("background_image", f"./assets/card-bg_{num}.svg")
 
-        system_prompt = f"""You are SSB Connect's Instagram video and post creator.
+        article_title = clean_article_text(article.get('title', ''))
+        article_desc = clean_article_text(article.get('description', ''))
+
+        system_prompt = f"""You are SSB Connect's Instagram video and post creator covering Defence, Geopolitics, AI/Tech, Space, and Strategic Affairs.
 Create a NEWS CARD and REEL post grounded ONLY in the article below.
 {CAPTION_RULES}
 Also generate a 'spoken_script' for a 20-second short-form Reel video:
-- 0-3s Hook: Engaging, exciting statement.
-- 3-15s Story: 2 core facts from the article in simple spoken English.
-- 15-20s CTA: 'Follow SSB Connect for daily defence updates!'
+- 0-3s Hook: Relatable, conversational hook that speaks directly to the viewer.
+- 3-15s Story: 2 core facts from the article in simple, engaging spoken English (like talking to a friend).
+- 15-20s CTA: 'What do you think about this? Follow SSB Connect for daily updates!'
 Highlight 1-3 key phrases in the headline. Do NOT invent facts."""
 
         user_prompt = f"""Article:
-Title: {article.get('title', '')}
-Description: {article.get('description', '')}
+Title: {article_title}
+Description: {article_desc}
 Source: {article.get('source', '')}
 URL: {article.get('url', '')}
 Date: {article.get('pubDate', '')}
@@ -247,7 +276,7 @@ VISUAL LAYOUT JSON
 ```json
 {{
   "card_type": "NewsCard",
-  "badge": "DEFENCE FLASH",
+  "badge": "[Contextual badge matching the topic: DEFENCE FLASH | GLOBAL DEFENCE | TECH PULSE | AI INSIGHT | SPACE WATCH | GEO ALERT | ECONOMY BRIEF]",
   "headline": "[Full headline in ALL CAPS, max 20 words]",
   "spoken_script": "[Punchy 20-second spoken script with hook, 2 facts, and follow CTA]",
   "highlight_phrases": ["[phrase1]", "[phrase2]"],
@@ -263,9 +292,9 @@ VISUAL LAYOUT JSON
 Create one practical SSB prep post and short video script about {ssb_topic}.
 {CAPTION_RULES}
 Also generate a 'spoken_script' for a 20-second Reel video:
-- 0-3s Hook: 'Stop making this common mistake in {ssb_topic}...'
-- 3-15s Practical advice: 2 clear actionable tips with real SSB terms.
-- 15-20s CTA: 'Save this for your SSB and follow SSB Connect for daily tips.'"""
+- 0-3s Hook: 'Are you struggling with {ssb_topic}? Here is what you need to know...' or a relatable question.
+- 3-15s Practical advice: 2 clear, actionable tips delivered in a supportive, conversational tone.
+- 15-20s CTA: 'Save this for your SSB and follow SSB Connect for more tips!'"""
 
         topic_guides = {
             "TAT": "Thematic Apperception Test — how to read the picture and write a positive 8-12 line story.",

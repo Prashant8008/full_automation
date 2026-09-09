@@ -43,6 +43,33 @@ def main():
         action="store_true",
         help="Check if there is new news since last run; exit cleanly if nothing new",
     )
+    parser.add_argument(
+        "--youtube",
+        action="store_true",
+        help="Also publish to YouTube Shorts",
+    )
+    parser.add_argument(
+        "--news-only",
+        action="store_true",
+        help="Only generate and post news, excluding SSB",
+    )
+    parser.add_argument(
+        "--count",
+        type=int,
+        default=6,
+        help="Total number of posts to plan (default: 6 = 5 news + 1 SSB)",
+    )
+    parser.add_argument(
+        "--stagger-sec",
+        type=int,
+        default=300,
+        help="Seconds between each immediate post (default: 300s / 5min)",
+    )
+    parser.add_argument(
+        "--skip-telegram",
+        action="store_true",
+        help="Skip publishing to Telegram",
+    )
     args = parser.parse_args()
 
     run_all = not args.generate and not args.publish
@@ -50,17 +77,22 @@ def main():
     generate_only = args.generate and not args.publish
     delay_minutes = os.environ.get("INSTAGRAM_DELAY_MINUTES", "0")
 
-    print("🚀 STARTING INSTAGRAM PIPELINE (3 News + 1 SSB) 🚀")
+    post_count_label = f"{args.count} Posts" if args.count else "6 Posts"
+    print(f"🚀 STARTING INSTAGRAM PIPELINE ({post_count_label}) 🚀")
 
     if run_all or args.generate:
         plan_cmd = [py, "plan_daily_posts.py"]
         if args.require_new:
             plan_cmd.append("--require-new")
+        if args.news_only:
+            plan_cmd.append("--news-only")
+        if args.count:
+            plan_cmd.extend(["--count", str(args.count)])
 
         steps = [
             ([py, "fetch_ai_news_rss.py"], "Defence & Current Affairs RSS Fetch"),
             ([py, "fetch_additional_sources.py"], "Additional News Sources"),
-            (plan_cmd, "Daily Post Planning (3 News + 1 SSB)"),
+            (plan_cmd, f"Daily Post Planning ({post_count_label})"),
             ([py, "fetch_card_images.py"], "Card Background Image Fetch"),
             ([py, "generate_instagram_posts.py"], "Caption & Card JSON Generation"),
             ([py, "build_instagram_visuals.py"], "Card HTML Build & PNG Screenshot"),
@@ -105,8 +137,15 @@ def main():
         publish_cmd = [py, "publish_to_instagram.py"]
         if args.immediate or run_all:
             publish_cmd.append("--immediate")
+            if args.stagger_sec:
+                publish_cmd.extend(["--stagger-sec", str(args.stagger_sec)])
         elif delay_minutes and delay_minutes != "0":
             publish_cmd.extend(["--delay-minutes", str(delay_minutes)])
+
+
+        # Deliver to YouTube Shorts one by one
+        if getattr(args, "youtube", False) and os.path.exists("publish_to_youtube.py") and os.path.exists("youtube_token.pickle"):
+            run_command([py, "publish_to_youtube.py", "--all"], "YouTube Shorts Publishing")
 
         print("\n▶ Starting HTTP server on port 8000 for Meta API...")
         server_process = subprocess.Popen([py, "-m", "http.server", "8000"], cwd=PIPELINE_DIR)
@@ -120,9 +159,8 @@ def main():
             server_process.wait()
 
         # Optional: Deliver to Telegram if configured
-        if os.path.exists("publish_to_telegram.py") and os.environ.get("TELEGRAM_BOT_TOKEN"):
+        if not getattr(args, "skip_telegram", False) and os.path.exists("publish_to_telegram.py") and os.environ.get("TELEGRAM_BOT_TOKEN"):
             run_command([py, "publish_to_telegram.py"], "Telegram Delivery")
-
         if os.path.exists("cleanup_pipeline.py"):
             run_command([py, "cleanup_pipeline.py", "--stage", "after_publish"], "Auto-cleanup after publish")
 

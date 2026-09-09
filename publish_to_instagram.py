@@ -317,8 +317,8 @@ def publish_container(creation_id):
     return None
 
 
-# Schedule slots for up to 3 news + 1 SSB (8:00 AM, 10:00 AM, 7:00 PM, 9:00 PM IST)
-NEWS_SLOTS = [(8, 0), (10, 0), (19, 0)]
+# Schedule slots for up to 5 news + 1 SSB
+NEWS_SLOTS = [(8, 0), (10, 0), (13, 0), (16, 0), (19, 0)]
 SSB_SLOT = (21, 0)
 
 
@@ -336,10 +336,10 @@ def main():
         help="Schedule posts N minutes from now",
     )
     parser.add_argument(
-        "--stagger-minutes",
+        "--stagger-sec",
         type=int,
-        default=5,
-        help="Minutes between each post",
+        default=180,
+        help="Seconds between each immediate post (default: 180s / 3min)",
     )
     args = parser.parse_args()
 
@@ -351,8 +351,8 @@ def main():
         daily_delay = int(os.environ.get("INSTAGRAM_DELAY_MINUTES", "0")) or None
 
     print(f"--- Instagram Publishing (DRY_RUN={dry_run}) ---")
+    stagger_sec = args.stagger_sec or int(os.environ.get("IMMEDIATE_STAGGER_SEC", "180"))
     if args.immediate:
-        stagger_sec = int(os.environ.get("IMMEDIATE_STAGGER_SEC", "300"))
         print(f"Mode: publish immediately with {stagger_sec // 60}-minute ({stagger_sec}s) interval between reels")
     elif daily_delay:
         print(f"Mode: schedule starting {daily_delay} min from now ({args.stagger_minutes} min apart)")
@@ -371,8 +371,7 @@ def main():
 
         # Stagger immediate posts to avoid triggering Instagram's spam filters
         if post_idx > 0 and args.immediate and not dry_run:
-            stagger_sec = int(os.environ.get("IMMEDIATE_STAGGER_SEC", "300"))
-            print(f"\n[Anti-Spam] Sleeping for {stagger_sec} seconds before processing Post {idx+1}...")
+            print(f"\n[Anti-Spam] Sleeping for {stagger_sec} seconds ({stagger_sec // 60} mins) before processing Post {idx+1}...")
             time.sleep(stagger_sec)
         ptype = post_types[idx]
         num = idx + 1
@@ -385,10 +384,13 @@ def main():
             else f"./output/instagram-ssbcard_{num}.png"
         )
 
-        media_file = reel_mp4 if os.path.exists(reel_mp4) else card_png
-        is_reel = media_file.endswith(".mp4")
+        if ptype == "SSBCard":
+            media_file = card_png if os.path.exists(card_png) else (reel_mp4 if os.path.exists(reel_mp4) else None)
+        else:
+            media_file = reel_mp4 if os.path.exists(reel_mp4) else card_png
+        is_reel = bool(media_file and media_file.endswith(".mp4"))
 
-        if not os.path.exists(media_file):
+        if not media_file or not os.path.exists(media_file):
             print(f"Skipping post {num}: neither {reel_mp4} nor {card_png} found")
             continue
 

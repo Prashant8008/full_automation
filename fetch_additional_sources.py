@@ -53,6 +53,16 @@ RSS_SOURCES = [
     {"name": "PRS Legislative Research", "url": "https://prsindia.org/rss.xml"},
     {"name": "SSBCrack", "url": "https://www.ssbcrack.com/feed/"},
     {"name": "PIB Defence", "url": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Reg=3&Lang=1"},
+    {"name": "Defense News", "url": "https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml"},
+    {"name": "Breaking Defense", "url": "https://breakingdefense.com/feed/"},
+    {"name": "USNI News", "url": "https://news.usni.org/feed"},
+    {"name": "Naval News", "url": "https://www.navalnews.com/feed/"},
+    {"name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/"},
+    {"name": "The Verge AI", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"},
+    {"name": "SpaceNews", "url": "https://spacenews.com/feed/"},
+    {"name": "Livemint News", "url": "https://www.livemint.com/rss/news"},
+    {"name": "Indian Express Explained", "url": "https://indianexpress.com/section/explained/feed/"},
+    {"name": "Business Standard Economy", "url": "https://www.business-standard.com/rss/economy-policy-10201.rss"},
 ]
 
 # ---------------------------------------------------------------------------
@@ -98,6 +108,13 @@ def fetch_rss_source(source: dict) -> list:
         description = entry.get("summary", entry.get("description", ""))
         # Strip any HTML tags feedparser left in the summary
         description = BeautifulSoup(description, "html.parser").get_text().strip()
+        # Strip RSS boilerplates like 'This article was originally published on...', 'Read the full article on...'
+        description = re.sub(r'This article was originally published on\s+[\w\.\-]+(?:\.|\s*)?', '', description, flags=re.IGNORECASE)
+        description = re.sub(r'This article was originally published on\s*.*?(?:\. |\.\n|\n|$)', '', description, flags=re.IGNORECASE)
+        description = re.sub(r'Read the full article on\s+[^:]+:\s*.*$', '', description, flags=re.IGNORECASE)
+        description = re.sub(r'Read more at:?\s*.*$', '', description, flags=re.IGNORECASE)
+        description = re.sub(r'Read more on\s+[^:]+:\s*.*$', '', description, flags=re.IGNORECASE)
+        description = " ".join(description.split())
 
         items.append({
             "source": source["name"],

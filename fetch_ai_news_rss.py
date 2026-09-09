@@ -12,26 +12,45 @@ ctx = ssl.create_default_context()
 ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE
 
-# List of expanded defence, official, geopolitical, and SSB RSS feeds
+# List of expanded defence, AI/tech, space, economy, and geopolitical RSS feeds
 # priority=1 → Tier 1 (preferred sources for news cards)
 # priority=2 → Tier 2 (backup / supplementary sources)
 feeds = [
-    # ── TIER 1: High-quality, SSB-relevant, frequently updated ──────────────
-    {"source": "SSBCrack",            "url": "https://www.ssbcrack.com/feed/",                       "priority": 1},
-    {"source": "SSBCrack News",       "url": "https://news.ssbcrack.com/indian-defence/feed/",        "priority": 1},
-    {"source": "ThePrint Defence",    "url": "https://theprint.in/category/defence/feed/",            "priority": 1},
-    {"source": "PIB Defence",         "url": "https://pib.gov.in/Rss/DefenceReleaseRSS.aspx",        "priority": 1},
-    {"source": "IDRW Defence",        "url": "https://idrw.org/feed/",                               "priority": 1},
-    # ── TIER 2: Supplementary / geopolitical context ────────────────────────
-    {"source": "Indian Defence Review","url": "https://indiandefencereview.com/feed/",               "priority": 2},
-    {"source": "Defence.in",          "url": "https://defence.in/feed/",                             "priority": 2},
-    {"source": "Indian Defence News", "url": "https://www.indiandefensenews.in/feeds/posts/default", "priority": 2},
-    {"source": "Swarajya Defence",    "url": "https://swarajyamag.com/feed",                         "priority": 2},
-    {"source": "StratNews Global",    "url": "https://stratnewsglobal.com/feed/",                    "priority": 2},
-    {"source": "The Diplomat South Asia", "url": "https://thediplomat.com/regions/south-asia/feed/","priority": 2},
-    {"source": "ORF",                 "url": "https://www.orfonline.org/feed/",                      "priority": 2},
-    {"source": "IADN",                "url": "https://iadnews.in/feed/",                             "priority": 2},
-    {"source": "Gateway House",       "url": "https://www.gatewayhouse.in/feed/",                    "priority": 2},
+    # ── INDIAN DEFENCE & SSB (Tier 1) ──────────────────────────────────────────
+    {"source": "SSBCrack",               "url": "https://www.ssbcrack.com/feed/",                       "priority": 1},
+    {"source": "SSBCrack News",          "url": "https://news.ssbcrack.com/indian-defence/feed/",        "priority": 1},
+    {"source": "ThePrint Defence",       "url": "https://theprint.in/category/defence/feed/",            "priority": 1},
+    {"source": "PIB Defence",            "url": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Reg=3&Lang=1", "priority": 1},
+    {"source": "IDRW Defence",           "url": "https://idrw.org/feed/",                               "priority": 1},
+
+    # ── INTERNATIONAL DEFENCE & GLOBAL CONFLICT ────────────────────────────────
+    {"source": "Defense News",           "url": "https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml", "priority": 1},
+    {"source": "Breaking Defense",       "url": "https://breakingdefense.com/feed/",                    "priority": 1},
+    {"source": "USNI News",              "url": "https://news.usni.org/feed",                           "priority": 2},
+    {"source": "Naval News",             "url": "https://www.navalnews.com/feed/",                      "priority": 2},
+    {"source": "UK Defence Journal",     "url": "https://ukdefencejournal.org.uk/feed/",                 "priority": 2},
+    {"source": "The Diplomat South Asia","url": "https://thediplomat.com/regions/south-asia/feed/",    "priority": 2},
+    {"source": "Indian Defence Review",  "url": "https://indiandefencereview.com/feed/",               "priority": 2},
+    {"source": "Defence.in",             "url": "https://defence.in/feed/",                             "priority": 2},
+    {"source": "Indian Defence News",    "url": "https://www.indiandefensenews.in/feeds/posts/default", "priority": 2},
+    {"source": "Swarajya Defence",       "url": "https://swarajyamag.com/feed",                         "priority": 2},
+    {"source": "StratNews Global",       "url": "https://stratnewsglobal.com/feed/",                    "priority": 2},
+    {"source": "ORF",                    "url": "https://www.orfonline.org/feed/",                      "priority": 2},
+    {"source": "IADN",                   "url": "https://iadnews.in/feed/",                             "priority": 2},
+    {"source": "Gateway House",          "url": "https://www.gatewayhouse.in/feed/",                    "priority": 2},
+
+    # ── AI, SPACE & TECH INNOVATIONS ──────────────────────────────────────────
+    {"source": "TechCrunch AI",          "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "priority": 1},
+    {"source": "The Verge AI",           "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "priority": 1},
+    {"source": "SpaceNews",              "url": "https://spacenews.com/feed/",                          "priority": 1},
+    {"source": "MIT Technology Review",  "url": "https://www.technologyreview.com/feed/",               "priority": 2},
+    {"source": "Ars Technica",           "url": "https://feeds.arstechnica.com/arstechnica/index",       "priority": 2},
+
+    # ── ECONOMY, NATIONAL & GLOBAL AFFAIRS ────────────────────────────────────
+    {"source": "Livemint News",          "url": "https://www.livemint.com/rss/news",                     "priority": 1},
+    {"source": "Indian Express Explained","url": "https://indianexpress.com/section/explained/feed/",   "priority": 1},
+    {"source": "Business Standard Economy","url": "https://www.business-standard.com/rss/economy-policy-10201.rss", "priority": 1},
+    {"source": "BBC World",              "url": "https://feeds.bbci.co.uk/news/world/rss.xml",          "priority": 2},
 ]
 
 headers = {
@@ -105,6 +124,12 @@ def clean_html_description(desc_html):
     text_with_newlines = re.sub(r'<(?:p|br|div)[^>]*>', '\n', decoded)
     # Strip remaining HTML tags
     clean = re.sub(r'<[^>]+>', '', text_with_newlines)
+    # Strip RSS boilerplates like 'This article was originally published on...', 'Read the full article on...'
+    clean = re.sub(r'This article was originally published on\s+[\w\.\-]+(?:\.|\s*)?', '', clean, flags=re.IGNORECASE)
+    clean = re.sub(r'This article was originally published on\s*.*?(?:\. |\.\n|\n|$)', '', clean, flags=re.IGNORECASE)
+    clean = re.sub(r'Read the full article on\s+[^:]+:\s*.*$', '', clean, flags=re.IGNORECASE)
+    clean = re.sub(r'Read more at:?\s*.*$', '', clean, flags=re.IGNORECASE)
+    clean = re.sub(r'Read more on\s+[^:]+:\s*.*$', '', clean, flags=re.IGNORECASE)
     # Normalize whitespaces
     clean = re.sub(r'\s+', ' ', clean).strip()
     return clean

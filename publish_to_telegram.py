@@ -64,29 +64,38 @@ def send_telegram_video(chat_id, video_path, caption="", thumbnail_path=None):
     # Telegram caption limit is 1024 chars for media
     main_caption = caption[:1020] + "..." if len(caption) > 1024 else caption
     
-    with open(video_path, "rb") as video_file:
-        files = {"video": video_file}
-        data = {
-            "chat_id": chat_id,
-            "caption": main_caption,
-            "supports_streaming": "true"
-        }
-        try:
-            print(f"[Telegram] Uploading video: {os.path.basename(video_path)} ({os.path.getsize(video_path) / (1024*1024):.2f} MB)...")
-            res = requests.post(url, data=data, files=files, timeout=120).json()
-            if res.get("ok"):
-                print(f"✅ Video delivered successfully to Telegram chat {chat_id}!")
-                # If original caption exceeded 1024 chars, send remainder as text
-                if len(caption) > 1024:
-                    time.sleep(1)
-                    send_telegram_message(chat_id, caption[1020:])
-                return True
-            else:
-                print(f"❌ Telegram API Error: {res.get('description', res)}")
-                return False
-        except Exception as e:
-            print(f"❌ Telegram upload error: {e}")
-            return False
+    for attempt in range(1, 4):
+        with open(video_path, "rb") as video_file:
+            files = {"video": video_file}
+            data = {
+                "chat_id": chat_id,
+                "caption": main_caption,
+                "supports_streaming": "true"
+            }
+            try:
+                print(f"[Telegram] Uploading video: {os.path.basename(video_path)} ({os.path.getsize(video_path) / (1024*1024):.2f} MB) (attempt {attempt}/3)...")
+                res = requests.post(url, data=data, files=files, timeout=120).json()
+                if res.get("ok"):
+                    print(f"✅ Video delivered successfully to Telegram chat {chat_id}!")
+                    # If original caption exceeded 1024 chars, send remainder as text
+                    if len(caption) > 1024:
+                        time.sleep(1)
+                        send_telegram_message(chat_id, caption[1020:])
+                    return True
+                else:
+                    err_desc = res.get('description', str(res))
+                    print(f"❌ Telegram API Error: {err_desc}")
+                    retry_match = re.search(r"retry after (\d+)", err_desc, re.IGNORECASE)
+                    if retry_match:
+                        wait_sec = int(retry_match.group(1)) + 2
+                        print(f"⏳ Waiting {wait_sec}s before retry...")
+                        time.sleep(wait_sec)
+                    else:
+                        time.sleep(3)
+            except Exception as e:
+                print(f"❌ Telegram upload error: {e}")
+                time.sleep(3)
+    return False
 
 
 def send_telegram_photo(chat_id, photo_path, caption=""):
@@ -123,10 +132,34 @@ def publish_post_to_telegram(post_num, chat_id):
 
     # Get caption
     caption = ""
-    posts_file = "./instagram_posts_today.txt"
-    if os.path.exists(posts_file):
-        with open(posts_file, "r", encoding="utf-8") as f:
-            caption = extract_caption_for_post(f.read(), post_num)
+    posts_files = ["./instagram_posts_today.txt"]
+    import glob
+    posts_files.extend(sorted(glob.glob("./instagram_posts_*.txt"), reverse=True))
+
+    for pf in posts_files:
+        if os.path.exists(pf):
+            try:
+                with open(pf, "r", encoding="utf-8") as f:
+                    cap = extract_caption_for_post(f.read(), post_num)
+                    if cap:
+                        caption = cap
+                        break
+            except Exception:
+                pass
+
+    if not caption and os.path.exists("daily_post_plan.json"):
+        try:
+            with open("daily_post_plan.json", "r", encoding="utf-8") as f:
+                p_data = json.load(f)
+                news = p_data.get("news_assignments", [])
+                if 0 <= idx < len(news):
+                    n_item = news[idx]
+                    caption = f"🔴 {n_item.get('title', '')}\n\n{n_item.get('description', '')}\n\nFollow @ssb.connect for daily updates!"
+        except Exception:
+            pass
+
+    from brand_utils import clean_article_text
+    caption = clean_article_text(caption)
 
     # Check for reel first, then fallback to static card
     reel_mp4 = f"./output/reel_{post_num}.mp4"

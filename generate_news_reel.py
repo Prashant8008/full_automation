@@ -5,7 +5,7 @@ import asyncio
 import subprocess
 import re
 import math
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFont, ImageFilter
 import imageio_ffmpeg
 import edge_tts
 
@@ -170,7 +170,7 @@ async def generate_voiceover_and_subtitles(
 
     # Build ASS Subtitles
     create_ass_file(boundaries, duration, ass_out)
-    return duration
+    return duration, boundaries
 
 
 def get_media_duration(file_path):
@@ -206,8 +206,8 @@ ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: HormoziYellow, Impact, 68, &H0000FFFF, &H000000FF, &H00000000, &H80000000, -1, 0, 0, 0, 100, 100, 1, 0, 1, 6, 4, 2, 60, 60, 420, 1
-Style: HormoziWhite, Impact, 68, &H00FFFFFF, &H000000FF, &H00000000, &H80000000, -1, 0, 0, 0, 100, 100, 1, 0, 1, 6, 4, 2, 60, 60, 420, 1
+Style: HormoziYellow, Impact, 68, &H0000FFFF, &H000000FF, &H00000000, &H80000000, -1, 0, 0, 0, 100, 100, 1, 0, 1, 6, 4, 2, 60, 60, 760, 1
+Style: HormoziWhite, Impact, 68, &H00FFFFFF, &H000000FF, &H00000000, &H80000000, -1, 0, 0, 0, 100, 100, 1, 0, 1, 6, 4, 2, 60, 60, 760, 1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -261,7 +261,7 @@ def build_news_reel(
     1. Synthesizes voiceover + subtitles
     2. Builds 9:16 Ken Burns zoom video from image
     3. Overlays aesthetic news header & glowing subtitles
-    4. Renders ready-to-publish 1080x1920 Instagram Reel
+    4. Renders ready-to-publish 1080x1920 Instagram Reel with expressive synced stickman mascot
     """
     os.makedirs(os.path.dirname(output_video) or ".", exist_ok=True)
     temp_dir = "temp_reel"
@@ -276,7 +276,7 @@ def build_news_reel(
     print(f"🎙️ Synthesizing Voiceover with {voice}...")
     
     # 1. Generate Voiceover + Subtitles
-    duration = asyncio.run(
+    duration, boundaries = asyncio.run(
         generate_voiceover_and_subtitles(
             script_text,
             voice=voice,
@@ -289,24 +289,9 @@ def build_news_reel(
     total_frames = int(total_duration * 30)
     print(f"⏱️ Video Duration: {total_duration:.1f}s ({total_frames} frames)")
 
-    # 2. Select & Prepare Background Image
-    fallback_assets = [
-        "assets/defence_soldiers.png",
-        "assets/defence_jet.png",
-        "assets/defence_navy.png",
-        "assets/defence_tank.png",
-        "assets/defence_drone.png"
-    ]
-    
-    valid_bg = None
-    if image_path and os.path.exists(image_path) and not image_path.lower().endswith(".svg"):
-        valid_bg = image_path
-    else:
-        for a in fallback_assets:
-            if os.path.exists(a):
-                valid_bg = a
-                break
-
+    # 2. Select & Prepare Background Image (Smart Keyword Matching & Dynamic Rotation)
+    valid_bg = get_smart_background(headline=headline, badge_text=badge_text, image_path=image_path)
+    print(f"🖼️ Using Background Image: {valid_bg}")
     prep_background_image(valid_bg, prepared_bg)
 
     # 3. Create News Graphic Overlay
@@ -319,37 +304,77 @@ def build_news_reel(
     )
 
     # 4. Render Video via FFmpeg
-    print("🎥 Rendering 1080x1920 Reel via FFmpeg...")
+    print("🎥 Rendering 1080x1920 Reel via FFmpeg (30 FPS)...")
     escaped_ass = escape_ffmpeg_path(ass_file)
     escaped_overlay = overlay_file.replace("\\", "/")
 
-    # Filter graph:
-    # 1. Ken Burns slow zoom on background
-    # 2. Overlay the top badge/gradient overlay PNG
-    # 3. Burn in ASS dynamic subtitles
-    filter_complex = (
-        f"[0:v]zoompan=z='min(zoom+0.0006,1.15)':d={total_frames}:x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':s=1080x1920:fps=30[bg];"
-        f"[bg][1:v]overlay=0:0[v_over];"
-        f"[v_over]ass='{escaped_ass}'[v_out]"
-    )
+    has_stickman = (os.path.exists("assets/stickman.png") or os.path.exists("assets/stickman_parts/original_trans.png")) and os.environ.get("ENABLE_STICKMAN", "true").lower() in ("true", "1", "yes")
 
-    cmd = [
-        FFMPEG_EXE, "-y",
-        "-loop", "1", "-i", prepared_bg,
-        "-i", overlay_file,
-        "-i", audio_file,
-        "-filter_complex", filter_complex,
-        "-map", "[v_out]",
-        "-map", "2:a",
-        "-c:v", "libx264",
-        "-preset", "fast",
-        "-crf", "22",
-        "-pix_fmt", "yuv420p",
-        "-c:a", "aac",
-        "-b:a", "192k",
-        "-t", str(total_duration),
-        output_video
-    ]
+    if has_stickman:
+        from stickman_animator import generate_stickman_video_overlay
+        stickman_pos = os.environ.get("STICKMAN_POS", "center").lower()
+        if stickman_pos == "center":
+            x_expr = "(W-w)/2"
+        elif stickman_pos == "left":
+            x_expr = "0"
+        else:
+            x_expr = "W-w"
+        stickman_mov = os.path.join(temp_dir, "stickman_overlay.mov")
+        
+        generate_stickman_video_overlay(
+            total_duration=total_duration,
+            boundaries=boundaries,
+            fps=30,
+            output_mov=stickman_mov
+        )
+
+        filter_complex = (
+            f"[0:v]zoompan=z='min(zoom+0.0006,1.15)':d={total_frames}:x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':s=1080x1920:fps=30[bg];"
+            f"[bg][3:v]overlay=x={x_expr}:y=H-h:shortest=1[bg_stickman];"
+            f"[bg_stickman][1:v]overlay=0:0[v_over];"
+            f"[v_over]ass='{escaped_ass}'[v_out]"
+        )
+        cmd = [
+            FFMPEG_EXE, "-y",
+            "-loop", "1", "-i", prepared_bg,
+            "-i", overlay_file,
+            "-i", audio_file,
+            "-i", stickman_mov,
+            "-filter_complex", filter_complex,
+            "-map", "[v_out]",
+            "-map", "2:a",
+            "-c:v", "libx264",
+            "-preset", "fast",
+            "-crf", "22",
+            "-pix_fmt", "yuv420p",
+            "-c:a", "aac",
+            "-b:a", "192k",
+            "-t", str(total_duration),
+            output_video
+        ]
+    else:
+        filter_complex = (
+            f"[0:v]zoompan=z='min(zoom+0.0006,1.15)':d={total_frames}:x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':s=1080x1920:fps=30[bg];"
+            f"[bg][1:v]overlay=0:0[v_over];"
+            f"[v_over]ass='{escaped_ass}'[v_out]"
+        )
+        cmd = [
+            FFMPEG_EXE, "-y",
+            "-loop", "1", "-i", prepared_bg,
+            "-i", overlay_file,
+            "-i", audio_file,
+            "-filter_complex", filter_complex,
+            "-map", "[v_out]",
+            "-map", "2:a",
+            "-c:v", "libx264",
+            "-preset", "fast",
+            "-crf", "22",
+            "-pix_fmt", "yuv420p",
+            "-c:a", "aac",
+            "-b:a", "192k",
+            "-t", str(total_duration),
+            output_video
+        ]
 
     res = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
     if res.returncode != 0:
@@ -360,10 +385,84 @@ def build_news_reel(
     return output_video
 
 
+def get_smart_background(headline="", badge_text="", image_path=None):
+    """
+    Intelligently selects the best background image:
+    1. Uses the real downloaded news article image if available (e.g. card-bg_1.jpg)
+    2. Matches keywords in headline/badge to relevant defence assets (jets, naval ships, drones, tanks)
+    3. Dynamically rotates available assets so consecutive posts are varied.
+    """
+    import re
+
+    # 1. Use real article image if valid
+    if image_path and os.path.exists(image_path) and not image_path.lower().endswith(".svg"):
+        return image_path
+
+    text = f"{headline} {badge_text}".lower()
+
+    def has_word(keywords, s):
+        pattern = r"\b(" + "|".join(re.escape(k) for k in keywords) + r")\b"
+        return bool(re.search(pattern, s, re.IGNORECASE))
+
+    # 2. Topic/Keyword Based Selection
+    if has_word(["navy", "ship", "sea", "ocean", "submarine", "maritime", "inhs", "naval", "commodore"], text):
+        if os.path.exists("assets/defence_navy.png"):
+            return "assets/defence_navy.png"
+
+    if has_word(["jet", "air force", "iaf", "fighter", "aircraft", "missile", "drdo", "aviation", "flight", "aerial"], text):
+        if os.path.exists("assets/defence_jet.png"):
+            return "assets/defence_jet.png"
+
+    if has_word(["tank", "tanks", "armour", "artillery", "border", "bsf", "patrol", "combat", "strike", "exercise"], text):
+        if os.path.exists("assets/defence_tank.png"):
+            return "assets/defence_tank.png"
+
+    if has_word(["drone", "drones", "uav", "tech", "ai", "cyber", "radar", "satellite", "quantum", "digital", "technology"], text):
+        if os.path.exists("assets/defence_drone.png"):
+            return "assets/defence_drone.png"
+
+    # 3. Dynamic rotation based on headline hash to ensure variety
+    available_assets = [
+        "assets/defence_jet.png",
+        "assets/defence_tank.png",
+        "assets/defence_drone.png",
+        "assets/defence_navy.png",
+        "assets/defence_soldiers.png"
+    ]
+    existing = [a for a in available_assets if os.path.exists(a)]
+    if existing:
+        idx = abs(hash(headline)) % len(existing)
+        return existing[idx]
+
+    return "assets/defence_soldiers.png"
+
+
+def is_capable_of_full_cover(img, target_w=1080, target_h=1920, max_crop_loss=0.20):
+    """
+    Checks if an image is capable of covering the full 9:16 portrait frame
+    without cutting off major portions (>20% width/height).
+    - True: Portrait/vertical images (aspect ratio <= ~0.72).
+    - False: Landscape/square images (16:9, 4:3, 1:1, etc.).
+    """
+    if img is None:
+        return False
+    iw, ih = img.size
+    if ih == 0:
+        return False
+    img_ratio = iw / ih
+    target_ratio = target_w / target_h  # 1080 / 1920 = 0.5625
+    
+    # If the aspect ratio is within acceptable portrait tolerance
+    return img_ratio <= (target_ratio * (1.0 + max_crop_loss * 1.5))
+
+
 def prep_background_image(src_path, dst_path, target_w=1080, target_h=1920):
     """
-    Ensures input image fills the 1080x1920 frame perfectly.
-    If image is horizontal (e.g. 16:9), it scales with center crop.
+    Prepares background image for 1080x1920 Reel video:
+    - If image is portrait / capable of covering full page: scales and center-crops to 1080x1920.
+    - If image is landscape / square (cannot cover without cutting off subject):
+      fits full original image at 1080 width centered vertically, with a stylish
+      blurred & darkened background fill (preserving 100% of subject uncropped).
     """
     img = None
     if src_path and os.path.exists(src_path):
@@ -382,31 +481,54 @@ def prep_background_image(src_path, dst_path, target_w=1080, target_h=1920):
                     pass
 
     if img is None:
-        # Create gradient image fallback
         img = Image.new("RGB", (target_w, target_h), (15, 23, 42))
 
     iw, ih = img.size
-    
-    # Calculate aspect ratios
     target_ratio = target_w / target_h
     img_ratio = iw / ih
 
-    if img_ratio > target_ratio:
-        # Wider than 9:16: scale by height, crop sides
-        new_h = target_h
-        new_w = int(new_h * img_ratio)
-    else:
-        # Taller than 9:16: scale by width, crop top/bottom
-        new_w = target_w
-        new_h = int(new_w / img_ratio)
+    if is_capable_of_full_cover(img, target_w, target_h):
+        # Portrait image: full-screen fill & crop
+        if img_ratio > target_ratio:
+            new_h = target_h
+            new_w = int(new_h * img_ratio)
+        else:
+            new_w = target_w
+            new_h = int(new_w / img_ratio)
 
-    img_resized = img.resize((new_w, new_h), Image.Resampling.LANCZOS)
-    
-    # Center crop to 1080x1920
-    left = (new_w - target_w) // 2
-    top = (new_h - target_h) // 2
-    img_cropped = img_resized.crop((left, top, left + target_w, top + target_h))
-    img_cropped.save(dst_path, "PNG")
+        img_resized = img.resize((new_w, new_h), Image.Resampling.LANCZOS)
+        left = (new_w - target_w) // 2
+        top = (new_h - target_h) // 2
+        final_img = img_resized.crop((left, top, left + target_w, top + target_h))
+    else:
+        # Landscape / Square image: Keep full original aspect ratio uncropped in center
+        # 1. Create blurred & darkened background from the image
+        bg_scale_h = target_h
+        bg_scale_w = int(bg_scale_h * img_ratio)
+        bg_resized = img.resize((bg_scale_w, bg_scale_h), Image.Resampling.BILINEAR)
+        bg_left = (bg_scale_w - target_w) // 2
+        bg_crop = bg_resized.crop((bg_left, 0, bg_left + target_w, target_h))
+        
+        # Heavy Gaussian blur + dark cinematic tint for background
+        blurred_bg = bg_crop.filter(ImageFilter.GaussianBlur(radius=45))
+        dark_overlay = Image.new("RGB", (target_w, target_h), (8, 12, 22))
+        final_img = Image.blend(blurred_bg, dark_overlay, alpha=0.60)
+        
+        # 2. Fit original foreground image to full 1080 width
+        fg_w = target_w
+        fg_h = int(fg_w / img_ratio)
+        if fg_h > target_h:
+            fg_h = target_h
+            fg_w = int(fg_h * img_ratio)
+            
+        fg_resized = img.resize((fg_w, fg_h), Image.Resampling.LANCZOS)
+        
+        # Paste centered vertically
+        paste_x = (target_w - fg_w) // 2
+        paste_y = (target_h - fg_h) // 2
+        final_img.paste(fg_resized, (paste_x, paste_y))
+
+    final_img.save(dst_path, "PNG")
 
 
 def render_all_daily_reels():
@@ -425,6 +547,9 @@ def render_all_daily_reels():
     rendered = []
     for idx, ptype in enumerate(post_types):
         num = idx + 1
+        if ptype != "NewsCard":
+            print(f"ℹ️ Post {num} is {ptype} (Infographic Image Card) — skipping Reel video render.")
+            continue
         prefix = "newscard" if ptype == "NewsCard" else "ssbcard"
         json_file = f"{prefix}_{num}.json"
         

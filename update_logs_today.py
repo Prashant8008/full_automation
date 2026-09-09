@@ -5,6 +5,12 @@ Logs news card topics and SSB topics to prevent repetition.
 import datetime
 import json
 import os
+import sys
+
+try:
+    sys.stdout.reconfigure(encoding="utf-8")
+except Exception:
+    pass
 
 post_types = []
 plan = {}

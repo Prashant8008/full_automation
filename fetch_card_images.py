@@ -72,18 +72,31 @@ def _download_image(image_url, dest_path):
         return False
 
 
-def _write_placeholder(dest_path, label="NEWS"):
+def _write_placeholder(dest_path, label="SSB"):
     os.makedirs(os.path.dirname(dest_path) or ".", exist_ok=True)
-    svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080">
+    svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="430" viewBox="0 0 1080 430">
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0f172a"/>
-      <stop offset="100%" stop-color="#1e3a5f"/>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#09101d"/>
+      <stop offset="50%" stop-color="#111c30"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="badgeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#84cc16"/>
+      <stop offset="100%" stop-color="#eab308"/>
     </linearGradient>
   </defs>
-  <rect width="1080" height="1080" fill="url(#g)"/>
-  <text x="540" y="520" text-anchor="middle" fill="#84CC16" font-size="72" font-family="Arial Black, sans-serif">{label}</text>
-  <text x="540" y="600" text-anchor="middle" fill="#94a3b8" font-size="36" font-family="Arial, sans-serif">@ssb.connect</text>
+  <rect width="1080" height="430" fill="url(#bgGrad)"/>
+  <rect width="1080" height="430" fill="url(#grid)"/>
+  <circle cx="540" cy="180" r="110" fill="none" stroke="rgba(132, 204, 22, 0.15)" stroke-width="3"/>
+  <circle cx="540" cy="180" r="80" fill="rgba(132, 204, 22, 0.08)"/>
+  <!-- Star emblem -->
+  <polygon points="540,120 558,165 605,165 567,192 582,235 540,208 498,235 513,192 475,165 522,165" fill="#facc15"/>
+  <text x="540" y="295" text-anchor="middle" fill="url(#badgeGrad)" font-size="44" font-weight="900" font-family="'Arial Black', Impact, sans-serif" letter-spacing="4">SSB PREPARATION MASTERCLASS</text>
+  <text x="540" y="345" text-anchor="middle" fill="#94a3b8" font-size="24" font-weight="700" font-family="Arial, sans-serif" letter-spacing="2">TACTICAL INSIGHTS &amp; OFFICER LIKE QUALITIES</text>
 </svg>"""
     with open(dest_path, "w", encoding="utf-8") as f:
         f.write(svg)
