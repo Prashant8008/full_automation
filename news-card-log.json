@@ -1,41 +1,6 @@
 [
   {
     "date": "2026-09-06",
-    "topic": "INDIAN ARMY ELIMINATES PAKISTANI TERRORIST INVOLVED IN 2024 ATTACKS IN BUDGAM",
-    "headline": "INDIAN ARMY ELIMINATES PAKISTANI TERRORIST INVOLVED IN 2024 ATTACKS IN BUDGAM",
-    "url": "https://idrw.org/terrorist-slain-in-budgam-a-pakistani-national-was-involved-in-2024-attacks/",
-    "post_num": 5
-  },
-  {
-    "date": "2026-09-06",
-    "topic": "ASTRA MICROWAVE EXPANDS COUNTER-UAV PORTFOLIO WITH \u201cELECTROMAGNETIC WALL\u201d CONCEPT",
-    "headline": "ASTRA MICROWAVE EXPANDS COUNTER-UAV PORTFOLIO WITH \u201cELECTROMAGNETIC WALL\u201d CONCEPT",
-    "url": "https://idrw.org/astra-microwave-expands-counter-uav-portfolio-with-electromagnetic-wall-concept/",
-    "post_num": 1
-  },
-  {
-    "date": "2026-09-06",
-    "topic": "COULD AN INDIAN DRONE MAKER BECOME INDIA\u2019S BAYKAR? MAPPING THE TRAJECTORY",
-    "headline": "COULD AN INDIAN DRONE MAKER BECOME INDIA\u2019S BAYKAR? MAPPING THE TRAJECTORY",
-    "url": "https://idrw.org/could-an-indian-drone-maker-become-indias-baykar-mapping-the-trajectory/",
-    "post_num": 2
-  },
-  {
-    "date": "2026-09-06",
-    "topic": "INDIA TARGETS $5 BILLION BRAHMOS EXPORT EMPIRE AS SIX MORE NATIONS QUEUE UP",
-    "headline": "INDIA TARGETS $5 BILLION BRAHMOS EXPORT EMPIRE AS SIX MORE NATIONS QUEUE UP",
-    "url": "https://idrw.org/how-india-can-sell-more-brahmos-the-roadmap-to-a-5-billion-missile-export-empire/",
-    "post_num": 3
-  },
-  {
-    "date": "2026-09-06",
-    "topic": "\u2018GHOST PALTAN\u2019: THE KARGIL-ERA STORY BEHIND THE HAUNTING \u201cHUM SHIKARI, DUSHMAN HAI SHIKAR\u201d IMAGE",
-    "headline": "\u2018GHOST PALTAN\u2019: THE KARGIL-ERA STORY BEHIND THE HAUNTING \u201cHUM SHIKARI, DUSHMAN HAI SHIKAR\u201d IMAGE",
-    "url": "https://idrw.org/ghost-paltan-the-kargil-era-story-behind-the-haunting-hum-shikari-dushman-hai-shikar-image/",
-    "post_num": 4
-  },
-  {
-    "date": "2026-09-06",
     "topic": "SU-57 BECOMES MOTHERSHIP FOR STEALTH DRONES",
     "headline": "SU-57 BECOMES MOTHERSHIP FOR STEALTH DRONES",
     "url": "https://idrw.org/su-57-becomes-mothership-for-stealth-drones/",
@@ -417,6 +382,41 @@
     "topic": "GLOBAL FINTECH FEST 2026: PHONEPE BECOMES FIRST APP TO ENABLE VISA'S TOKENISATION, TAP TO PAY AND CROSS-BORDER PAYMENTS",
     "headline": "GLOBAL FINTECH FEST 2026: PHONEPE BECOMES FIRST APP TO ENABLE VISA'S TOKENISATION, TAP TO PAY AND CROSS-BORDER PAYMENTS",
     "url": "https://www.livemint.com/news/india/global-fintech-fest-2026-phonepe-brings-visas-device-tokenisation-tap-to-pay-and-cross-border-payment-solutions-11788955307317.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-09-10",
+    "topic": "US A-10 WARTHOG AND F-15 FIGHTER JETS DAMAGED IN OVERNIGHT IRANIAN STRIKES IN JORDAN",
+    "headline": "US A-10 WARTHOG AND F-15 FIGHTER JETS DAMAGED IN OVERNIGHT IRANIAN STRIKES IN JORDAN",
+    "url": "https://www.livemint.com/news/us-news/usiran-war-us-aircraft-warthog-and-f-15s-suffer-damage-in-overnight-iranian-strikes-in-jordan-says-report-11789005320235.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-09-10",
+    "topic": "FIRST TURKEY \u2018SECRET\u2019 SWITCH, NOW \u2018ACCIDENTAL\u2019 SLIDE DEPLOYMENT: WHAT HAPPENED AT TRUMP'S QATARI AIR FORCE ONE",
+    "headline": "FIRST TURKEY \u2018SECRET\u2019 SWITCH, NOW \u2018ACCIDENTAL\u2019 SLIDE DEPLOYMENT: WHAT HAPPENED AT TRUMP'S QATARI AIR FORCE ONE",
+    "url": "https://www.livemint.com/news/us-news/first-turkey-secret-switch-now-accidental-emergency-slide-deployment-what-happened-trump-qatari-air-force-one-11789003027147.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-09-10",
+    "topic": "BRIGADIER SHISHIR BHARDWAJ HONOURED FOR LEADERSHIP IN UN PEACEKEEPING MISSION IN SOUTH SUDAN",
+    "headline": "BRIGADIER SHISHIR BHARDWAJ HONOURED FOR LEADERSHIP IN UN PEACEKEEPING MISSION IN SOUTH SUDAN",
+    "url": "https://www.ssbcrack.com/2026/09/brigadier-shishir-bhardwaj-honoured-for-leadership-in-un-peacekeeping-mission-in-south-sudan.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-09-10",
+    "topic": "INS ANGRE ORGANISES BLOOD DONATION CAMP AHEAD OF 75TH ANNIVERSARY, OVER 50 PERSONNEL DONATE BLOOD",
+    "headline": "INS ANGRE ORGANISES BLOOD DONATION CAMP AHEAD OF 75TH ANNIVERSARY, OVER 50 PERSONNEL DONATE BLOOD",
+    "url": "https://www.ssbcrack.com/2026/09/ins-angre-organises-blood-donation-camp-ahead-of-75th-anniversary-over-50-personnel-donate-blood.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-09-10",
+    "topic": "HAVILDAR ROHIT CHOUDHARY OF JAK LI ADJUDGED BEST STUDENT AT JUNIOR LEADERS ACADEMY BAREILLY",
+    "headline": "HAVILDAR ROHIT CHOUDHARY OF JAK LI ADJUDGED BEST STUDENT AT JUNIOR LEADERS ACADEMY BAREILLY",
+    "url": "https://www.ssbcrack.com/2026/09/havildar-rohit-choudhary-of-jak-li-adjudged-best-student-at-junior-leaders-academy-bareilly.html",
     "post_num": 5
   }
 ]
