@@ -1,41 +1,6 @@
 [
   {
     "date": "2026-09-07",
-    "topic": "CSIR-NAL PROPOSES JET PLATFORM FOR ARMY EXPLORING PERSONAL VERTICAL-LIFT SYSTEMS",
-    "headline": "CSIR-NAL PROPOSES JET PLATFORM FOR ARMY EXPLORING PERSONAL VERTICAL-LIFT SYSTEMS",
-    "url": "https://idrw.org/csir-nals-jet-platform-for-army-could-india-be-exploring-a-personal-vertical-lift-system/",
-    "post_num": 5
-  },
-  {
-    "date": "2026-09-07",
-    "topic": "INDIA TO UPGRADE SU-30MKI FLEET TO FIRE 300 KM-RANGE R-37M VERY LONG-RANGE AIR-TO-AIR MISSILES",
-    "headline": "INDIA TO UPGRADE SU-30MKI FLEET TO FIRE 300 KM-RANGE R-37M VERY LONG-RANGE AIR-TO-AIR MISSILES",
-    "url": "https://idrw.org/india-to-upgrade-su-30mki-fleet-to-fire-300-km-range-r-37m-very-long-range-air-to-air-missiles/",
-    "post_num": 1
-  },
-  {
-    "date": "2026-09-07",
-    "topic": "INDIA EYES SMALL NUCLEAR REACTORS FOR ANDAMAN ISLANDS TO POWER FUTURE MILITARY INSTALLATION",
-    "headline": "INDIA EYES SMALL NUCLEAR REACTORS FOR ANDAMAN ISLANDS TO POWER FUTURE MILITARY INSTALLATION",
-    "url": "https://idrw.org/india-eyes-small-nuclear-reactors-for-andaman-islands-to-power-future-military-installation/",
-    "post_num": 2
-  },
-  {
-    "date": "2026-09-07",
-    "topic": "FIVE JAPANESE F-2 FIGHTERS HAVE STOPOVER IN THAILAND ON THEIR WAY TO INDIA",
-    "headline": "FIVE JAPANESE F-2 FIGHTERS HAVE STOPOVER IN THAILAND ON THEIR WAY TO INDIA",
-    "url": "https://idrw.org/five-japanese-f-2-fighters-have-stopover-in-thailand-on-their-way-to-india/",
-    "post_num": 3
-  },
-  {
-    "date": "2026-09-07",
-    "topic": "ISRO REMAINS A GOVERNMENT ORGANISATION, SAYS CHAIRMAN V NARAYANAN",
-    "headline": "ISRO REMAINS A GOVERNMENT ORGANISATION, SAYS CHAIRMAN V NARAYANAN",
-    "url": "https://idrw.org/isro-remains-a-government-organisation-says-chairman-v-narayanan/",
-    "post_num": 4
-  },
-  {
-    "date": "2026-09-07",
     "topic": "INDIAN WOMAN ALLEGES RUSSIAN POLICE DETAINED HUSBAND, SOUGHT HIS RECRUITMENT INTO ARMY",
     "headline": "INDIAN WOMAN ALLEGES RUSSIAN POLICE DETAINED HUSBAND, SOUGHT HIS RECRUITMENT INTO ARMY",
     "url": "https://idrw.org/indian-woman-alleges-russian-police-detained-husband-sought-his-recruitment-into-army/",
@@ -417,6 +382,41 @@
     "topic": "FM CALLS FOR AI SAFEGUARDS TO KEEP PACE WITH RAPID TECHNOLOGY EVOLUTION",
     "headline": "FM CALLS FOR AI SAFEGUARDS TO KEEP PACE WITH RAPID TECHNOLOGY EVOLUTION",
     "url": "https://www.business-standard.com/economy/news/fm-calls-for-ai-safeguards-to-keep-pace-with-rapid-technology-evolution-126091101246_1.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-09-12",
+    "topic": "PM MODI MEETS MALAYSIA\u2019S IBRAHIM, ETHIOPIA\u2019S AHMED ON SIDELINES OF BRICS SUMMIT",
+    "headline": "PM MODI MEETS MALAYSIA\u2019S IBRAHIM, ETHIOPIA\u2019S AHMED ON SIDELINES OF BRICS SUMMIT",
+    "url": "https://www.livemint.com/news/pm-modi-meets-malaysia-s-ibrahim-ethiopia-s-ahmed-on-sidelines-of-brics-summit-xi-jinping-putin-new-delhi-11789191850977.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-09-12",
+    "topic": "CHINA SOUTHERN ANNOUNCES INDIA FLIGHT RESUMPTION AFTER SIX-YEAR HIATUS AHEAD OF XI JINPING'S BRICS VISIT",
+    "headline": "CHINA SOUTHERN ANNOUNCES INDIA FLIGHT RESUMPTION AFTER SIX-YEAR HIATUS AHEAD OF XI JINPING'S BRICS VISIT",
+    "url": "https://www.livemint.com/news/world/china-southern-announces-india-flight-resumption-after-six-year-hiatus-ahead-of-xi-jinpings-brics-visit-11789189703863.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-09-12",
+    "topic": "GOOD NEWS FOR SOCIAL SECURITY BENEFICIARIES? 2027 COLA COULD SEE A 3.5%-3.6% INCREASE, GROUPS ESTIMATE",
+    "headline": "GOOD NEWS FOR SOCIAL SECURITY BENEFICIARIES? 2027 COLA COULD SEE A 3.5%-3.6% INCREASE, GROUPS ESTIMATE",
+    "url": "https://www.livemint.com/news/us-news/good-news-for-social-security-beneficiaries-2027-cola-could-see-a-3-5-3-6-increase-groups-estimate-11789184276533.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-09-12",
+    "topic": "FROM WORLD'S BIGGEST LNG EXPORTER TO IMPORTER: HOW IRAN WAR, HORMUZ CLOSURE FORCED QATAR TO TURN TO US GAS",
+    "headline": "FROM WORLD'S BIGGEST LNG EXPORTER TO IMPORTER: HOW IRAN WAR, HORMUZ CLOSURE FORCED QATAR TO TURN TO US GAS",
+    "url": "https://www.livemint.com/news/world/from-world-biggest-lng-exporter-to-importer-how-iran-war-strait-of-hormuz-closure-forced-qatar-to-turn-to-us-gas-11789180853376.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-09-12",
+    "topic": "US, INDIA JOIN HANDS TO STRENGTHEN SECURITY OF UNDERSEA CABLE NETWORKS",
+    "headline": "US, INDIA JOIN HANDS TO STRENGTHEN SECURITY OF UNDERSEA CABLE NETWORKS",
+    "url": "https://www.business-standard.com/economy/news/us-india-join-hands-to-strengthen-security-of-undersea-cable-networks-126091200066_1.html",
     "post_num": 5
   }
 ]
