@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-09-08",
-    "topic": "IAF SEEKS PROTECTED MEMORY MODULES AND ELECTRONIC BOARDS FOR MIRAGE FLEET IN FRESH SPARES TENDER",
-    "headline": "IAF SEEKS PROTECTED MEMORY MODULES AND ELECTRONIC BOARDS FOR MIRAGE FLEET IN FRESH SPARES TENDER",
-    "url": "https://idrw.org/iaf-seeks-protected-memory-modules-and-electronic-boards-for-mirage-fleet-in-fresh-spares-tender/",
-    "post_num": 1
-  },
-  {
-    "date": "2026-09-08",
-    "topic": "AMCA MK-III: HOW INDIA\u2019S INDIGENOUS STEALTH FIGHTER COULD EVOLVE INTO A SIXTH-GENERATION COMBAT PLATFORM",
-    "headline": "AMCA MK-III: HOW INDIA\u2019S INDIGENOUS STEALTH FIGHTER COULD EVOLVE INTO A SIXTH-GENERATION COMBAT PLATFORM",
-    "url": "https://idrw.org/amca-mk-iii-how-indias-indigenous-stealth-fighter-could-evolve-into-a-sixth-generation-combat-platform/",
-    "post_num": 2
-  },
-  {
-    "date": "2026-09-08",
-    "topic": "INDIA DEFENCE MINISTRY DENIES LINK TO ESTONIA AMMUNITION DEAL AND INDIAN FIRM",
-    "headline": "INDIA DEFENCE MINISTRY DENIES LINK TO ESTONIA AMMUNITION DEAL AND INDIAN FIRM",
-    "url": "https://idrw.org/india-defence-ministry-denies-link-to-estonia-ammunition-deal-and-indian-firm/",
-    "post_num": 3
-  },
-  {
-    "date": "2026-09-08",
-    "topic": "IIT BOMBAY\u2019S DEXA AUV WINS AT ROBOSUB 2026, CALIFORNIA",
-    "headline": "IIT BOMBAY\u2019S DEXA AUV WINS AT ROBOSUB 2026, CALIFORNIA",
-    "url": "https://idrw.org/iit-bombays-dexa-auv-wins-at-robosub-2026-california/",
-    "post_num": 4
-  },
-  {
-    "date": "2026-09-08",
-    "topic": "ANDURIL TO INTEGRATE LATTICE AI INTO QUARTERHORSE MK 2 HIGH-SPEED DRONE",
-    "headline": "ANDURIL TO INTEGRATE LATTICE AI INTO QUARTERHORSE MK 2 HIGH-SPEED DRONE",
-    "url": "https://idrw.org/anduril-to-integrate-lattice-ai-into-quarterhorse-mk-2-high-speed-drone/",
-    "post_num": 5
-  },
-  {
     "date": "2026-09-09",
     "topic": "BOEING T-7 RED HAWK MAY JOIN IAF RACE TO SUPPLY 150 TRAINER JETS",
     "headline": "BOEING T-7 RED HAWK MAY JOIN IAF RACE TO SUPPLY 150 TRAINER JETS",
@@ -417,6 +382,41 @@
     "topic": "INDIAN ANALYST CALLS SU-30MKI PROGRAMME A FAILURE",
     "headline": "INDIAN ANALYST CALLS SU-30MKI PROGRAMME A FAILURE",
     "url": "https://idrw.org/indian-analyst-calls-su-30mki-programme-a-failure/",
+    "post_num": 5
+  },
+  {
+    "date": "2026-09-13",
+    "topic": "TABLES TURN AS IAF PILOTS ARE NOW DEPLOYED TO TRAIN BRITAIN'S ROYAL AIR FORCE",
+    "headline": "TABLES TURN AS IAF PILOTS ARE NOW DEPLOYED TO TRAIN BRITAIN'S ROYAL AIR FORCE",
+    "url": "https://www.livemint.com/news/india/britain-once-trained-indias-air-force-why-are-iaf-pilots-now-training-raf-pilots-11789313614198.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-09-13",
+    "topic": "TECHIE CHOOSES HYDERABAD OVER GURUGRAM AS JOB LOCATION, CALLS GURGAON 1 OF \u20185 SISTERS OF AGONY\u2019: SOCIAL MEDIA REACTS",
+    "headline": "TECHIE CHOOSES HYDERABAD OVER GURUGRAM AS JOB LOCATION, CALLS GURGAON 1 OF \u20185 SISTERS OF AGONY\u2019: SOCIAL MEDIA REACTS",
+    "url": "https://www.livemint.com/news/trends/techie-chooses-hyderabad-over-gurugram-as-job-location-calls-gurgaon-1-of-5-sisters-of-agony-social-media-reacts-11789312423529.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-09-13",
+    "topic": "BISCUITVILLE, TINY SOUTHERN BREAKFAST CHAIN, BEATS MCDONALD\u2019S AND CHICK-FIL-A FOR AMERICA\u2019S TOP BREAKFAST SPOT",
+    "headline": "BISCUITVILLE, TINY SOUTHERN BREAKFAST CHAIN, BEATS MCDONALD\u2019S AND CHICK-FIL-A FOR AMERICA\u2019S TOP BREAKFAST SPOT",
+    "url": "https://www.livemint.com/news/trends/biscuitville-tiny-southern-breakfast-chain-beats-mcdonald-s-and-chick-fil-a-for-america-s-top-breakfast-spot-11789307508682.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-09-13",
+    "topic": "SCOTLAND, WALES AND NORTHERN IRELAND UNITE OVER THE UK\u2019S FUTURE | WILL BURNHAM BE THE LAST PM OF THE UNION? EXPLAINED",
+    "headline": "SCOTLAND, WALES AND NORTHERN IRELAND UNITE OVER THE UK\u2019S FUTURE | WILL BURNHAM BE THE LAST PM OF THE UNION? EXPLAINED",
+    "url": "https://www.livemint.com/news/world/scotland-wales-and-northern-ireland-unite-over-the-uk-s-future-will-burnham-be-the-last-pm-of-the-union-explained-11789299860842.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-09-13",
+    "topic": "FROM EARLY STRUGGLES AT SAMSUNG AND SALESFORCE TO CRACKING GOOGLE WITH SHEER WILLPOWER",
+    "headline": "FROM EARLY STRUGGLES AT SAMSUNG AND SALESFORCE TO CRACKING GOOGLE WITH SHEER WILLPOWER",
+    "url": "https://www.livemint.com/news/trends/from-samsung-to-salesforce-then-cracking-job-at-google-inside-iitians-journey-of-his-will-to-prove-it-to-himse-11789302161025.html",
     "post_num": 5
   }
 ]
