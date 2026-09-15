@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-09-09",
-    "topic": "INDIA'S GOODS EXPORTS RISE OVER 15% IN APRIL-AUGUST: PIYUSH GOYAL",
-    "headline": "INDIA'S GOODS EXPORTS RISE OVER 15% IN APRIL-AUGUST: PIYUSH GOYAL",
-    "url": "https://www.business-standard.com/economy/news/india-s-goods-exports-rise-over-15-in-april-august-piyush-goyal-126090901700_1.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-09-09",
-    "topic": "COAL INDIA STEPS UP OUTPUT, SUPPLIES TO POWER PLANTS AS RAINS SUBSIDE",
-    "headline": "COAL INDIA STEPS UP OUTPUT, SUPPLIES TO POWER PLANTS AS RAINS SUBSIDE",
-    "url": "https://www.livemint.com/news/coal-indias-average-daily-production-up-40-led-by-recovery-in-northern-coalfields-operations-power-generation-demand-11788966909521.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-09-09",
-    "topic": "CHATGPT 1980S PHOTO TREND: WHAT HAPPENS TO YOUR PICTURE AFTER YOU UPLOAD IT?",
-    "headline": "CHATGPT 1980S PHOTO TREND: WHAT HAPPENS TO YOUR PICTURE AFTER YOU UPLOAD IT?",
-    "url": "https://www.livemint.com/news/trends/chatgpt-1980s-photo-trend-what-happens-to-your-picture-after-you-upload-it-11788963514823.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-09-09",
-    "topic": "MONSOON TO REMAIN ACTIVE ACROSS INDIA THROUGH 15 SEPTEMBER",
-    "headline": "MONSOON TO REMAIN ACTIVE ACROSS INDIA THROUGH 15 SEPTEMBER",
-    "url": "https://www.livemint.com/news/monsoon-to-remain-active-across-india-through-15-september-rainfall-showers-11788951511928.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-09-09",
-    "topic": "GLOBAL FINTECH FEST 2026: PHONEPE BECOMES FIRST APP TO ENABLE VISA'S TOKENISATION, TAP TO PAY AND CROSS-BORDER PAYMENTS",
-    "headline": "GLOBAL FINTECH FEST 2026: PHONEPE BECOMES FIRST APP TO ENABLE VISA'S TOKENISATION, TAP TO PAY AND CROSS-BORDER PAYMENTS",
-    "url": "https://www.livemint.com/news/india/global-fintech-fest-2026-phonepe-brings-visas-device-tokenisation-tap-to-pay-and-cross-border-payment-solutions-11788955307317.html",
-    "post_num": 5
-  },
-  {
     "date": "2026-09-10",
     "topic": "US A-10 WARTHOG AND F-15 FIGHTER JETS DAMAGED IN OVERNIGHT IRANIAN STRIKES IN JORDAN",
     "headline": "US A-10 WARTHOG AND F-15 FIGHTER JETS DAMAGED IN OVERNIGHT IRANIAN STRIKES IN JORDAN",
@@ -417,6 +382,41 @@
     "topic": "CGHS MAPS DOMESTIC MANUFACTURING CAPACITY FOR 153 CRITICAL DRUGS TO SHORTEN SUPPLY DELAYS",
     "headline": "CGHS MAPS DOMESTIC MANUFACTURING CAPACITY FOR 153 CRITICAL DRUGS TO SHORTEN SUPPLY DELAYS",
     "url": "https://www.livemint.com/news/cghs-domestic-manufacturing-capacity-153-critical-drugs-supply-delays-oncology-diabetes-muscular-atrophy-patients-11789378837821.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-09-15",
+    "topic": "UPI SETS CHARGES FOR MERCHANT PAYMENTS ABOVE \u20b92,000, CAPS FEE AT \u20b9300",
+    "headline": "UPI SETS CHARGES FOR MERCHANT PAYMENTS ABOVE \u20b92,000, CAPS FEE AT \u20b9300",
+    "url": "https://www.livemint.com/news/upi-sets-charges-for-merchant-payments-above-2-000-caps-fee-at-300-11789482097465.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-09-15",
+    "topic": "FOOD INFLATION UNLIKELY TO PERSIST THROUGH YEAR-END: CEA NAGESWARAN",
+    "headline": "FOOD INFLATION UNLIKELY TO PERSIST THROUGH YEAR-END: CEA NAGESWARAN",
+    "url": "https://www.business-standard.com/economy/news/high-food-inflation-seen-in-august-unlikely-to-persist-cea-nageswaran-126091501311_1.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-09-15",
+    "topic": "TELANGANA TOPS INDIA'S INFLATION TABLE FOR EIGHTH CONSECUTIVE MONTH",
+    "headline": "TELANGANA TOPS INDIA'S INFLATION TABLE FOR EIGHTH CONSECUTIVE MONTH",
+    "url": "https://www.business-standard.com/economy/news/telangana-tops-india-s-inflation-table-for-eighth-consecutive-month-126091501293_1.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-09-15",
+    "topic": "\u2018STRONG DOLLAR IS NOT A PRICE ON A SCREEN\u2019: BESSENT DEFENDS US CURRENCY AS GLOBAL TRANSACTIONS RISE",
+    "headline": "\u2018STRONG DOLLAR IS NOT A PRICE ON A SCREEN\u2019: BESSENT DEFENDS US CURRENCY AS GLOBAL TRANSACTIONS RISE",
+    "url": "https://www.livemint.com/news/us-news/strong-dollar-is-not-a-price-on-a-screen-bessent-defends-us-currency-as-global-transactions-rise-11789484954700.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-09-15",
+    "topic": "CLARITY ACT COULD OVERHAUL US CRYPTO, STABLECOIN RULES: WHAT THE BILL CHANGES AND WHY IT MATTERS | EXPLAINED",
+    "headline": "CLARITY ACT COULD OVERHAUL US CRYPTO, STABLECOIN RULES: WHAT THE BILL CHANGES AND WHY IT MATTERS | EXPLAINED",
+    "url": "https://www.livemint.com/news/us-news/clarity-act-could-overhaul-us-crypto-stablecoin-rules-what-the-bill-changes-and-why-it-matters-explained-11789480447808.html",
     "post_num": 5
   }
 ]
