@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-09-10",
-    "topic": "OIL CROSSES $105 A BARREL AS WEST ASIA HOSTILITIES ESCALATE",
-    "headline": "OIL CROSSES $105 A BARREL AS WEST ASIA HOSTILITIES ESCALATE",
-    "url": "https://www.livemint.com/news/crude-oil-price-brent-crude-oil-prices-today-11789055228294.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-09-10",
-    "topic": "GOYAL CALLS FOR PUSH TO BOOST INDIA-RUSSIA TRADE TO $100 BILLION BY 2030",
-    "headline": "GOYAL CALLS FOR PUSH TO BOOST INDIA-RUSSIA TRADE TO $100 BILLION BY 2030",
-    "url": "https://www.livemint.com/news/goyal-calls-for-push-to-boost-india-russia-trade-to-100-billion-by-2030-export-11789048930438.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-09-10",
-    "topic": "HISTORIC 11TH-CENTURY EMBROIDERY DEPICTING 1066 NORMAN CONQUEST GOES ON DISPLAY AT THE BRITISH MUSEUM",
-    "headline": "HISTORIC 11TH-CENTURY EMBROIDERY DEPICTING 1066 NORMAN CONQUEST GOES ON DISPLAY AT THE BRITISH MUSEUM",
-    "url": "https://www.livemint.com/news/world/the-bayeux-tapestry-5-reasons-why-seeing-11th-century-artwork-at-british-museum-is-a-historic-experience-11789046765813.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-09-10",
-    "topic": "MCD SEALS 56 JEWELLERY SHOPS IN CHANDNI CHOWK WITH GOLD WORTH CRORES LOCKED INSIDE",
-    "headline": "MCD SEALS 56 JEWELLERY SHOPS IN CHANDNI CHOWK WITH GOLD WORTH CRORES LOCKED INSIDE",
-    "url": "https://www.livemint.com/news/india/gold-silver-worth-crores-locked-inside-here-s-why-mcd-sealed-dozens-of-jewellery-shops-in-chandni-chowk-delhi-11789042712355.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-09-10",
-    "topic": "US SENATORS URGE TRUMP ADMINISTRATION TO ACT AGAINST 3 INDIA-BASED CYBER FIRMS OVER DATA THEFT ALLEGATIONS",
-    "headline": "US SENATORS URGE TRUMP ADMINISTRATION TO ACT AGAINST 3 INDIA-BASED CYBER FIRMS OVER DATA THEFT ALLEGATIONS",
-    "url": "https://www.livemint.com/news/us-senators-urge-trump-administration-to-act-against-3-india-based-cyber-firms-over-data-theft-allegations-11789036247831.html",
-    "post_num": 5
-  },
-  {
     "date": "2026-09-11",
     "topic": "OMCS' MARGINS TO COME UNDER PRESSURE WITH CRUDE ABOVE $100 PER BARREL: RPT",
     "headline": "OMCS' MARGINS TO COME UNDER PRESSURE WITH CRUDE ABOVE $100 PER BARREL: RPT",
@@ -417,6 +382,41 @@
     "topic": "ANTI-DEFECTION LAW EXPLAINED: WHY IS IT IN FOCUS AGAIN AND WHAT HAS KAPIL SIBAL PROPOSED?",
     "headline": "ANTI-DEFECTION LAW EXPLAINED: WHY IS IT IN FOCUS AGAIN AND WHAT HAS KAPIL SIBAL PROPOSED?",
     "url": "https://www.livemint.com/news/india/antidefection-law-explained-why-is-it-in-focus-again-and-what-has-kapil-sibal-proposed-dipke-cjp-das-11789527609515.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-09-16",
+    "topic": "NITI AAYOG VC PITCHES FOR EXPORT DIVERSIFICATION TO BEAT EXTERNAL HEADWINDS",
+    "headline": "NITI AAYOG VC PITCHES FOR EXPORT DIVERSIFICATION TO BEAT EXTERNAL HEADWINDS",
+    "url": "https://www.livemint.com/news/india/niti-aayog-vc-pitches-for-export-diversification-to-beat-external-headwinds-11789573688445.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-09-16",
+    "topic": "CENTRE LOOKS TO WIDEN TRUSTED-TRADER PROGRAMME BEYOND CUSTOMS FACILITATION",
+    "headline": "CENTRE LOOKS TO WIDEN TRUSTED-TRADER PROGRAMME BEYOND CUSTOMS FACILITATION",
+    "url": "https://www.livemint.com/news/india/centre-looks-to-widen-trusted-trader-programme-beyond-customs-facilitation-11789568110009.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-09-16",
+    "topic": "SOCIAL SECURITY SEPTEMBER 16 PAYMENT: WHO GETS PAID TODAY, AND 2027 COLA FORECAST",
+    "headline": "SOCIAL SECURITY SEPTEMBER 16 PAYMENT: WHO GETS PAID TODAY, AND 2027 COLA FORECAST",
+    "url": "https://www.livemint.com/news/us-news/social-security-september-16-payment-who-gets-paid-today-and-2027-cola-forecast-11789573494396.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-09-16",
+    "topic": "US PLANS TO DELIVER POWERFUL WEAPONS TO ISRAEL IN $2.8 BILLION SALE: WHAT\u2019S IN THE PACKAGE AND WHAT IT MEANS",
+    "headline": "US PLANS TO DELIVER POWERFUL WEAPONS TO ISRAEL IN $2.8 BILLION SALE: WHAT\u2019S IN THE PACKAGE AND WHAT IT MEANS",
+    "url": "https://www.livemint.com/news/us-news/us-plans-to-deliver-powerful-weapons-to-israel-in-2-8-billion-sale-what-s-in-the-package-and-what-it-means-11789569530965.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-09-16",
+    "topic": "CBIC PLANS WIDER AI USE, UNIFIED PORTAL TO EASE CUSTOMS COMPLIANCE COSTS",
+    "headline": "CBIC PLANS WIDER AI USE, UNIFIED PORTAL TO EASE CUSTOMS COMPLIANCE COSTS",
+    "url": "https://www.business-standard.com/economy/news/cbic-plans-wider-ai-use-unified-portal-to-ease-customs-compliance-costs-126091600982_1.html",
     "post_num": 5
   }
 ]
