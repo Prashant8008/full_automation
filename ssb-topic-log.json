@@ -1,11 +1,6 @@
 [
   {
     "date": "2026-09-05",
-    "topic": "TAT",
-    "post_num": 6
-  },
-  {
-    "date": "2026-09-05",
     "topic": "WAT",
     "post_num": 6
   },
@@ -147,6 +142,11 @@
   {
     "date": "2026-09-15",
     "topic": "OIR",
+    "post_num": 6
+  },
+  {
+    "date": "2026-09-16",
+    "topic": "TAT",
     "post_num": 6
   }
 ]
