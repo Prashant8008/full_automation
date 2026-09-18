@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-09-12",
-    "topic": "MITCH MCCONNEL TO RETURN TO US SENATE NEXT WEEK AFTER HEALTH ISSUES? WHAT REPUBLICAN LEADER'S OFFICE REVEALED",
-    "headline": "MITCH MCCONNEL TO RETURN TO US SENATE NEXT WEEK AFTER HEALTH ISSUES? WHAT REPUBLICAN LEADER'S OFFICE REVEALED",
-    "url": "https://www.livemint.com/news/us-news/mitch-mcconnel-to-return-to-us-senate-next-week-after-health-issues-what-republican-leaders-office-revealed-11789220668820.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-09-12",
-    "topic": "BRICS ISSUES JOINT STATEMENT CALLING FOR RESTRAINT AND DE-ESCALATION IN WEST ASIA",
-    "headline": "BRICS ISSUES JOINT STATEMENT CALLING FOR RESTRAINT AND DE-ESCALATION IN WEST ASIA",
-    "url": "https://www.livemint.com/news/brics-urges-restraint-over-west-asia-conflict-produces-joint-statement-on-first-day-of-leadership-summit-11789221921047.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-09-12",
-    "topic": "BRICS DECLARATION EYES DEEPER COOPERATION ON SUSTAINABLE TRANSPORT SYSTEMS",
-    "headline": "BRICS DECLARATION EYES DEEPER COOPERATION ON SUSTAINABLE TRANSPORT SYSTEMS",
-    "url": "https://www.business-standard.com/economy/news/brics-declaration-eyes-deeper-cooperation-on-sustainable-transport-systems-126091200856_1.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-09-12",
-    "topic": "BRICS LEADERS STRENGTHEN AUDIT AND STATISTICS TIES AND ENDORSE SAI WORK PLAN 2027-2028",
-    "headline": "BRICS LEADERS STRENGTHEN AUDIT AND STATISTICS TIES AND ENDORSE SAI WORK PLAN 2027-2028",
-    "url": "https://www.business-standard.com/economy/news/brics-leaders-deepen-audit-statistics-ties-endorse-sai-work-plan-126091200837_1.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-09-12",
-    "topic": "BRICS NEW DELHI DECLARATION: 10 KEY TAKEAWAYS ON UN REFORM, GLOBAL TRADE, GAZA, AI AND PAHALGAM TERROR ATTACK",
-    "headline": "BRICS NEW DELHI DECLARATION: 10 KEY TAKEAWAYS ON UN REFORM, GLOBAL TRADE, GAZA, AI AND PAHALGAM TERROR ATTACK",
-    "url": "https://www.livemint.com/news/india/brics-new-delhi-declaration-10-key-takeaways-on-un-reform-global-trade-gaza-ai-and-terrorism-modi-xi-jinping-11789213133947.html",
-    "post_num": 5
-  },
-  {
     "date": "2026-09-13",
     "topic": "\u20b993,290 A MONTH IN GURUGRAM: TECHIE BREAKS DOWN RENT, CAR, FOOD AND LIFESTYLE EXPENSES",
     "headline": "\u20b993,290 A MONTH IN GURUGRAM: TECHIE BREAKS DOWN RENT, CAR, FOOD AND LIFESTYLE EXPENSES",
@@ -417,6 +382,41 @@
     "topic": "INDIA REMAINS NET STEEL IMPORTER FOR FIFTH STRAIGHT MONTH IN AUGUST",
     "headline": "INDIA REMAINS NET STEEL IMPORTER FOR FIFTH STRAIGHT MONTH IN AUGUST",
     "url": "https://www.livemint.com/news/india-steel-imports-exports-finished-steel-steel-trade-joint-plant-committee-jpc-bigmint-dhruv-goel-11789658068084.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-09-18",
+    "topic": "ASIAN GAMES 2026: SPORTS MINISTRY REACHES OUT TO INDIAN DIASPORA AMID ACCOMMODATION CRISIS IN NAGOYA",
+    "headline": "ASIAN GAMES 2026: SPORTS MINISTRY REACHES OUT TO INDIAN DIASPORA AMID ACCOMMODATION CRISIS IN NAGOYA",
+    "url": "https://www.livemint.com/news/india/asian-games-2026-sports-ministry-reaches-out-to-indian-diaspora-amid-accommodation-crisis-in-nagoya-11789744884314.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-09-18",
+    "topic": "SOCIAL SECURITY BECOMES SENATE ELECTION FLASHPOINT: 81% OF VOTERS PREFER CANDIDATES WHO PROMISE TO PREVENT BENEFIT CUTS",
+    "headline": "SOCIAL SECURITY BECOMES SENATE ELECTION FLASHPOINT: 81% OF VOTERS PREFER CANDIDATES WHO PROMISE TO PREVENT BENEFIT CUTS",
+    "url": "https://www.livemint.com/news/us-news/social-security-is-critical-issue-for-voters-in-key-us-senate-races-what-survey-says-11789742936639.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-09-18",
+    "topic": "EUROPEAN AGE-VERIFICATION APP FOR CHILDREN: WHAT IS IT, HOW DOES IT WORK & HOW DOES IT DIFFER FROM AUSTRALIA? EXPLAINED",
+    "headline": "EUROPEAN AGE-VERIFICATION APP FOR CHILDREN: WHAT IS IT, HOW DOES IT WORK & HOW DOES IT DIFFER FROM AUSTRALIA? EXPLAINED",
+    "url": "https://www.livemint.com/news/world/european-age-verification-app-for-children-what-is-it-how-does-it-work-how-does-it-differ-from-australia-explai-11789740914984.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-09-18",
+    "topic": "MACRON WARNS OF GROWING RUSSIAN THREAT: HOW \u2018HYBRID ATTACKS\u2019 ARE TARGETING EUROPE",
+    "headline": "MACRON WARNS OF GROWING RUSSIAN THREAT: HOW \u2018HYBRID ATTACKS\u2019 ARE TARGETING EUROPE",
+    "url": "https://www.livemint.com/news/world/macron-warns-of-growing-russian-threat-how-hybrid-attacks-are-targeting-europe-11789741049350.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-09-18",
+    "topic": "INDIA REJECTS PAKISTAN'S ALLEGATIONS OVER SHIP COLLISION IN ARABIAN SEA: \u2018PNS HUNAIN CONDUCTED IN UNACCEPTABLE MANNER'",
+    "headline": "INDIA REJECTS PAKISTAN'S ALLEGATIONS OVER SHIP COLLISION IN ARABIAN SEA: \u2018PNS HUNAIN CONDUCTED IN UNACCEPTABLE MANNER'",
+    "url": "https://www.livemint.com/news/india/india-rejects-pakistans-allegations-over-collision-in-arabian-sea-pns-hunain-conducted-in-unacceptable-manner-11789735316641.html",
     "post_num": 5
   }
 ]
