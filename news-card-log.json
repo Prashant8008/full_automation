@@ -1,41 +1,6 @@
 [
   {
     "date": "2026-09-13",
-    "topic": "\u20b993,290 A MONTH IN GURUGRAM: TECHIE BREAKS DOWN RENT, CAR, FOOD AND LIFESTYLE EXPENSES",
-    "headline": "\u20b993,290 A MONTH IN GURUGRAM: TECHIE BREAKS DOWN RENT, CAR, FOOD AND LIFESTYLE EXPENSES",
-    "url": "https://www.livemint.com/news/trends/93290-a-month-in-gurugram-techie-breaks-down-rent-car-food-and-lifestyle-expenses-11789274196503.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-09-13",
-    "topic": "TRESPASSER STOPPED OUTSIDE EX V-P KAMALA HARRIS' MALIBU RESIDENCE, YEAR AFTER TRUMP REVOKED SECRET SERVICE PROTECTION",
-    "headline": "TRESPASSER STOPPED OUTSIDE EX V-P KAMALA HARRIS' MALIBU RESIDENCE, YEAR AFTER TRUMP REVOKED SECRET SERVICE PROTECTION",
-    "url": "https://www.livemint.com/news/us-news/trespasser-stopped-outside-ex-v-p-kamala-harris-malibu-residence-year-after-trump-revoked-secret-service-protection-11789266296772.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-09-13",
-    "topic": "INDIAN MAN WHO ILLEGALLY ENTERED US STALKED SHALINI THAKUR, \u2018FIRED AT HER': CHILLING DETAILS OF CALIFORNIA MURDER EMERGE",
-    "headline": "INDIAN MAN WHO ILLEGALLY ENTERED US STALKED SHALINI THAKUR, \u2018FIRED AT HER': CHILLING DETAILS OF CALIFORNIA MURDER EMERGE",
-    "url": "https://www.livemint.com/news/us-news/chilling-details-of-california-murder-emerge-indian-man-who-illegally-entered-us-stalked-shalini-thakur-fired-at-her-11789264359371.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-09-13",
-    "topic": "US MEDIA HIGHLIGHTS BRICS SUMMIT AS A SIGN OF SHIFTING GLOBAL POWER DYNAMICS",
-    "headline": "US MEDIA HIGHLIGHTS BRICS SUMMIT AS A SIGN OF SHIFTING GLOBAL POWER DYNAMICS",
-    "url": "https://idrw.org/us-media-highlights-brics-summit-as-a-sign-of-shifting-global-power-dynamics/",
-    "post_num": 4
-  },
-  {
-    "date": "2026-09-13",
-    "topic": "INDIAN ANALYST CALLS SU-30MKI PROGRAMME A FAILURE",
-    "headline": "INDIAN ANALYST CALLS SU-30MKI PROGRAMME A FAILURE",
-    "url": "https://idrw.org/indian-analyst-calls-su-30mki-programme-a-failure/",
-    "post_num": 5
-  },
-  {
-    "date": "2026-09-13",
     "topic": "TABLES TURN AS IAF PILOTS ARE NOW DEPLOYED TO TRAIN BRITAIN'S ROYAL AIR FORCE",
     "headline": "TABLES TURN AS IAF PILOTS ARE NOW DEPLOYED TO TRAIN BRITAIN'S ROYAL AIR FORCE",
     "url": "https://www.livemint.com/news/india/britain-once-trained-indias-air-force-why-are-iaf-pilots-now-training-raf-pilots-11789313614198.html",
@@ -417,6 +382,41 @@
     "topic": "INDIA REJECTS PAKISTAN'S ALLEGATIONS OVER SHIP COLLISION IN ARABIAN SEA: \u2018PNS HUNAIN CONDUCTED IN UNACCEPTABLE MANNER'",
     "headline": "INDIA REJECTS PAKISTAN'S ALLEGATIONS OVER SHIP COLLISION IN ARABIAN SEA: \u2018PNS HUNAIN CONDUCTED IN UNACCEPTABLE MANNER'",
     "url": "https://www.livemint.com/news/india/india-rejects-pakistans-allegations-over-collision-in-arabian-sea-pns-hunain-conducted-in-unacceptable-manner-11789735316641.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-09-19",
+    "topic": "INDIA\u2019S SOFTWARE EXPORTS RISE 8.2% TO $221.4 BILLION IN FY26, US SHARE GROWS",
+    "headline": "INDIA\u2019S SOFTWARE EXPORTS RISE 8.2% TO $221.4 BILLION IN FY26, US SHARE GROWS",
+    "url": "https://www.livemint.com/news/india-software-exports-it-software-services-rbi-survey-ites-bpo-software-products-us-europe-11789753733461.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-09-19",
+    "topic": "TTD NEWS: WHO IS KAILASH CHAND MANGLAM? ED ARRESTS SUPPLIER IN TIRUPATI LADDU GHEE ADULTERATION CASE",
+    "headline": "TTD NEWS: WHO IS KAILASH CHAND MANGLAM? ED ARRESTS SUPPLIER IN TIRUPATI LADDU GHEE ADULTERATION CASE",
+    "url": "https://www.livemint.com/news/india/ttd-news-who-is-kailash-chand-manglam-ed-arrests-supplier-in-tirupati-laddu-ghee-adulteration-case-11789797565844.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-09-19",
+    "topic": "\u2018MOVING TOWARDS AATMANIRBHARTA\u2019: RAJNATH SINGH AS HAL DELIVERS TEJAS, DHRUV NG \u2014 ALL ABOUT THESE INDIGENOUS AIRCRAFT",
+    "headline": "\u2018MOVING TOWARDS AATMANIRBHARTA\u2019: RAJNATH SINGH AS HAL DELIVERS TEJAS, DHRUV NG \u2014 ALL ABOUT THESE INDIGENOUS AIRCRAFT",
+    "url": "https://www.livemint.com/news/india/moving-towards-aatmanirbharta-rajnath-singh-as-hal-delivers-tejas-dhruv-ng-all-about-these-indigenous-aircraft-11789791450910.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-09-19",
+    "topic": "\u2018WILL FOREVER HAVE COMPLETE ABILITY TO DO WHAT IS NECESSARY IN GREENLAND\u2019 \u2014 TRUMP ANNOUNCES US-DENMARK DEAL",
+    "headline": "\u2018WILL FOREVER HAVE COMPLETE ABILITY TO DO WHAT IS NECESSARY IN GREENLAND\u2019 \u2014 TRUMP ANNOUNCES US-DENMARK DEAL",
+    "url": "https://www.livemint.com/news/us-news/will-forever-have-complete-ability-to-do-what-is-necessary-in-greenland-trump-announces-us-denmark-deal-11789781824701.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-09-19",
+    "topic": "HTT-40 OFFICIALLY NAMED \u2018ANKUR\u2019 AS IAF DELIVERIES BEGIN",
+    "headline": "HTT-40 OFFICIALLY NAMED \u2018ANKUR\u2019 AS IAF DELIVERIES BEGIN",
+    "url": "https://idrw.org/htt-40-officially-named-ankur-as-iaf-deliveries-begin/",
     "post_num": 5
   }
 ]
