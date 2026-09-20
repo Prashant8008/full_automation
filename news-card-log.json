@@ -1,41 +1,6 @@
 [
   {
     "date": "2026-09-14",
-    "topic": "AUGUST WPI INFLATION RISES TO 9.92% AS FUEL AND POWER INFLATION SURGES TO 22.93%",
-    "headline": "AUGUST WPI INFLATION RISES TO 9.92% AS FUEL AND POWER INFLATION SURGES TO 22.93%",
-    "url": "https://www.business-standard.com/economy/news/august-wpi-inflation-edges-up-to-9-92-as-fuel-prices-stay-elevated-126091400244_1.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-09-14",
-    "topic": "KARGIL VETERAN ASSAULTED IN GURUGRAM: PARKING STAFF ALLEGEDLY HIT 'OP SAFED SAGAR' HERO WITH IRON ROD",
-    "headline": "KARGIL VETERAN ASSAULTED IN GURUGRAM: PARKING STAFF ALLEGEDLY HIT 'OP SAFED SAGAR' HERO WITH IRON ROD",
-    "url": "https://www.livemint.com/news/india/kargil-veteran-assaulted-in-gurugram-parking-staff-allegedly-hit-op-safed-sagar-hero-with-iron-rod-11789363628748.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-09-14",
-    "topic": "FROM MISSING APPLE INTERNSHIP TO JOINING REVOLUT: MEET ENGINEERING STUDENT WHO LANDED \u20b94.5 LAKH MONTHLY OPPORTUNITY",
-    "headline": "FROM MISSING APPLE INTERNSHIP TO JOINING REVOLUT: MEET ENGINEERING STUDENT WHO LANDED \u20b94.5 LAKH MONTHLY OPPORTUNITY",
-    "url": "https://www.livemint.com/news/trends/from-missing-apple-internship-to-joining-revolut-meet-engineering-student-who-landed-4-5-lakh-monthly-opportunity-11789356552584.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-09-14",
-    "topic": "WEEKLY POLICY WATCH: RETAIL, WHOLESALE INFLATION DATA IN FOCUS THIS WEEK",
-    "headline": "WEEKLY POLICY WATCH: RETAIL, WHOLESALE INFLATION DATA IN FOCUS THIS WEEK",
-    "url": "https://www.business-standard.com/economy/news/policy-cpi-wpi-wholesale-retail-inflation-india-economy-forex-reserves-126091400188_1.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-09-14",
-    "topic": "DELHI ON IMD'S ALERT AS CITY BRACES FOR RAINY SEASON'S LAST FEW WET SPELLS \u2014 MONSOON TO WITHDRAW SOON",
-    "headline": "DELHI ON IMD'S ALERT AS CITY BRACES FOR RAINY SEASON'S LAST FEW WET SPELLS \u2014 MONSOON TO WITHDRAW SOON",
-    "url": "https://www.livemint.com/news/india/delhi-on-imds-alert-as-city-braces-for-rainy-seasons-last-few-wet-spells-monsoon-to-withdraw-soon-11789350604360.html",
-    "post_num": 5
-  },
-  {
-    "date": "2026-09-14",
     "topic": "INDIA, SOUTH AMERICAN BLOC MERCOSUR ANNOUNCE PLAN TO EXPAND TRADE PACT",
     "headline": "INDIA, SOUTH AMERICAN BLOC MERCOSUR ANNOUNCE PLAN TO EXPAND TRADE PACT",
     "url": "https://www.livemint.com/news/india/india-south-american-bloc-mercosur-announce-plan-to-expand-trade-pact-11789403133176.html",
@@ -417,6 +382,41 @@
     "topic": "UPI PAYMENTS: WILL PETROL PUMPS STOP ACCEPTING AMOUNTS ABOVE \u20b92,000? NITHIN KAMATH WARNS OF IMPACT ON STOCKBROKERS",
     "headline": "UPI PAYMENTS: WILL PETROL PUMPS STOP ACCEPTING AMOUNTS ABOVE \u20b92,000? NITHIN KAMATH WARNS OF IMPACT ON STOCKBROKERS",
     "url": "https://www.livemint.com/news/india/upi-mdr-will-petrol-pumps-stop-accepting-payments-above-2-000-nithin-kamath-warns-of-impact-on-stockbrokers-11789814622254.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-09-20",
+    "topic": "IRAN WAR: TEHRAN SETS 7 TERMS TO RENEW US TALKS \u2014 WHAT ARE THE DEMANDS? WILL US STRIKE AGAINST HOUTHIS? WHAT WE KNOW",
+    "headline": "IRAN WAR: TEHRAN SETS 7 TERMS TO RENEW US TALKS \u2014 WHAT ARE THE DEMANDS? WILL US STRIKE AGAINST HOUTHIS? WHAT WE KNOW",
+    "url": "https://www.livemint.com/news/world/iran-war-tehran-sets-7-terms-to-renew-us-talks-what-are-the-demands-will-us-strike-against-houthis-what-we-know-11789880465957.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-09-20",
+    "topic": "MUMBAI MAN'S VIDEO ON \u2018RARE\u2019 WORKPLACE PRAISE GOES VIRAL: \u2018HEALS 10 DAYS OF OVERTHINKING\u2019",
+    "headline": "MUMBAI MAN'S VIDEO ON \u2018RARE\u2019 WORKPLACE PRAISE GOES VIRAL: \u2018HEALS 10 DAYS OF OVERTHINKING\u2019",
+    "url": "https://www.livemint.com/news/trends/mumbai-mans-video-on-rare-workplace-praise-goes-viral-heals-10-days-of-overthinking-11789878334761.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-09-20",
+    "topic": "\u2018IRAN WAR COSTS US $45.1 BILLION\u2019, SURPASSING PENTAGON\u2019S $38 BILLION ESTIMATE: REPORT",
+    "headline": "\u2018IRAN WAR COSTS US $45.1 BILLION\u2019, SURPASSING PENTAGON\u2019S $38 BILLION ESTIMATE: REPORT",
+    "url": "https://www.livemint.com/news/us-news/iran-war-costs-us-45-1-billion-surpassing-pentagon-s-38-billion-estimate-report-11789874700989.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-09-20",
+    "topic": "SSB AND ARUNACHAL PRADESH POLICE SEIZE 325.5 KG OF SUSPECTED CANNABIS IN WEST KAMENG",
+    "headline": "SSB AND ARUNACHAL PRADESH POLICE SEIZE 325.5 KG OF SUSPECTED CANNABIS IN WEST KAMENG",
+    "url": "https://news.ssbcrack.com/ssb-and-arunachal-pradesh-police-seize-325-5-kg-of-suspected-cannabis-in-west-kameng-district/",
+    "post_num": 4
+  },
+  {
+    "date": "2026-09-20",
+    "topic": "IAF SURYAKIRAN TEAM ENTHRALS AUDIENCE IN MEERUT",
+    "headline": "IAF SURYAKIRAN TEAM ENTHRALS AUDIENCE IN MEERUT",
+    "url": "https://idrw.org/iaf-suryakiran-team-enthrals-audience-in-meerut/",
     "post_num": 5
   }
 ]
