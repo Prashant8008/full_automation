@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-09-15",
-    "topic": "UPI SETS CHARGES FOR MERCHANT PAYMENTS ABOVE \u20b92,000, CAPS FEE AT \u20b9300",
-    "headline": "UPI SETS CHARGES FOR MERCHANT PAYMENTS ABOVE \u20b92,000, CAPS FEE AT \u20b9300",
-    "url": "https://www.livemint.com/news/upi-sets-charges-for-merchant-payments-above-2-000-caps-fee-at-300-11789482097465.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-09-15",
-    "topic": "FOOD INFLATION UNLIKELY TO PERSIST THROUGH YEAR-END: CEA NAGESWARAN",
-    "headline": "FOOD INFLATION UNLIKELY TO PERSIST THROUGH YEAR-END: CEA NAGESWARAN",
-    "url": "https://www.business-standard.com/economy/news/high-food-inflation-seen-in-august-unlikely-to-persist-cea-nageswaran-126091501311_1.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-09-15",
-    "topic": "TELANGANA TOPS INDIA'S INFLATION TABLE FOR EIGHTH CONSECUTIVE MONTH",
-    "headline": "TELANGANA TOPS INDIA'S INFLATION TABLE FOR EIGHTH CONSECUTIVE MONTH",
-    "url": "https://www.business-standard.com/economy/news/telangana-tops-india-s-inflation-table-for-eighth-consecutive-month-126091501293_1.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-09-15",
-    "topic": "\u2018STRONG DOLLAR IS NOT A PRICE ON A SCREEN\u2019: BESSENT DEFENDS US CURRENCY AS GLOBAL TRANSACTIONS RISE",
-    "headline": "\u2018STRONG DOLLAR IS NOT A PRICE ON A SCREEN\u2019: BESSENT DEFENDS US CURRENCY AS GLOBAL TRANSACTIONS RISE",
-    "url": "https://www.livemint.com/news/us-news/strong-dollar-is-not-a-price-on-a-screen-bessent-defends-us-currency-as-global-transactions-rise-11789484954700.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-09-15",
-    "topic": "CLARITY ACT COULD OVERHAUL US CRYPTO, STABLECOIN RULES: WHAT THE BILL CHANGES AND WHY IT MATTERS | EXPLAINED",
-    "headline": "CLARITY ACT COULD OVERHAUL US CRYPTO, STABLECOIN RULES: WHAT THE BILL CHANGES AND WHY IT MATTERS | EXPLAINED",
-    "url": "https://www.livemint.com/news/us-news/clarity-act-could-overhaul-us-crypto-stablecoin-rules-what-the-bill-changes-and-why-it-matters-explained-11789480447808.html",
-    "post_num": 5
-  },
-  {
     "date": "2026-09-16",
     "topic": "INDIA REMAINS KEY DRIVER OF GLOBAL GROWTH AS FASTEST-GROWING MAJOR ECONOMY, SAYS IMF",
     "headline": "INDIA REMAINS KEY DRIVER OF GLOBAL GROWTH AS FASTEST-GROWING MAJOR ECONOMY, SAYS IMF",
@@ -417,6 +382,41 @@
     "topic": "IIT BOMBAY PROFESSOR BOOKED OVER STUDENT SUICIDE AS ZOHO FOUNDER SRIDHAR VEMBU BACKS HIM",
     "headline": "IIT BOMBAY PROFESSOR BOOKED OVER STUDENT SUICIDE AS ZOHO FOUNDER SRIDHAR VEMBU BACKS HIM",
     "url": "https://www.livemint.com/news/india/iit-bombay-suicide-case-zohos-sridhar-vembu-backs-prof-doolla-booked-over-casteist-slurs-sc-st-act-weaponised-11789967564688.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-09-21",
+    "topic": "CALIFORNIA DECLARES STATEWIDE EMERGENCY AS EL NI\u00d1O THREATENS TO BECOME STRONGEST ON RECORD",
+    "headline": "CALIFORNIA DECLARES STATEWIDE EMERGENCY AS EL NI\u00d1O THREATENS TO BECOME STRONGEST ON RECORD",
+    "url": "https://www.livemint.com/news/us-news/el-ni-o-could-become-strongest-on-record-california-governor-gavin-newsom-declares-statewide-emergency-11790012492023.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-09-21",
+    "topic": "53-YEAR-OLD SINGLE FATHER LOSES 30 KG IN 18 MONTHS: THE REASON BEHIND HIS FITNESS JOURNEY WILL MOVE YOU",
+    "headline": "53-YEAR-OLD SINGLE FATHER LOSES 30 KG IN 18 MONTHS: THE REASON BEHIND HIS FITNESS JOURNEY WILL MOVE YOU",
+    "url": "https://www.livemint.com/news/trends/53yearold-single-father-loses-30-kg-in-18-months-the-reason-behind-his-fitness-journey-will-move-you-11790012794330.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-09-21",
+    "topic": "ONE YEAR OF GST 2.0: NET GST REVENUE SHOWS SIGNS OF RECOVERY",
+    "headline": "ONE YEAR OF GST 2.0: NET GST REVENUE SHOWS SIGNS OF RECOVERY",
+    "url": "https://www.business-standard.com/economy/news/one-year-of-gst-2-0-net-gst-revenue-shows-signs-of-recovery-126092101457_1.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-09-21",
+    "topic": "LOOKSMAXXING, CUFFING SEASON, VIBE CODING AND MORE: US DICTIONARY MERRIAM-WEBSTER GETS A \u2018GLOW UP\u2019 WITH 1,400 NEW WORDS",
+    "headline": "LOOKSMAXXING, CUFFING SEASON, VIBE CODING AND MORE: US DICTIONARY MERRIAM-WEBSTER GETS A \u2018GLOW UP\u2019 WITH 1,400 NEW WORDS",
+    "url": "https://www.livemint.com/news/trends/looksmaxxing-cuffing-season-vibe-coding-and-more-us-dictionary-merriam-webster-gets-a-glow-up-with-1-400-new-words-11790007182033.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-09-21",
+    "topic": "MSME CREDIT HITS \u20b947.4 TRILLION WITH CLUSTERS DRIVING GROWTH: REPORT",
+    "headline": "MSME CREDIT HITS \u20b947.4 TRILLION WITH CLUSTERS DRIVING GROWTH: REPORT",
+    "url": "https://www.business-standard.com/economy/news/msme-credit-rises-12-5-to-47-4-trn-industrial-clusters-drive-growth-126092101240_1.html",
     "post_num": 5
   }
 ]
