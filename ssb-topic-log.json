@@ -1,10 +1,5 @@
 [
   {
-    "date": "2026-09-08",
-    "topic": "PPDT",
-    "post_num": 6
-  },
-  {
     "date": "2026-09-09",
     "topic": "OIR",
     "post_num": 6
@@ -147,6 +142,11 @@
   {
     "date": "2026-09-22",
     "topic": "SRT",
+    "post_num": 6
+  },
+  {
+    "date": "2026-09-22",
+    "topic": "PPDT",
     "post_num": 6
   }
 ]
