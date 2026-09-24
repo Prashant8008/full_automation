@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-09-18",
-    "topic": "ASIAN GAMES 2026: SPORTS MINISTRY REACHES OUT TO INDIAN DIASPORA AMID ACCOMMODATION CRISIS IN NAGOYA",
-    "headline": "ASIAN GAMES 2026: SPORTS MINISTRY REACHES OUT TO INDIAN DIASPORA AMID ACCOMMODATION CRISIS IN NAGOYA",
-    "url": "https://www.livemint.com/news/india/asian-games-2026-sports-ministry-reaches-out-to-indian-diaspora-amid-accommodation-crisis-in-nagoya-11789744884314.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-09-18",
-    "topic": "SOCIAL SECURITY BECOMES SENATE ELECTION FLASHPOINT: 81% OF VOTERS PREFER CANDIDATES WHO PROMISE TO PREVENT BENEFIT CUTS",
-    "headline": "SOCIAL SECURITY BECOMES SENATE ELECTION FLASHPOINT: 81% OF VOTERS PREFER CANDIDATES WHO PROMISE TO PREVENT BENEFIT CUTS",
-    "url": "https://www.livemint.com/news/us-news/social-security-is-critical-issue-for-voters-in-key-us-senate-races-what-survey-says-11789742936639.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-09-18",
-    "topic": "EUROPEAN AGE-VERIFICATION APP FOR CHILDREN: WHAT IS IT, HOW DOES IT WORK & HOW DOES IT DIFFER FROM AUSTRALIA? EXPLAINED",
-    "headline": "EUROPEAN AGE-VERIFICATION APP FOR CHILDREN: WHAT IS IT, HOW DOES IT WORK & HOW DOES IT DIFFER FROM AUSTRALIA? EXPLAINED",
-    "url": "https://www.livemint.com/news/world/european-age-verification-app-for-children-what-is-it-how-does-it-work-how-does-it-differ-from-australia-explai-11789740914984.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-09-18",
-    "topic": "MACRON WARNS OF GROWING RUSSIAN THREAT: HOW \u2018HYBRID ATTACKS\u2019 ARE TARGETING EUROPE",
-    "headline": "MACRON WARNS OF GROWING RUSSIAN THREAT: HOW \u2018HYBRID ATTACKS\u2019 ARE TARGETING EUROPE",
-    "url": "https://www.livemint.com/news/world/macron-warns-of-growing-russian-threat-how-hybrid-attacks-are-targeting-europe-11789741049350.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-09-18",
-    "topic": "INDIA REJECTS PAKISTAN'S ALLEGATIONS OVER SHIP COLLISION IN ARABIAN SEA: \u2018PNS HUNAIN CONDUCTED IN UNACCEPTABLE MANNER'",
-    "headline": "INDIA REJECTS PAKISTAN'S ALLEGATIONS OVER SHIP COLLISION IN ARABIAN SEA: \u2018PNS HUNAIN CONDUCTED IN UNACCEPTABLE MANNER'",
-    "url": "https://www.livemint.com/news/india/india-rejects-pakistans-allegations-over-collision-in-arabian-sea-pns-hunain-conducted-in-unacceptable-manner-11789735316641.html",
-    "post_num": 5
-  },
-  {
     "date": "2026-09-19",
     "topic": "INDIA\u2019S SOFTWARE EXPORTS RISE 8.2% TO $221.4 BILLION IN FY26, US SHARE GROWS",
     "headline": "INDIA\u2019S SOFTWARE EXPORTS RISE 8.2% TO $221.4 BILLION IN FY26, US SHARE GROWS",
@@ -417,6 +382,41 @@
     "topic": "IS TRUMP\u2019S 100% TARIFF THREAT ON INDIA \u2018LEVERAGE TO PUSH THROUGH A TRADE DEAL\u2019? EXPERT WEIGHS IN",
     "headline": "IS TRUMP\u2019S 100% TARIFF THREAT ON INDIA \u2018LEVERAGE TO PUSH THROUGH A TRADE DEAL\u2019? EXPERT WEIGHS IN",
     "url": "https://www.livemint.com/news/world/is-trump-s-100-tariff-threat-on-india-leverage-to-push-through-a-trade-deal-expert-weighs-in-11790160815711.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-09-24",
+    "topic": "NEW YORK VS POLYMARKET: WHY IS THE PREDICTION PLATFORM FACING LEGAL ACTION AND WHAT DID IT SAY? EXPLAINED",
+    "headline": "NEW YORK VS POLYMARKET: WHY IS THE PREDICTION PLATFORM FACING LEGAL ACTION AND WHAT DID IT SAY? EXPLAINED",
+    "url": "https://www.livemint.com/news/us-news/new-york-vs-polymarket-why-is-the-prediction-platform-facing-legal-action-and-what-did-it-say-explained-11790267790896.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-09-24",
+    "topic": "XI-TRUMP SUMMIT: NOD TO HISTORIC \u2018PEACE TOAST\u2019, SEABASS AND A LOT OF CHINESE INFLUENCE, WHAT'S ON STATE DINNER MENU?",
+    "headline": "XI-TRUMP SUMMIT: NOD TO HISTORIC \u2018PEACE TOAST\u2019, SEABASS AND A LOT OF CHINESE INFLUENCE, WHAT'S ON STATE DINNER MENU?",
+    "url": "https://www.livemint.com/news/us-news/xitrump-summit-nod-to-historic-peace-toast-seabass-and-a-lot-of-chinese-influence-whats-on-state-dinner-menu-11790265086910.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-09-24",
+    "topic": "GOVERN AI BEFORE SCALING IT: RBI\u2019S 10 COMMANDMENTS FOR TECH RISK",
+    "headline": "GOVERN AI BEFORE SCALING IT: RBI\u2019S 10 COMMANDMENTS FOR TECH RISK",
+    "url": "https://www.livemint.com/news/india/govern-ai-before-scaling-it-rbi-s-10-commandments-for-tech-risk-11790255903558.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-09-24",
+    "topic": "HARSH GOENKA COMPARES CHINA, INDIA BUSINESS FOCUS, CITES JL MAG: \u2018WHAT ARE WE BUILDING THAT WORLD WILL NEED TOMORROW?\u2019",
+    "headline": "HARSH GOENKA COMPARES CHINA, INDIA BUSINESS FOCUS, CITES JL MAG: \u2018WHAT ARE WE BUILDING THAT WORLD WILL NEED TOMORROW?\u2019",
+    "url": "https://www.livemint.com/news/india/harsh-goenka-compares-china-india-business-focus-cites-jl-mag-what-are-we-building-that-world-will-need-tomorrow-11790261985899.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-09-24",
+    "topic": "\u20b96,000 CRORE MAHADEV BETTING APP CASE: CBI ARRESTS \u2018KINGPIN\u2019 ABHISHEK KUMAR AT HYDERABAD AIRPORT AFTER DUBAI RETURN",
+    "headline": "\u20b96,000 CRORE MAHADEV BETTING APP CASE: CBI ARRESTS \u2018KINGPIN\u2019 ABHISHEK KUMAR AT HYDERABAD AIRPORT AFTER DUBAI RETURN",
+    "url": "https://www.livemint.com/news/india/rs-6-000-crore-mahadev-betting-app-case-cbi-arrests-kingpin-abhishek-kumar-at-hyderabad-airport-after-dubai-return-11790259766602.html",
     "post_num": 5
   }
 ]
