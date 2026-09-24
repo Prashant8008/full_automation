@@ -1,41 +1,6 @@
 [
   {
     "date": "2026-09-18",
-    "topic": "US APPROVES UNGA VISA FOR IRAN\u2019S PEZESHKIAN AMID WAR: WHAT IS WASHINGTON\u2019S UN OBLIGATION?",
-    "headline": "US APPROVES UNGA VISA FOR IRAN\u2019S PEZESHKIAN AMID WAR: WHAT IS WASHINGTON\u2019S UN OBLIGATION?",
-    "url": "https://www.livemint.com/news/world/us-approves-unga-visa-for-iran-s-pezeshkian-amid-war-what-is-washington-s-un-obligation-11789705397102.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-09-18",
-    "topic": "MOODY'S RAISES INDIA FY27 GDP GROWTH FORECAST TO 7% ON W ASIA RESILIENCE",
-    "headline": "MOODY'S RAISES INDIA FY27 GDP GROWTH FORECAST TO 7% ON W ASIA RESILIENCE",
-    "url": "https://www.business-standard.com/economy/news/moody-s-raises-india-gdp-growth-forecast-to-7-for-current-fiscal-126091800196_1.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-09-18",
-    "topic": "FLOODING KILLS THREE PEOPLE AS HEAVY RAINS HIT NORTHERN VIETNAM",
-    "headline": "FLOODING KILLS THREE PEOPLE AS HEAVY RAINS HIT NORTHERN VIETNAM",
-    "url": "https://www.livemint.com/news/flooding-kills-three-people-as-heavy-rains-hit-northern-vietnam-11789703230812.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-09-18",
-    "topic": "\u2018SABSE PAHELE LENA HUMNEIN HAI\u2019: APPLE IPHONE 18 PRO, PRO MAX SPARKS PRE-DAWN RUSH IN DELHI, MUMBAI AND BENGALURU",
-    "headline": "\u2018SABSE PAHELE LENA HUMNEIN HAI\u2019: APPLE IPHONE 18 PRO, PRO MAX SPARKS PRE-DAWN RUSH IN DELHI, MUMBAI AND BENGALURU",
-    "url": "https://www.livemint.com/news/trends/sabse-pahele-lena-humnein-hai-apple-iphone-18-pro-pro-max-sparks-pre-dawn-rush-in-delhi-mumbai-and-bengaluru-11789700053576.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-09-18",
-    "topic": "INDIA REMAINS NET STEEL IMPORTER FOR FIFTH STRAIGHT MONTH IN AUGUST",
-    "headline": "INDIA REMAINS NET STEEL IMPORTER FOR FIFTH STRAIGHT MONTH IN AUGUST",
-    "url": "https://www.livemint.com/news/india-steel-imports-exports-finished-steel-steel-trade-joint-plant-committee-jpc-bigmint-dhruv-goel-11789658068084.html",
-    "post_num": 5
-  },
-  {
-    "date": "2026-09-18",
     "topic": "ASIAN GAMES 2026: SPORTS MINISTRY REACHES OUT TO INDIAN DIASPORA AMID ACCOMMODATION CRISIS IN NAGOYA",
     "headline": "ASIAN GAMES 2026: SPORTS MINISTRY REACHES OUT TO INDIAN DIASPORA AMID ACCOMMODATION CRISIS IN NAGOYA",
     "url": "https://www.livemint.com/news/india/asian-games-2026-sports-ministry-reaches-out-to-indian-diaspora-amid-accommodation-crisis-in-nagoya-11789744884314.html",
@@ -417,6 +382,41 @@
     "topic": "HOW MUCH DO H1B VISA HOLDERS NEED TO LIVE IN US? INDIAN STARTUP FOUNDER REVEALS COST OF LIVING, \u2018NOBODY TELLS YOU\u2026\u2019",
     "headline": "HOW MUCH DO H1B VISA HOLDERS NEED TO LIVE IN US? INDIAN STARTUP FOUNDER REVEALS COST OF LIVING, \u2018NOBODY TELLS YOU\u2026\u2019",
     "url": "https://www.livemint.com/news/trends/how-much-do-h1b-visa-holders-need-to-live-in-us-indian-startup-founder-reveals-cost-of-living-nobody-tells-you-11790176862079.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-09-24",
+    "topic": "\u2018RESPONSE ISN\u2019T GOING TO MAGICALLY CHANGE\u2019: LUFTHANSA'S BLUNT REPLY TO CUSTOMER GOES VIRAL",
+    "headline": "\u2018RESPONSE ISN\u2019T GOING TO MAGICALLY CHANGE\u2019: LUFTHANSA'S BLUNT REPLY TO CUSTOMER GOES VIRAL",
+    "url": "https://www.livemint.com/news/trends/response-isn-t-going-to-magically-change-lufthansas-blunt-reply-to-customer-goes-viral-on-the-internet-11790230870322.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-09-24",
+    "topic": "\u2018WE SHOULD BE PARTNERS, NOT RIVALS\u2019: WHAT XI JINPING SAID AHEAD OF TRUMP MEETING",
+    "headline": "\u2018WE SHOULD BE PARTNERS, NOT RIVALS\u2019: WHAT XI JINPING SAID AHEAD OF TRUMP MEETING",
+    "url": "https://www.livemint.com/news/world/we-should-be-partners-not-rivals-what-xi-jinping-said-ahead-of-trump-meeting-11790221437012.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-09-24",
+    "topic": "BANGLADESH TURNS TO INDIAN WHEAT AS BLACK SEA DISRUPTIONS HIT TRADE SUPPLIES",
+    "headline": "BANGLADESH TURNS TO INDIAN WHEAT AS BLACK SEA DISRUPTIONS HIT TRADE SUPPLIES",
+    "url": "https://www.business-standard.com/economy/news/black-sea-disruptions-push-bangladesh-back-towards-indian-wheat-supplies-126092400293_1.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-09-24",
+    "topic": "EXPLAINED: DOES CEC HAVE VETO POWER? HOW INDIA\u2019S ELECTION COMMISSION TAKES DECISIONS",
+    "headline": "EXPLAINED: DOES CEC HAVE VETO POWER? HOW INDIA\u2019S ELECTION COMMISSION TAKES DECISIONS",
+    "url": "https://www.livemint.com/news/india/explained-gyanesh-kumar-does-cec-have-veto-power-how-election-commission-takes-decisions-bjp-modi-rahul-11790223232430.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-09-24",
+    "topic": "IS TRUMP\u2019S 100% TARIFF THREAT ON INDIA \u2018LEVERAGE TO PUSH THROUGH A TRADE DEAL\u2019? EXPERT WEIGHS IN",
+    "headline": "IS TRUMP\u2019S 100% TARIFF THREAT ON INDIA \u2018LEVERAGE TO PUSH THROUGH A TRADE DEAL\u2019? EXPERT WEIGHS IN",
+    "url": "https://www.livemint.com/news/world/is-trump-s-100-tariff-threat-on-india-leverage-to-push-through-a-trade-deal-expert-weighs-in-11790160815711.html",
     "post_num": 5
   }
 ]
