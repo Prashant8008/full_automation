@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-09-21",
-    "topic": "CALIFORNIA DECLARES STATEWIDE EMERGENCY AS EL NI\u00d1O THREATENS TO BECOME STRONGEST ON RECORD",
-    "headline": "CALIFORNIA DECLARES STATEWIDE EMERGENCY AS EL NI\u00d1O THREATENS TO BECOME STRONGEST ON RECORD",
-    "url": "https://www.livemint.com/news/us-news/el-ni-o-could-become-strongest-on-record-california-governor-gavin-newsom-declares-statewide-emergency-11790012492023.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-09-21",
-    "topic": "53-YEAR-OLD SINGLE FATHER LOSES 30 KG IN 18 MONTHS: THE REASON BEHIND HIS FITNESS JOURNEY WILL MOVE YOU",
-    "headline": "53-YEAR-OLD SINGLE FATHER LOSES 30 KG IN 18 MONTHS: THE REASON BEHIND HIS FITNESS JOURNEY WILL MOVE YOU",
-    "url": "https://www.livemint.com/news/trends/53yearold-single-father-loses-30-kg-in-18-months-the-reason-behind-his-fitness-journey-will-move-you-11790012794330.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-09-21",
-    "topic": "ONE YEAR OF GST 2.0: NET GST REVENUE SHOWS SIGNS OF RECOVERY",
-    "headline": "ONE YEAR OF GST 2.0: NET GST REVENUE SHOWS SIGNS OF RECOVERY",
-    "url": "https://www.business-standard.com/economy/news/one-year-of-gst-2-0-net-gst-revenue-shows-signs-of-recovery-126092101457_1.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-09-21",
-    "topic": "LOOKSMAXXING, CUFFING SEASON, VIBE CODING AND MORE: US DICTIONARY MERRIAM-WEBSTER GETS A \u2018GLOW UP\u2019 WITH 1,400 NEW WORDS",
-    "headline": "LOOKSMAXXING, CUFFING SEASON, VIBE CODING AND MORE: US DICTIONARY MERRIAM-WEBSTER GETS A \u2018GLOW UP\u2019 WITH 1,400 NEW WORDS",
-    "url": "https://www.livemint.com/news/trends/looksmaxxing-cuffing-season-vibe-coding-and-more-us-dictionary-merriam-webster-gets-a-glow-up-with-1-400-new-words-11790007182033.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-09-21",
-    "topic": "MSME CREDIT HITS \u20b947.4 TRILLION WITH CLUSTERS DRIVING GROWTH: REPORT",
-    "headline": "MSME CREDIT HITS \u20b947.4 TRILLION WITH CLUSTERS DRIVING GROWTH: REPORT",
-    "url": "https://www.business-standard.com/economy/news/msme-credit-rises-12-5-to-47-4-trn-industrial-clusters-drive-growth-126092101240_1.html",
-    "post_num": 5
-  },
-  {
     "date": "2026-09-22",
     "topic": "INDIA'S CRUDE IMPORT BILL RISES 48% TO $74.8 BN IN APR-AUG AMID HIGH COSTS",
     "headline": "INDIA'S CRUDE IMPORT BILL RISES 48% TO $74.8 BN IN APR-AUG AMID HIGH COSTS",
@@ -417,6 +382,41 @@
     "topic": "TRUMP REJECTS IRAN'S SEVEN-DAY CEASEFIRE OFFER LINKED TO REOPENING THE STRAIT OF HORMUZ",
     "headline": "TRUMP REJECTS IRAN'S SEVEN-DAY CEASEFIRE OFFER LINKED TO REOPENING THE STRAIT OF HORMUZ",
     "url": "https://www.livemint.com/news/us-news/usiran-war-trump-rejects-tehrans-ceasefire-proposal-says-they-re-losing-badly-iran-backs-diplomacy-top-updates-11790474477109.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-09-27",
+    "topic": "CBIC EASES PAPERWORK TO CLAIM CONCESSIONAL DUTY ON IMPORTS FROM UK UNDER INDIA-UK CETA",
+    "headline": "CBIC EASES PAPERWORK TO CLAIM CONCESSIONAL DUTY ON IMPORTS FROM UK UNDER INDIA-UK CETA",
+    "url": "https://www.business-standard.com/economy/news/cbic-eases-paperwork-to-claim-concessional-duty-on-imports-from-uk-126092700646_1.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-09-27",
+    "topic": "POWERFUL NOR\u2019EASTER SLAMS NEW YORK AND NORTHEAST CAUSING FLOODING AND GROUNDING HUNDREDS OF FLIGHTS",
+    "headline": "POWERFUL NOR\u2019EASTER SLAMS NEW YORK AND NORTHEAST CAUSING FLOODING AND GROUNDING HUNDREDS OF FLIGHTS",
+    "url": "https://www.livemint.com/news/us-news/new-york-and-northeast-facing-another-day-of-wild-weather-11790516910196.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-09-27",
+    "topic": "TAMIL NADU GOVERNMENT WITHDRAWS RTI EXEMPTION FOR LAW AND ORDER DEPARTMENT AFTER FACING CRITICISM",
+    "headline": "TAMIL NADU GOVERNMENT WITHDRAWS RTI EXEMPTION FOR LAW AND ORDER DEPARTMENT AFTER FACING CRITICISM",
+    "url": "https://www.livemint.com/news/india/tamil-nadu-government-withdraws-rti-exemption-for-law-and-order-department-amid-criticism-11790510226916.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-09-27",
+    "topic": "PIYUSH GOYAL MAY HOLD BILATERAL MEETING WITH USTR JAMIESON GREER THIS WEEK",
+    "headline": "PIYUSH GOYAL MAY HOLD BILATERAL MEETING WITH USTR JAMIESON GREER THIS WEEK",
+    "url": "https://www.business-standard.com/india-news/piyush-goyal-may-hold-bilateral-meeting-with-ustr-jamieson-greer-this-week-126092700512_1.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-09-27",
+    "topic": "BIHAR'S \u20b921,000 CRORE MINERAL RESERVES COULD GENERATE OVER \u20b95,000 CRORE ANNUAL REVENUE",
+    "headline": "BIHAR'S \u20b921,000 CRORE MINERAL RESERVES COULD GENERATE OVER \u20b95,000 CRORE ANNUAL REVENUE",
+    "url": "https://www.livemint.com/news/india/bihars-21-000-crore-mineral-reserves-may-generate-over-5-000-crore-annual-revenue-says-report-11790505619842.html",
     "post_num": 5
   }
 ]
