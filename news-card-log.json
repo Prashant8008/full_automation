@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-09-22",
-    "topic": "TRUMP\u2019S UNGA SPEECH: \u2018BIG DECISION\u2019 ON IRAN, ECONOMIC ISOLATION CALL AND 8 OTHER KEY POINTS",
-    "headline": "TRUMP\u2019S UNGA SPEECH: \u2018BIG DECISION\u2019 ON IRAN, ECONOMIC ISOLATION CALL AND 8 OTHER KEY POINTS",
-    "url": "https://www.livemint.com/news/us-news/trumps-unga-speech-big-decision-on-iran-economic-isolation-call-and-8-other-key-points-11790089786447.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-09-22",
-    "topic": "INDIA AMONG JUST TWO REGIONS WHERE INCOMES RISING, SAYS WEF SURVEY",
-    "headline": "INDIA AMONG JUST TWO REGIONS WHERE INCOMES RISING, SAYS WEF SURVEY",
-    "url": "https://www.business-standard.com/economy/news/india-among-just-two-regions-where-incomes-rising-says-wef-survey-126092201313_1.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-09-22",
-    "topic": "RUPEE EXTENDS GAINS FOR FIFTH STRAIGHT SESSION TRACKING FALL IN CRUDE OIL",
-    "headline": "RUPEE EXTENDS GAINS FOR FIFTH STRAIGHT SESSION TRACKING FALL IN CRUDE OIL",
-    "url": "https://www.business-standard.com/economy/news/rupee-extends-gains-for-fifth-straight-session-tracking-fall-in-crude-oil-126092201185_1.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-09-22",
-    "topic": "BAY OF BENGAL DEPRESSION LIKELY TO INTENSIFY, HIT ANDHRA-ODISHA COAST",
-    "headline": "BAY OF BENGAL DEPRESSION LIKELY TO INTENSIFY, HIT ANDHRA-ODISHA COAST",
-    "url": "https://www.livemint.com/news/india/bay-of-bengal-depression-likely-to-intensify-hit-andhra-odisha-coast-11790073388269.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-09-22",
-    "topic": "TRUMP SIGNS GREENLAND SECURITY AGREEMENT, DEFUSING ALLIED TENSIONS",
-    "headline": "TRUMP SIGNS GREENLAND SECURITY AGREEMENT, DEFUSING ALLIED TENSIONS",
-    "url": "https://breakingdefense.com/2026/09/trump-signs-greenland-security-agreement-defusing-allied-tensions/",
-    "post_num": 5
-  },
-  {
     "date": "2026-09-23",
     "topic": "PM MODI LIKELY TO VISIT US FOR G20 SUMMIT IN DECEMBER? WHAT WE KNOW, WHAT TO EXPECT",
     "headline": "PM MODI LIKELY TO VISIT US FOR G20 SUMMIT IN DECEMBER? WHAT WE KNOW, WHAT TO EXPECT",
@@ -417,6 +382,41 @@
     "topic": "SOUTH KOREA DEMANDS APOLOGY FROM UKRAINE OVER BREACHED NORTH KOREAN POW DEAL",
     "headline": "SOUTH KOREA DEMANDS APOLOGY FROM UKRAINE OVER BREACHED NORTH KOREAN POW DEAL",
     "url": "https://www.livemint.com/news/world/south-korea-ukraine-ties-sour-over-north-korean-pow-transfer-why-seoul-wants-an-apology-11790566987780.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-09-28",
+    "topic": "TUKARAM MUNDHE'S MAHARASHTRA FDA SUSPENDS LICENCE OF 122-YEAR-OLD KYANI CAFE IN MUMBAI: HERE'S WHAT INSPECTION FOUND",
+    "headline": "TUKARAM MUNDHE'S MAHARASHTRA FDA SUSPENDS LICENCE OF 122-YEAR-OLD KYANI CAFE IN MUMBAI: HERE'S WHAT INSPECTION FOUND",
+    "url": "https://www.livemint.com/news/india/tukaram-mundhes-maharashtra-fda-suspends-licence-of-122-year-old-kyani-cafe-in-mumbai-heres-what-inspection-found-11790613345327.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-09-28",
+    "topic": "INDIA ENERGY WEEK 2027 TO FOCUS ON ENERGY SECURITY AMID GLOBAL OIL-MARKET VOLATILITY",
+    "headline": "INDIA ENERGY WEEK 2027 TO FOCUS ON ENERGY SECURITY AMID GLOBAL OIL-MARKET VOLATILITY",
+    "url": "https://www.livemint.com/news/india/india-energy-week-2027-to-focus-on-energy-security-amid-global-oil-market-volatility-11790609516354.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-09-28",
+    "topic": "TRUMP ADMINISTRATION SLASHES FUEL ECONOMY STANDARDS FOR CARS, LIGHT TRUCKS: HERE'S WHAT CHANGES",
+    "headline": "TRUMP ADMINISTRATION SLASHES FUEL ECONOMY STANDARDS FOR CARS, LIGHT TRUCKS: HERE'S WHAT CHANGES",
+    "url": "https://www.livemint.com/news/us-news/trump-administration-slashes-fuel-economy-standards-for-cars-light-trucks-heres-what-changes-11790604680806.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-09-28",
+    "topic": "WHO IS NITIN GUPTA? IIT TOPPER RETURNS TO INDIA INSPIRED BY SRK'S FILM. WHY DID HE CHOOSE MOSQUITO BRAINS STUDY?",
+    "headline": "WHO IS NITIN GUPTA? IIT TOPPER RETURNS TO INDIA INSPIRED BY SRK'S FILM. WHY DID HE CHOOSE MOSQUITO BRAINS STUDY?",
+    "url": "https://www.livemint.com/news/trends/who-is-nitin-gupta-iit-topper-returns-to-india-inspired-by-srks-film-why-did-he-choose-mosquito-brains-study-11790608729315.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-09-28",
+    "topic": "NO AC, DROPPED ELSEWHERE AT MIDNIGHT: PASSENGER WINS COMPENSATION AGAINST TRAVEL COMPANY IN CONSUMER COURT",
+    "headline": "NO AC, DROPPED ELSEWHERE AT MIDNIGHT: PASSENGER WINS COMPENSATION AGAINST TRAVEL COMPANY IN CONSUMER COURT",
+    "url": "https://www.livemint.com/news/india/no-ac-dropped-elsewhere-at-midnight-passenger-wins-compensation-against-travel-company-in-consumer-court-11790603961520.html",
     "post_num": 5
   }
 ]
