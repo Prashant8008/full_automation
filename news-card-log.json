@@ -1,41 +1,6 @@
 [
   {
     "date": "2026-09-25",
-    "topic": "US WEIGHS DIESEL EXPORT BAN: INDIA RAMPS UP SHIPMENTS AS RUSSIA SUPPLY FALTERS. CAN IT SUSTAIN THIS?",
-    "headline": "US WEIGHS DIESEL EXPORT BAN: INDIA RAMPS UP SHIPMENTS AS RUSSIA SUPPLY FALTERS. CAN IT SUSTAIN THIS?",
-    "url": "https://www.livemint.com/news/world/us-weighs-diesel-export-ban-india-ramps-up-shipments-as-russia-supply-falters-can-it-sustain-this-11790312619286.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-09-25",
-    "topic": "CUMULATIVE FDI DURING 2014-26 REACHES $843 BILLION, SAYS PIYUSH GOYAL",
-    "headline": "CUMULATIVE FDI DURING 2014-26 REACHES $843 BILLION, SAYS PIYUSH GOYAL",
-    "url": "https://www.business-standard.com/economy/news/cumulative-fdi-during-2014-26-reaches-843-billion-says-piyush-goyal-126092500249_1.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-09-25",
-    "topic": "THUCYDIDES TRAP EXPLAINED: WHY XI INVOKED AN ANCIENT WAR WARNING WITH TRUMP",
-    "headline": "THUCYDIDES TRAP EXPLAINED: WHY XI INVOKED AN ANCIENT WAR WARNING WITH TRUMP",
-    "url": "https://www.livemint.com/news/us-news/thucydides-trap-explained-why-xi-invoked-an-ancient-war-warning-with-trump-11790311478770.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-09-25",
-    "topic": "WHY CHENNAI IS LOSING TO HYDERABAD IN INDIA'S DATA CENTRE RACE",
-    "headline": "WHY CHENNAI IS LOSING TO HYDERABAD IN INDIA'S DATA CENTRE RACE",
-    "url": "https://www.livemint.com/news/data-centres-hyderabad-chennai-india-data-centre-market-data-centre-capacity-hyperscalers-ai-11790255248778.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-09-25",
-    "topic": "TRUMP'S NO \u2018GUARDRAILS\u2019 TO XI \u2018HUMAN CONTROL\u2019: WHY AI IS AT THE HEART OF US-CHINA RIVALRY",
-    "headline": "TRUMP'S NO \u2018GUARDRAILS\u2019 TO XI \u2018HUMAN CONTROL\u2019: WHY AI IS AT THE HEART OF US-CHINA RIVALRY",
-    "url": "https://www.livemint.com/news/us-news/trumps-no-guardrails-to-xi-human-control-why-ai-is-at-the-heart-of-us-china-rivalry-11790306184590.html",
-    "post_num": 5
-  },
-  {
-    "date": "2026-09-25",
     "topic": "WHAT IS BHAJAN CLUBBING? PM MODI ATTENDS DELHI EVENT MARKING DEENDAYAL UPADHYAYA\u2019S BIRTH ANNIVERSARY",
     "headline": "WHAT IS BHAJAN CLUBBING? PM MODI ATTENDS DELHI EVENT MARKING DEENDAYAL UPADHYAYA\u2019S BIRTH ANNIVERSARY",
     "url": "https://www.livemint.com/news/india/what-is-bhajan-clubbing-pm-modi-attends-delhi-event-marking-deendayal-upadhyaya-s-birth-anniversary-11790355872549.html",
@@ -417,6 +382,41 @@
     "topic": "WHO IS SMIT MACHCHHAR, THE INDIAN FLYDUBAI CAPTAIN STABBED DURING MID-AIR COCKPIT CLASH?",
     "headline": "WHO IS SMIT MACHCHHAR, THE INDIAN FLYDUBAI CAPTAIN STABBED DURING MID-AIR COCKPIT CLASH?",
     "url": "https://www.livemint.com/news/world/who-is-smit-machchhar-the-indian-flydubai-captain-stabbed-during-mid-air-cockpit-clash-11790778919838.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-10-01",
+    "topic": "WHAT IS 200-YEAR-OLD NIZAMI SWEET THAT HARSH GOENKA IS RAVING ABOUT? ALL TO KNOW ABOUT \u2018BADAM KI JALI\u2019",
+    "headline": "WHAT IS 200-YEAR-OLD NIZAMI SWEET THAT HARSH GOENKA IS RAVING ABOUT? ALL TO KNOW ABOUT \u2018BADAM KI JALI\u2019",
+    "url": "https://www.livemint.com/news/trends/what-is-the-200-year-old-nizami-sweet-that-harsh-goenka-is-raving-about-all-to-know-about-badam-ki-jali-11790832944894.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-10-01",
+    "topic": "GROSS GST COLLECTIONS RISE 14.7% TO OVER \u20b92.03 TRILLION IN SEPTEMBER",
+    "headline": "GROSS GST COLLECTIONS RISE 14.7% TO OVER \u20b92.03 TRILLION IN SEPTEMBER",
+    "url": "https://www.business-standard.com/economy/news/gross-gst-collections-rise-14-7-to-over-2-03-trillion-in-september-126100100388_1.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-10-01",
+    "topic": "INDIA WANTS FOREIGN CAPITAL, BUT US INVESTORS SEE HURDLES AT THE GATE",
+    "headline": "INDIA WANTS FOREIGN CAPITAL, BUT US INVESTORS SEE HURDLES AT THE GATE",
+    "url": "https://www.business-standard.com/economy/news/india-wants-foreign-capital-but-us-investors-see-hurdles-at-the-gate-126100100403_1.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-10-01",
+    "topic": "MANUFACTURING PMI RECOVERS IN SEP AMID HIGHER OUTPUT AND JOB GROWTH",
+    "headline": "MANUFACTURING PMI RECOVERS IN SEP AMID HIGHER OUTPUT AND JOB GROWTH",
+    "url": "https://www.business-standard.com/economy/news/india-manufacturing-pmi-september-2026-hsbc-seven-month-high-126100100400_1.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-10-01",
+    "topic": "INDIA'S MANUFACTURING PMI RISES TO 55.1 IN SEPTEMBER, HITS 7-MONTH HIGH",
+    "headline": "INDIA'S MANUFACTURING PMI RISES TO 55.1 IN SEPTEMBER, HITS 7-MONTH HIGH",
+    "url": "https://www.business-standard.com/economy/news/india-s-manufacturing-pmi-rises-to-55-1-in-september-hits-7-month-high-126100100299_1.html",
     "post_num": 5
   }
 ]
