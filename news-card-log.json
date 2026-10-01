@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-09-25",
-    "topic": "WHAT IS BHAJAN CLUBBING? PM MODI ATTENDS DELHI EVENT MARKING DEENDAYAL UPADHYAYA\u2019S BIRTH ANNIVERSARY",
-    "headline": "WHAT IS BHAJAN CLUBBING? PM MODI ATTENDS DELHI EVENT MARKING DEENDAYAL UPADHYAYA\u2019S BIRTH ANNIVERSARY",
-    "url": "https://www.livemint.com/news/india/what-is-bhajan-clubbing-pm-modi-attends-delhi-event-marking-deendayal-upadhyaya-s-birth-anniversary-11790355872549.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-09-25",
-    "topic": "THE DEATH OF DISTANCE: HOW VANDE BHARAT, BRIDGES, TUNNELS AND EXPRESSWAYS DRAW INDIAN CITIES CLOSER WITHOUT MOVING",
-    "headline": "THE DEATH OF DISTANCE: HOW VANDE BHARAT, BRIDGES, TUNNELS AND EXPRESSWAYS DRAW INDIAN CITIES CLOSER WITHOUT MOVING",
-    "url": "https://www.livemint.com/news/india/the-death-of-distance-vande-bharat-bridges-tunnels-expressways-helping-indian-cities-to-get-closer-without-movi-11790347692438.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-09-25",
-    "topic": "WEATHER TOMORROW: IMD ISSUES RED, ORANGE ALERTS ACROSS SEVERAL UTTARAKHAND DISTRICTS FOR SEP 26, 27; CM DHAMI REACTS",
-    "headline": "WEATHER TOMORROW: IMD ISSUES RED, ORANGE ALERTS ACROSS SEVERAL UTTARAKHAND DISTRICTS FOR SEP 26, 27; CM DHAMI REACTS",
-    "url": "https://www.livemint.com/news/india/uttarakhand-weather-forecast-imd-issues-red-orange-yellow-alerts-across-13-districts-on-sep-26-27-cm-dhami-rea-11790347136838.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-09-25",
-    "topic": "US ARMY PLANS FOR POSSIBLE CUBA OPERATION: POLICE, MEDICAL UNITS COULD BE READY WITHIN 120 DAYS \u2014 REPORT",
-    "headline": "US ARMY PLANS FOR POSSIBLE CUBA OPERATION: POLICE, MEDICAL UNITS COULD BE READY WITHIN 120 DAYS \u2014 REPORT",
-    "url": "https://www.livemint.com/news/us-news/us-army-plans-for-possible-cuba-operation-police-medical-units-could-be-ready-within-120-days-report-11790345861778.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-09-25",
-    "topic": "PUTIN'S PARTY SETS NEW RECORD IN RUSSIA ELECTION, UNITED RUSSIA WINS 349 OUT OF 450-MEMBER STATE DUMA",
-    "headline": "PUTIN'S PARTY SETS NEW RECORD IN RUSSIA ELECTION, UNITED RUSSIA WINS 349 OUT OF 450-MEMBER STATE DUMA",
-    "url": "https://www.livemint.com/news/world/putins-party-sets-new-record-in-russia-election-united-russia-wins-349-out-of-450-member-state-duma-11790343790032.html",
-    "post_num": 5
-  },
-  {
     "date": "2026-09-26",
     "topic": "RAILWAYS TO OPERATE 102 SPECIAL TRAINS FOR DIWALI AND DUSSEHRA FESTIVAL RUSH",
     "headline": "RAILWAYS TO OPERATE 102 SPECIAL TRAINS FOR DIWALI AND DUSSEHRA FESTIVAL RUSH",
@@ -417,6 +382,41 @@
     "topic": "INDIA'S MANUFACTURING PMI RISES TO 55.1 IN SEPTEMBER, HITS 7-MONTH HIGH",
     "headline": "INDIA'S MANUFACTURING PMI RISES TO 55.1 IN SEPTEMBER, HITS 7-MONTH HIGH",
     "url": "https://www.business-standard.com/economy/news/india-s-manufacturing-pmi-rises-to-55-1-in-september-hits-7-month-high-126100100299_1.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-10-01",
+    "topic": "TENNESSEE FAILS TO EXECUTE CHRISTA PIKE AFTER 2 LETHAL INJECTIONS: WHAT HAPPENS NEXT AS PER TENNESSEE LAW?",
+    "headline": "TENNESSEE FAILS TO EXECUTE CHRISTA PIKE AFTER 2 LETHAL INJECTIONS: WHAT HAPPENS NEXT AS PER TENNESSEE LAW?",
+    "url": "https://www.livemint.com/news/us-news/tennessee-fails-to-execute-christa-pike-after-2-lethal-injections-what-happens-next-as-per-tennessee-law-11790875559741.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-10-01",
+    "topic": "CJP'S OCT 2 MUMBAI PROTEST: WHAT ARE ITS DEMANDS BESIDES GYANESH KUMAR'S RESIGNATION?",
+    "headline": "CJP'S OCT 2 MUMBAI PROTEST: WHAT ARE ITS DEMANDS BESIDES GYANESH KUMAR'S RESIGNATION?",
+    "url": "https://www.livemint.com/news/india/cjps-oct-2-mumbai-protest-what-are-its-demands-besides-gyanesh-kumars-resignation-11790854631498.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-10-01",
+    "topic": "G20 TRADE MINISTERS REACH CONSENSUS ON FOOD WEAPONIZATION AS GOYAL FLAGS FOOD SECURITY CONCERNS",
+    "headline": "G20 TRADE MINISTERS REACH CONSENSUS ON FOOD WEAPONIZATION AS GOYAL FLAGS FOOD SECURITY CONCERNS",
+    "url": "https://www.livemint.com/news/india/g20-trade-ministers-reach-consensus-on-food-weaponization-as-goyal-flags-food-security-concerns-11790870996450.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-10-01",
+    "topic": "ONLY A COMPETITION-FRIENDLY ECONOMY WILL THRIVE: FINANCE MINISTRY REPORT",
+    "headline": "ONLY A COMPETITION-FRIENDLY ECONOMY WILL THRIVE: FINANCE MINISTRY REPORT",
+    "url": "https://www.business-standard.com/economy/news/india-must-become-more-competition-friendly-says-finance-ministry-report-126100101452_1.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-10-01",
+    "topic": "RBI EXTENDS BENCHMARK ISSUANCE STRATEGY TO 7 MORE STATES, J&K FROM Q3 FY27",
+    "headline": "RBI EXTENDS BENCHMARK ISSUANCE STRATEGY TO 7 MORE STATES, J&K FROM Q3 FY27",
+    "url": "https://www.business-standard.com/economy/news/rbi-extends-benchmark-issuance-strategy-to-7-more-states-j-k-from-q3-fy27-126100101347_1.html",
     "post_num": 5
   }
 ]
