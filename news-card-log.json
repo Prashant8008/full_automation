@@ -1,41 +1,6 @@
 [
   {
     "date": "2026-09-26",
-    "topic": "RAILWAYS TO OPERATE 102 SPECIAL TRAINS FOR DIWALI AND DUSSEHRA FESTIVAL RUSH",
-    "headline": "RAILWAYS TO OPERATE 102 SPECIAL TRAINS FOR DIWALI AND DUSSEHRA FESTIVAL RUSH",
-    "url": "https://www.livemint.com/news/india/railways-to-run-102-special-trains-for-diwali-and-dussehra-check-routes-timings-and-ticket-booking-details-11790401260300.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-09-26",
-    "topic": "AIIB PLANS TO SCALE UP WATER FINANCING IN INDIA AS EL NI\u00d1O WORSENS",
-    "headline": "AIIB PLANS TO SCALE UP WATER FINANCING IN INDIA AS EL NI\u00d1O WORSENS",
-    "url": "https://www.business-standard.com/economy/news/aiib-plans-to-scale-up-water-financing-in-india-as-el-nino-worsens-126092600287_1.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-09-26",
-    "topic": "INDIA SLAMS PAK, SAYS ISLAMABAD HAS A 'LONG-STANDING PRACTICE OF CROSS-BORDER TERRORISM'; WARNS OF CONSEQUENCES",
-    "headline": "INDIA SLAMS PAK, SAYS ISLAMABAD HAS A 'LONG-STANDING PRACTICE OF CROSS-BORDER TERRORISM'; WARNS OF CONSEQUENCES",
-    "url": "https://www.livemint.com/news/india/india-slams-pak-says-islamabad-has-a-long-standing-practice-of-cross-border-terrorism-warns-of-consequences-11790399187945.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-09-26",
-    "topic": "CONGO PLANE CRASH: 14 KILLED, INCLUDING TWO SENIOR MILITARY OFFICIALS",
-    "headline": "CONGO PLANE CRASH: 14 KILLED, INCLUDING TWO SENIOR MILITARY OFFICIALS",
-    "url": "https://www.livemint.com/news/world/congo-plane-crash-14-killed-including-two-senior-military-officials-11790393997374.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-09-26",
-    "topic": "DELHI-NCR WEATHER TODAY: RAIN, GUSTY WINDS LIKELY FOR NEXT 3 DAYS; TEMPERATURE TO DIP FURTHER",
-    "headline": "DELHI-NCR WEATHER TODAY: RAIN, GUSTY WINDS LIKELY FOR NEXT 3 DAYS; TEMPERATURE TO DIP FURTHER",
-    "url": "https://www.livemint.com/news/india/delhincr-weather-today-rain-gusty-winds-likely-for-next-3-days-temperature-to-dip-further-11790392474727.html",
-    "post_num": 5
-  },
-  {
-    "date": "2026-09-26",
     "topic": "TRUMP FACES CRITICAL SENATE TEST AS GOP CANDIDATES TRAIL DEMOCRATS IN KEY BATTLEGROUND SURVEYS",
     "headline": "TRUMP FACES CRITICAL SENATE TEST AS GOP CANDIDATES TRAIL DEMOCRATS IN KEY BATTLEGROUND SURVEYS",
     "url": "https://www.livemint.com/news/us-news/trump-faces-senate-test-in-georgia-north-carolina-as-gop-candidates-trail-democrats-in-survey-11790437003314.html",
@@ -417,6 +382,41 @@
     "topic": "RBI EXTENDS BENCHMARK ISSUANCE STRATEGY TO 7 MORE STATES, J&K FROM Q3 FY27",
     "headline": "RBI EXTENDS BENCHMARK ISSUANCE STRATEGY TO 7 MORE STATES, J&K FROM Q3 FY27",
     "url": "https://www.business-standard.com/economy/news/rbi-extends-benchmark-issuance-strategy-to-7-more-states-j-k-from-q3-fy27-126100101347_1.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-10-02",
+    "topic": "JANTAR MANTAR PROTEST: DELHI TRAFFIC POLICE ISSUES ADVISORY; KEY ROUTES TO FACE RESTRICTIONS ON OCT 2",
+    "headline": "JANTAR MANTAR PROTEST: DELHI TRAFFIC POLICE ISSUES ADVISORY; KEY ROUTES TO FACE RESTRICTIONS ON OCT 2",
+    "url": "https://www.livemint.com/news/india/jantar-mantar-protest-live-delhi-traffic-police-issues-advisory-key-routes-to-face-restrictions-on-oct-2-11790910132930.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-10-02",
+    "topic": "CJP PROTEST LIVE UPDATE: AAP'S ATISHI, BHARADWAJ, SANJAY SINGH, STUDENTS AMONG 500 DETAINED DURING AGITATION AGAINST CEC",
+    "headline": "CJP PROTEST LIVE UPDATE: AAP'S ATISHI, BHARADWAJ, SANJAY SINGH, STUDENTS AMONG 500 DETAINED DURING AGITATION AGAINST CEC",
+    "url": "https://www.livemint.com/news/india/cjp-protest-mumbai-live-abhijeet-dipke-gyanesh-kumar-cockroach-janata-party-11790906713661.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-10-02",
+    "topic": "DRDO\u2019S TAKSHAK TORPEDO SET FOR TRIALS SOON",
+    "headline": "DRDO\u2019S TAKSHAK TORPEDO SET FOR TRIALS SOON",
+    "url": "https://idrw.org/drdos-takshak-torpedo-set-for-trials-soon/",
+    "post_num": 3
+  },
+  {
+    "date": "2026-10-02",
+    "topic": "SURGEON REAR ADMIRAL JANDHYALA SRIDHAR TAKES CHARGE AS COMMAND MEDICAL OFFICER AT EASTERN NAVAL COMMAND",
+    "headline": "SURGEON REAR ADMIRAL JANDHYALA SRIDHAR TAKES CHARGE AS COMMAND MEDICAL OFFICER AT EASTERN NAVAL COMMAND",
+    "url": "https://news.ssbcrack.com/surgeon-rear-admiral-jandhyala-sridhar-takes-charge-as-command-medical-officer-at-eastern-naval-command/",
+    "post_num": 4
+  },
+  {
+    "date": "2026-10-02",
+    "topic": "INDIA TO FINALIZE PROCUREMENT OF 114 RAFALE FIGHTER JETS BY YEAR-END",
+    "headline": "INDIA TO FINALIZE PROCUREMENT OF 114 RAFALE FIGHTER JETS BY YEAR-END",
+    "url": "https://news.ssbcrack.com/india-to-finalize-procurement-of-114-rafale-fighter-jets-by-year-end/",
     "post_num": 5
   }
 ]
