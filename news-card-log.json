@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-09-27",
-    "topic": "CBIC EASES PAPERWORK TO CLAIM CONCESSIONAL DUTY ON IMPORTS FROM UK UNDER INDIA-UK CETA",
-    "headline": "CBIC EASES PAPERWORK TO CLAIM CONCESSIONAL DUTY ON IMPORTS FROM UK UNDER INDIA-UK CETA",
-    "url": "https://www.business-standard.com/economy/news/cbic-eases-paperwork-to-claim-concessional-duty-on-imports-from-uk-126092700646_1.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-09-27",
-    "topic": "POWERFUL NOR\u2019EASTER SLAMS NEW YORK AND NORTHEAST CAUSING FLOODING AND GROUNDING HUNDREDS OF FLIGHTS",
-    "headline": "POWERFUL NOR\u2019EASTER SLAMS NEW YORK AND NORTHEAST CAUSING FLOODING AND GROUNDING HUNDREDS OF FLIGHTS",
-    "url": "https://www.livemint.com/news/us-news/new-york-and-northeast-facing-another-day-of-wild-weather-11790516910196.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-09-27",
-    "topic": "TAMIL NADU GOVERNMENT WITHDRAWS RTI EXEMPTION FOR LAW AND ORDER DEPARTMENT AFTER FACING CRITICISM",
-    "headline": "TAMIL NADU GOVERNMENT WITHDRAWS RTI EXEMPTION FOR LAW AND ORDER DEPARTMENT AFTER FACING CRITICISM",
-    "url": "https://www.livemint.com/news/india/tamil-nadu-government-withdraws-rti-exemption-for-law-and-order-department-amid-criticism-11790510226916.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-09-27",
-    "topic": "PIYUSH GOYAL MAY HOLD BILATERAL MEETING WITH USTR JAMIESON GREER THIS WEEK",
-    "headline": "PIYUSH GOYAL MAY HOLD BILATERAL MEETING WITH USTR JAMIESON GREER THIS WEEK",
-    "url": "https://www.business-standard.com/india-news/piyush-goyal-may-hold-bilateral-meeting-with-ustr-jamieson-greer-this-week-126092700512_1.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-09-27",
-    "topic": "BIHAR'S \u20b921,000 CRORE MINERAL RESERVES COULD GENERATE OVER \u20b95,000 CRORE ANNUAL REVENUE",
-    "headline": "BIHAR'S \u20b921,000 CRORE MINERAL RESERVES COULD GENERATE OVER \u20b95,000 CRORE ANNUAL REVENUE",
-    "url": "https://www.livemint.com/news/india/bihars-21-000-crore-mineral-reserves-may-generate-over-5-000-crore-annual-revenue-says-report-11790505619842.html",
-    "post_num": 5
-  },
-  {
     "date": "2026-09-28",
     "topic": "INDIA LESS WORRIED ABOUT AI JOB LOSSES THAN RICHER NATIONS, DATA SHOWS",
     "headline": "INDIA LESS WORRIED ABOUT AI JOB LOSSES THAN RICHER NATIONS, DATA SHOWS",
@@ -417,6 +382,41 @@
     "topic": "TEJAS REMINDS ME OF MIRAGE 2000 SAYS FRENCH AIR DEFENCE COMMANDER",
     "headline": "TEJAS REMINDS ME OF MIRAGE 2000 SAYS FRENCH AIR DEFENCE COMMANDER",
     "url": "https://idrw.org/french-commander-tejas-mirage-2000-comparison/",
+    "post_num": 5
+  },
+  {
+    "date": "2026-10-03",
+    "topic": "AIRLINES REJECT 33% CUT IN INTERNATIONAL SLOTS AT MUMBAI AIRPORT T2 FROM OCT 25: REPORT",
+    "headline": "AIRLINES REJECT 33% CUT IN INTERNATIONAL SLOTS AT MUMBAI AIRPORT T2 FROM OCT 25: REPORT",
+    "url": "https://www.livemint.com/news/india/airlines-reject-33-cut-in-international-slots-at-mumbai-airport-t2-from-oct-25-report-11791044348402.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-10-03",
+    "topic": "WILL MOVIE TICKETS IN MUMBAI BECOME 7 TIMES COSTLIER AFTER BMC\u2019S TAX DEMANDS? EXPLAINED",
+    "headline": "WILL MOVIE TICKETS IN MUMBAI BECOME 7 TIMES COSTLIER AFTER BMC\u2019S TAX DEMANDS? EXPLAINED",
+    "url": "https://www.livemint.com/news/india/will-movie-tickets-in-mumbai-become-7-times-costlier-after-bmc-s-tax-demands-explained-11791044224906.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-10-03",
+    "topic": "REGULATION MUST MANAGE RISKS WHILE SUPPORTING GROWTH: NITI AAYOG'S GAUBA",
+    "headline": "REGULATION MUST MANAGE RISKS WHILE SUPPORTING GROWTH: NITI AAYOG'S GAUBA",
+    "url": "https://www.business-standard.com/economy/news/regulation-must-manage-risks-while-supporting-growth-niti-aayog-s-gauba-126100300895_1.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-10-03",
+    "topic": "PIYUSH GOYAL MEETS TOP US FIRMS TO BOOST INVESTMENTS UNDER MAKE IN INDIA",
+    "headline": "PIYUSH GOYAL MEETS TOP US FIRMS TO BOOST INVESTMENTS UNDER MAKE IN INDIA",
+    "url": "https://www.business-standard.com/economy/news/goyal-holds-bilateral-meetings-with-top-officials-of-several-us-firms-126100300825_1.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-10-03",
+    "topic": "INDIA'S ANSWER TO A RISK-PRICED WORLD IS OPENNESS, NOT FRAGILITY: PK MISHRA",
+    "headline": "INDIA'S ANSWER TO A RISK-PRICED WORLD IS OPENNESS, NOT FRAGILITY: PK MISHRA",
+    "url": "https://www.business-standard.com/economy/news/india-s-answer-to-a-risk-priced-world-is-openness-not-fragility-pk-mishra-126100300818_1.html",
     "post_num": 5
   }
 ]
