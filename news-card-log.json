@@ -1,41 +1,6 @@
 [
   {
     "date": "2026-09-29",
-    "topic": "HOW AI\u2019S MEMORY HUNGER IS CREEPING INTO INDIA\u2019S INFLATION AND IMPORT BILL",
-    "headline": "HOW AI\u2019S MEMORY HUNGER IS CREEPING INTO INDIA\u2019S INFLATION AND IMPORT BILL",
-    "url": "https://www.livemint.com/news/ai-memory-chips-chipflation-india-inflation-import-bill-smartphones-laptops-pen-drives-11790658517340.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-09-29",
-    "topic": "US-CANADA TRADE WAR: TRUMP\u2019S BAN ON CANADIAN ALCOHOLIC BEVERAGES TAKES EFFECT, BUT BULK WHISKY IS EXEMPT. HERE\u2019S WHY",
-    "headline": "US-CANADA TRADE WAR: TRUMP\u2019S BAN ON CANADIAN ALCOHOLIC BEVERAGES TAKES EFFECT, BUT BULK WHISKY IS EXEMPT. HERE\u2019S WHY",
-    "url": "https://www.livemint.com/news/us-news/uscanada-trade-war-deepens-trumps-ban-on-canadian-alcoholic-beverage-in-effect-but-bulk-whisky-exempted-heres-why-11790663954429.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-09-29",
-    "topic": "SEOUL SAYS NORTH KOREA\u2019S MINES LIKELY BEHIND DMZ EXPLOSIONS",
-    "headline": "SEOUL SAYS NORTH KOREA\u2019S MINES LIKELY BEHIND DMZ EXPLOSIONS",
-    "url": "https://www.livemint.com/news/world/seoul-says-north-korea-s-mines-likely-behind-dmz-explosions-11790651183835.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-09-29",
-    "topic": "IRAN WAR LIVE: IRAN SAYS IT EXPECTS US TO ANSWER TODAY ON PLAN TO OPEN HORMUZ",
-    "headline": "IRAN WAR LIVE: IRAN SAYS IT EXPECTS US TO ANSWER TODAY ON PLAN TO OPEN HORMUZ",
-    "url": "https://www.livemint.com/news/us-news/iran-war-live-news-latest-updates-donald-trump-abbas-araghchi-ceasefire-peace-talks-strait-of-hormuz-oil-prices-11790645895271.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-09-29",
-    "topic": "GOLDY BRAR ON FBI 10 MOST WANTED LIST; CARRIES A $1 MILLION BOUNTY",
-    "headline": "GOLDY BRAR ON FBI 10 MOST WANTED LIST; CARRIES A $1 MILLION BOUNTY",
-    "url": "https://www.livemint.com/news/goldy-brar-on-fbi-10-most-wanted-list-carries-a-1-million-bounty-11790645453744.html",
-    "post_num": 5
-  },
-  {
-    "date": "2026-09-29",
     "topic": "INFLATION ISN'T DONE: INTEREST RATES LIKELY TO RISE MORE, FED GOVERNOR MICHAEL BARR WARNS",
     "headline": "INFLATION ISN'T DONE: INTEREST RATES LIKELY TO RISE MORE, FED GOVERNOR MICHAEL BARR WARNS",
     "url": "https://www.livemint.com/news/us-news/inflation-isnt-done-interest-rates-likely-to-rise-more-fed-governor-michael-barr-warns-11790703865758.html",
@@ -417,6 +382,41 @@
     "topic": "FRENCH STUDENT PROTESTS ESCALATE: UP TO 500 SCHOOLS TO REMAIN CLOSED ON MONDAY, 5 OCTOBER",
     "headline": "FRENCH STUDENT PROTESTS ESCALATE: UP TO 500 SCHOOLS TO REMAIN CLOSED ON MONDAY, 5 OCTOBER",
     "url": "https://www.livemint.com/news/world/french-student-protests-escalate-up-to-500-schools-to-remain-closed-on-monday-5-october-11791118109393.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-10-05",
+    "topic": "NEW BILATERAL INVESTMENT TREATY FRAMEWORK TO GET CABINET NOD: SITHARAMAN",
+    "headline": "NEW BILATERAL INVESTMENT TREATY FRAMEWORK TO GET CABINET NOD: SITHARAMAN",
+    "url": "https://www.business-standard.com/economy/news/new-bilateral-investment-treaty-framework-to-get-cabinet-nod-sitharaman-126100500319_1.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-10-05",
+    "topic": "INDIA ECONOMY STRONG; ENERGY SECURITY, JOBS KEY TO GROWTH: N CHANDRASEKARAN",
+    "headline": "INDIA ECONOMY STRONG; ENERGY SECURITY, JOBS KEY TO GROWTH: N CHANDRASEKARAN",
+    "url": "https://www.business-standard.com/economy/news/india-economy-strong-energy-security-jobs-key-to-growth-n-chandrasekaran-126100500250_1.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-10-05",
+    "topic": "INDIA, US HAVE REACHED A PLATEAU IN TRADE TALKS, SAYS FM NIRMALA SITHARAMAN",
+    "headline": "INDIA, US HAVE REACHED A PLATEAU IN TRADE TALKS, SAYS FM NIRMALA SITHARAMAN",
+    "url": "https://www.business-standard.com/economy/news/india-us-have-reached-a-plateau-in-trade-talks-says-fm-nirmala-sitharaman-126100500184_1.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-10-05",
+    "topic": "BRAZIL ELECTION: WHY LULA AND FLAVIO BOLSONARO ARE HEADED FOR A HIGH-STAKES RUNOFF",
+    "headline": "BRAZIL ELECTION: WHY LULA AND FLAVIO BOLSONARO ARE HEADED FOR A HIGH-STAKES RUNOFF",
+    "url": "https://www.livemint.com/news/world/brazil-election-why-lula-and-flavio-bolsonaro-are-headed-for-a-high-stakes-runoff-11791175790905.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-10-05",
+    "topic": "\u2018HE WAS OPENLY RADICALIZED\u2019: AVIATION VETERAN ON FLYDUBAI ATTACK, SECURITY GAPS AND EMERGENCY LANDING | EXCLUSIVE",
+    "headline": "\u2018HE WAS OPENLY RADICALIZED\u2019: AVIATION VETERAN ON FLYDUBAI ATTACK, SECURITY GAPS AND EMERGENCY LANDING | EXCLUSIVE",
+    "url": "https://www.livemint.com/news/world/he-was-openly-radicalized-aviation-veteran-on-flydubai-attack-security-gaps-and-emergency-landing-exclusive-11791170773271.html",
     "post_num": 5
   }
 ]
