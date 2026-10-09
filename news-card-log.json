@@ -1,41 +1,6 @@
 [
   {
     "date": "2026-10-03",
-    "topic": "DEMOCRACY MAKES INDIA'S ECONOMIC REFORMS DURABLE, SAYS VICE-PRESIDENT",
-    "headline": "DEMOCRACY MAKES INDIA'S ECONOMIC REFORMS DURABLE, SAYS VICE-PRESIDENT",
-    "url": "https://www.business-standard.com/economy/news/vice-president-cp-radhakrishnan-democracy-economic-reforms-kautilya-conclave-126100300249_1.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-10-03",
-    "topic": "EXPLAINER: WHAT IS MITHI RIVER DESILTING CASE? ALL ABOUT \u20b965 CR MUMBAI 'SCAM' OVER BMC CONTRACT FINANCIAL FRAUD",
-    "headline": "EXPLAINER: WHAT IS MITHI RIVER DESILTING CASE? ALL ABOUT \u20b965 CR MUMBAI 'SCAM' OVER BMC CONTRACT FINANCIAL FRAUD",
-    "url": "https://www.livemint.com/news/india/explainer-what-is-mithi-river-desilting-case-all-about-rs-65-cr-mumbai-scam-over-bmc-contract-financial-fraud-11791006697500.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-10-03",
-    "topic": "INDIAN WOMAN IN DUBAI SHARES HOW AFFLUENT SURROUNDINGS SPARKED A MASSIVE WEALTH MINDSET SHIFT",
-    "headline": "INDIAN WOMAN IN DUBAI SHARES HOW AFFLUENT SURROUNDINGS SPARKED A MASSIVE WEALTH MINDSET SHIFT",
-    "url": "https://www.livemint.com/news/trends/a-huge-mindset-shift-indian-woman-shares-what-dubai-taught-her-about-wealth-11790991777145.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-10-03",
-    "topic": "INDIAN ARMY APACHE SHOOTS DOWN TARGET DRONE WITH 30MM GUN SYSTEM IN AERIAL COMBAT DRILL",
-    "headline": "INDIAN ARMY APACHE SHOOTS DOWN TARGET DRONE WITH 30MM GUN SYSTEM IN AERIAL COMBAT DRILL",
-    "url": "https://idrw.org/indian-armys-apache-shots-down-target-drone-to-validate-gun-system-for-aerial-combat/",
-    "post_num": 4
-  },
-  {
-    "date": "2026-10-03",
-    "topic": "TEJAS REMINDS ME OF MIRAGE 2000 SAYS FRENCH AIR DEFENCE COMMANDER",
-    "headline": "TEJAS REMINDS ME OF MIRAGE 2000 SAYS FRENCH AIR DEFENCE COMMANDER",
-    "url": "https://idrw.org/french-commander-tejas-mirage-2000-comparison/",
-    "post_num": 5
-  },
-  {
-    "date": "2026-10-03",
     "topic": "AIRLINES REJECT 33% CUT IN INTERNATIONAL SLOTS AT MUMBAI AIRPORT T2 FROM OCT 25: REPORT",
     "headline": "AIRLINES REJECT 33% CUT IN INTERNATIONAL SLOTS AT MUMBAI AIRPORT T2 FROM OCT 25: REPORT",
     "url": "https://www.livemint.com/news/india/airlines-reject-33-cut-in-international-slots-at-mumbai-airport-t2-from-oct-25-report-11791044348402.html",
@@ -417,6 +382,41 @@
     "topic": "FLY91\u2019S HIRING PUSH TAKES FLIGHT AS REGIONAL AIRLINE SCALES UP",
     "headline": "FLY91\u2019S HIRING PUSH TAKES FLIGHT AS REGIONAL AIRLINE SCALES UP",
     "url": "https://www.livemint.com/news/fly91-regional-aviation-airline-manoj-chacko-atr-72-600-airline-hiring-fleet-expansion-11791471008632.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-10-09",
+    "topic": "DELHI POLICE STEPS UP SECURITY AHEAD OF CJP PROTEST. OLA, UBER CABS TO FACE RESTRICTIONS?",
+    "headline": "DELHI POLICE STEPS UP SECURITY AHEAD OF CJP PROTEST. OLA, UBER CABS TO FACE RESTRICTIONS?",
+    "url": "https://www.livemint.com/news/india/delhi-police-steps-up-security-ahead-of-cjp-protest-ola-uber-cabs-to-face-restrictions-11791566851923.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-10-09",
+    "topic": "RBI TIGHTENS LIQUIDITY: RAISES DAILY CRR MAINTENANCE TO 99% AND ANNOUNCES \u20b925,000 CRORE BOND SALE",
+    "headline": "RBI TIGHTENS LIQUIDITY: RAISES DAILY CRR MAINTENANCE TO 99% AND ANNOUNCES \u20b925,000 CRORE BOND SALE",
+    "url": "https://www.business-standard.com/economy/news/rbi-tightens-liquidity-after-rate-rise-raises-daily-crr-maintenance-to-99-126100901382_1.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-10-09",
+    "topic": "RBI STUDY FILLS FOUR-MONTH GAP IN STATE INFLATION DATA USING SURVEY INPUTS",
+    "headline": "RBI STUDY FILLS FOUR-MONTH GAP IN STATE INFLATION DATA USING SURVEY INPUTS",
+    "url": "https://www.business-standard.com/industry/banking/rbi-study-fills-four-month-gap-in-state-inflation-data-using-survey-inputs-126100901369_1.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-10-09",
+    "topic": "SBI REPORT URGES RBI TO WIDEN LAF CORRIDOR TO STABILISE FINANCIAL MARKETS AMID GLOBAL UNCERTAINTY",
+    "headline": "SBI REPORT URGES RBI TO WIDEN LAF CORRIDOR TO STABILISE FINANCIAL MARKETS AMID GLOBAL UNCERTAINTY",
+    "url": "https://www.business-standard.com/industry/banking/rbi-should-widen-laf-corridor-to-stabilise-financial-markets-sbi-report-126100901098_1.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-10-09",
+    "topic": "INDIA'S FOREX RESERVES DROP BY $51 BILLION IN FOUR WEEKS AS RBI DEFENDS RUPEE",
+    "headline": "INDIA'S FOREX RESERVES DROP BY $51 BILLION IN FOUR WEEKS AS RBI DEFENDS RUPEE",
+    "url": "https://www.business-standard.com/economy/news/india-s-forex-reserves-drop-for-fourth-week-down-12-95-bn-to-734-6-bn-126100901061_1.html",
     "post_num": 5
   }
 ]
