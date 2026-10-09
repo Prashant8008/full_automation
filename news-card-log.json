@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-10-02",
-    "topic": "PUTIN WARNS RUSSIA WILL USE ALL WEAPONS AGAINST NATO AGGRESSION AS KALININGRAD FLASHPOINT HEATS UP",
-    "headline": "PUTIN WARNS RUSSIA WILL USE ALL WEAPONS AGAINST NATO AGGRESSION AS KALININGRAD FLASHPOINT HEATS UP",
-    "url": "https://www.livemint.com/news/world/putin-warns-russia-will-use-all-weapons-against-nato-aggression-why-kaliningrad-is-latest-flashpoint-11790961804871.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-10-02",
-    "topic": "DATANOMICS: SERVICES CUSHION SHRINKS AS TRADE DEFICIT PUSHES CAD DEEPER",
-    "headline": "DATANOMICS: SERVICES CUSHION SHRINKS AS TRADE DEFICIT PUSHES CAD DEEPER",
-    "url": "https://www.business-standard.com/economy/news/datanomics-services-cushion-shrinks-as-trade-deficit-pushes-cad-deeper-126100200572_1.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-10-02",
-    "topic": "\u2018WORKED 6.5 DAYS/WEEK, 14 HRS/DAY\u2019 - NO TIME EVEN FOR HAIRCUT, CALLING HOME? CHENNAI ENTREPRENEUR ON WORK-LIFE BALANCE",
-    "headline": "\u2018WORKED 6.5 DAYS/WEEK, 14 HRS/DAY\u2019 - NO TIME EVEN FOR HAIRCUT, CALLING HOME? CHENNAI ENTREPRENEUR ON WORK-LIFE BALANCE",
-    "url": "https://www.livemint.com/news/trends/worked-6-5-days-week-14-hrs-day-no-time-even-for-haircut-calling-home-chennai-entrepreneur-on-work-life-balance-11790957917463.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-10-02",
-    "topic": "EXPLAINER | PEPSICO, MONSTER CHALLENGE ORDER AGAINST USE OF 'ENERGY DRINK' LABELS BUT WHY FSSAI CALLS THEM MISLEADING",
-    "headline": "EXPLAINER | PEPSICO, MONSTER CHALLENGE ORDER AGAINST USE OF 'ENERGY DRINK' LABELS BUT WHY FSSAI CALLS THEM MISLEADING",
-    "url": "https://www.livemint.com/news/india/explainer-pepsico-monster-challenge-order-against-use-of-energy-drink-labels-but-why-fssai-calls-them-misleading-11790954364839.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-10-02",
-    "topic": "\u2018THERE ARE NO RULES NOW\u2019: ZELENSKY REVEALS PUTIN\u2019S ALLEGED NEW WAR ORDER",
-    "headline": "\u2018THERE ARE NO RULES NOW\u2019: ZELENSKY REVEALS PUTIN\u2019S ALLEGED NEW WAR ORDER",
-    "url": "https://www.livemint.com/news/world/there-are-no-rules-now-zelensky-reveals-putin-s-alleged-new-war-order-11790956664852.html",
-    "post_num": 5
-  },
-  {
     "date": "2026-10-03",
     "topic": "DEMOCRACY MAKES INDIA'S ECONOMIC REFORMS DURABLE, SAYS VICE-PRESIDENT",
     "headline": "DEMOCRACY MAKES INDIA'S ECONOMIC REFORMS DURABLE, SAYS VICE-PRESIDENT",
@@ -417,6 +382,41 @@
     "topic": "US SUSPENDS WORK VISA PROGRAM FOR INDIAN IT FIRMS, MICROSOFT CITING WIDESPREAD ABUSE",
     "headline": "US SUSPENDS WORK VISA PROGRAM FOR INDIAN IT FIRMS, MICROSOFT CITING WIDESPREAD ABUSE",
     "url": "https://www.livemint.com/news/us-work-visa-indian-it-firms-tcs-infosys-wipro-11791475886441.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-10-09",
+    "topic": "EX-AWS TECHIE DEFENDS IMMIGRANT WORKFORCE SAYING IT WAS NECESSARY TO BUILD BIGGEST AMERICAN COMPANIES",
+    "headline": "EX-AWS TECHIE DEFENDS IMMIGRANT WORKFORCE SAYING IT WAS NECESSARY TO BUILD BIGGEST AMERICAN COMPANIES",
+    "url": "https://www.livemint.com/news/trends/visa-abuse-was-what-was-necessary-to-create-the-biggest-american-companies-ex-aws-techie-defends-immigrant-workforce-11791527417016.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-10-09",
+    "topic": "INDIAN PILOT SMIT MACHCHHAR TO RECEIVE ISRAEL\u2019S TOP CIVILIAN AWARD FOR \u2018SHEER BRAVERY\u2019: WHAT DOES IT RECOGNIZE?",
+    "headline": "INDIAN PILOT SMIT MACHCHHAR TO RECEIVE ISRAEL\u2019S TOP CIVILIAN AWARD FOR \u2018SHEER BRAVERY\u2019: WHAT DOES IT RECOGNIZE?",
+    "url": "https://www.livemint.com/news/world/indian-pilot-smit-machchhar-to-receive-israel-s-top-civilian-award-for-sheer-bravery-what-does-it-recognize-11791517023312.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-10-09",
+    "topic": "\u2018NOT LIKE CORONAVIRUS\u2019: MYSTERY SHROUDS RUSSIAN LAB TECHNICIAN\u2019S DEATH, SOME RESIDENTS FEAR PLAGUE, OTHERS REMAIN CALM",
+    "headline": "\u2018NOT LIKE CORONAVIRUS\u2019: MYSTERY SHROUDS RUSSIAN LAB TECHNICIAN\u2019S DEATH, SOME RESIDENTS FEAR PLAGUE, OTHERS REMAIN CALM",
+    "url": "https://www.livemint.com/news/world/not-like-coronavirus-mystery-shrouds-russian-lab-technician-s-death-some-residents-fear-plague-others-remain-calm-11791514800296.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-10-09",
+    "topic": "PETROL, DIESEL PRICES TODAY, OCTOBER 9: CHECK RATES IN DELHI, MUMBAI, BENGALURU, CHENNAI AND MORE",
+    "headline": "PETROL, DIESEL PRICES TODAY, OCTOBER 9: CHECK RATES IN DELHI, MUMBAI, BENGALURU, CHENNAI AND MORE",
+    "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-october-9-check-rates-in-delhi-mumbai-bengaluru-chennai-and-more-11791515883756.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-10-09",
+    "topic": "FLY91\u2019S HIRING PUSH TAKES FLIGHT AS REGIONAL AIRLINE SCALES UP",
+    "headline": "FLY91\u2019S HIRING PUSH TAKES FLIGHT AS REGIONAL AIRLINE SCALES UP",
+    "url": "https://www.livemint.com/news/fly91-regional-aviation-airline-manoj-chacko-atr-72-600-airline-hiring-fleet-expansion-11791471008632.html",
     "post_num": 5
   }
 ]
