@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-10-03",
-    "topic": "AIRLINES REJECT 33% CUT IN INTERNATIONAL SLOTS AT MUMBAI AIRPORT T2 FROM OCT 25: REPORT",
-    "headline": "AIRLINES REJECT 33% CUT IN INTERNATIONAL SLOTS AT MUMBAI AIRPORT T2 FROM OCT 25: REPORT",
-    "url": "https://www.livemint.com/news/india/airlines-reject-33-cut-in-international-slots-at-mumbai-airport-t2-from-oct-25-report-11791044348402.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-10-03",
-    "topic": "WILL MOVIE TICKETS IN MUMBAI BECOME 7 TIMES COSTLIER AFTER BMC\u2019S TAX DEMANDS? EXPLAINED",
-    "headline": "WILL MOVIE TICKETS IN MUMBAI BECOME 7 TIMES COSTLIER AFTER BMC\u2019S TAX DEMANDS? EXPLAINED",
-    "url": "https://www.livemint.com/news/india/will-movie-tickets-in-mumbai-become-7-times-costlier-after-bmc-s-tax-demands-explained-11791044224906.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-10-03",
-    "topic": "REGULATION MUST MANAGE RISKS WHILE SUPPORTING GROWTH: NITI AAYOG'S GAUBA",
-    "headline": "REGULATION MUST MANAGE RISKS WHILE SUPPORTING GROWTH: NITI AAYOG'S GAUBA",
-    "url": "https://www.business-standard.com/economy/news/regulation-must-manage-risks-while-supporting-growth-niti-aayog-s-gauba-126100300895_1.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-10-03",
-    "topic": "PIYUSH GOYAL MEETS TOP US FIRMS TO BOOST INVESTMENTS UNDER MAKE IN INDIA",
-    "headline": "PIYUSH GOYAL MEETS TOP US FIRMS TO BOOST INVESTMENTS UNDER MAKE IN INDIA",
-    "url": "https://www.business-standard.com/economy/news/goyal-holds-bilateral-meetings-with-top-officials-of-several-us-firms-126100300825_1.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-10-03",
-    "topic": "INDIA'S ANSWER TO A RISK-PRICED WORLD IS OPENNESS, NOT FRAGILITY: PK MISHRA",
-    "headline": "INDIA'S ANSWER TO A RISK-PRICED WORLD IS OPENNESS, NOT FRAGILITY: PK MISHRA",
-    "url": "https://www.business-standard.com/economy/news/india-s-answer-to-a-risk-priced-world-is-openness-not-fragility-pk-mishra-126100300818_1.html",
-    "post_num": 5
-  },
-  {
     "date": "2026-10-04",
     "topic": "GOVT RAISES DEEPWATER GAS PRICE CEILING TO $9.89 PER MMBTU, APM CAP AT $7",
     "headline": "GOVT RAISES DEEPWATER GAS PRICE CEILING TO $9.89 PER MMBTU, APM CAP AT $7",
@@ -417,6 +382,41 @@
     "topic": "INDIA'S FOREX RESERVES DROP BY $51 BILLION IN FOUR WEEKS AS RBI DEFENDS RUPEE",
     "headline": "INDIA'S FOREX RESERVES DROP BY $51 BILLION IN FOUR WEEKS AS RBI DEFENDS RUPEE",
     "url": "https://www.business-standard.com/economy/news/india-s-forex-reserves-drop-for-fourth-week-down-12-95-bn-to-734-6-bn-126100901061_1.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-10-10",
+    "topic": "SHASHI THAROOR SLAMS DELHI CRACKDOWN ON CJP PROTEST, CALLS IT AN \u2018UNDECLARED EMER-GENZ\u2019",
+    "headline": "SHASHI THAROOR SLAMS DELHI CRACKDOWN ON CJP PROTEST, CALLS IT AN \u2018UNDECLARED EMER-GENZ\u2019",
+    "url": "https://www.livemint.com/news/india/shashi-tharoor-slams-delhi-crackdown-on-cjp-protest-calls-it-an-undeclared-emergenz-11791615865060.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-10-10",
+    "topic": "FROM A MEME HANDLE TO CAPITAL \u2018SHUTDOWN\u2019: THE ANATOMY OF COCKROACH JANTA PARTY\u2019S DIGITAL REBELLION",
+    "headline": "FROM A MEME HANDLE TO CAPITAL \u2018SHUTDOWN\u2019: THE ANATOMY OF COCKROACH JANTA PARTY\u2019S DIGITAL REBELLION",
+    "url": "https://www.livemint.com/news/india/from-a-meme-handle-to-shutting-down-the-capital-the-anatomy-of-cockroach-janta-party-s-digital-rebellion-11791613061731.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-10-10",
+    "topic": "DELHI NCR BRACES FOR MAJOR TRAVEL DELAYS AMID HEAVY SECURITY AND METRO CLOSURES FOR PLANNED PROTEST",
+    "headline": "DELHI NCR BRACES FOR MAJOR TRAVEL DELAYS AMID HEAVY SECURITY AND METRO CLOSURES FOR PLANNED PROTEST",
+    "url": "https://www.livemint.com/news/india/stuck-in-delhi-ncr-today-route-by-route-guide-to-open-metro-lines-airport-connectivity-and-railway-refunds-11791611801952.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-10-10",
+    "topic": "ABHIJEET DIPKE DETAINED ABOARD PLANE AHEAD OF PLANNED JANTAR MANTAR PROTEST IN DELHI",
+    "headline": "ABHIJEET DIPKE DETAINED ABOARD PLANE AHEAD OF PLANNED JANTAR MANTAR PROTEST IN DELHI",
+    "url": "https://www.livemint.com/news/india/delhi-protest-abhijeet-dipke-detained-aboard-plane-cjp-founder-says-karlo-arrest-video-11791610775084.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-10-10",
+    "topic": "DELHI MARKETS INCLUDING CP AND KHAN MARKET SHUT DOWN AMID JANTAR MANTAR PROTEST",
+    "headline": "DELHI MARKETS INCLUDING CP AND KHAN MARKET SHUT DOWN AMID JANTAR MANTAR PROTEST",
+    "url": "https://www.livemint.com/news/india/cjp-protest-in-jantar-mantar-cp-palika-khan-market-others-closed-today-check-which-are-open-11791608544447.html",
     "post_num": 5
   }
 ]
