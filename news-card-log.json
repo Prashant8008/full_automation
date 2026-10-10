@@ -1,41 +1,6 @@
 [
   {
     "date": "2026-10-04",
-    "topic": "GOVT RAISES DEEPWATER GAS PRICE CEILING TO $9.89 PER MMBTU, APM CAP AT $7",
-    "headline": "GOVT RAISES DEEPWATER GAS PRICE CEILING TO $9.89 PER MMBTU, APM CAP AT $7",
-    "url": "https://www.business-standard.com/economy/news/govt-raises-deepwater-gas-price-ceiling-to-9-89-per-mmbtu-apm-cap-at-7-126100400148_1.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-10-04",
-    "topic": "STEEL MINISTRY ASKS SAIL, NMDC TO EXPLORE OVERSEAS MINERAL ASSETS",
-    "headline": "STEEL MINISTRY ASKS SAIL, NMDC TO EXPLORE OVERSEAS MINERAL ASSETS",
-    "url": "https://www.business-standard.com/economy/news/steel-ministry-asks-sail-nmdc-to-explore-overseas-mineral-assets-126100400120_1.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-10-04",
-    "topic": "8.5 LAKH BOOKS, 135 YEARS OF HISTORY: SUPREME COURT TO HEAR CASE ON RELOCATION OF CENTRAL SECRETARIAT LIBRARY ON MONDAY",
-    "headline": "8.5 LAKH BOOKS, 135 YEARS OF HISTORY: SUPREME COURT TO HEAR CASE ON RELOCATION OF CENTRAL SECRETARIAT LIBRARY ON MONDAY",
-    "url": "https://www.livemint.com/news/india/85-lakh-books-135-years-of-history-supreme-court-to-hear-case-on-relocation-of-central-secretariat-library-on-monday-11791087091055.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-10-04",
-    "topic": "OPENCLAW CREATOR TURNS TO X AFTER APP REVIEW DELAY; SUNDAR PICHAI SAYS \u2018WILL FOLLOW UP\u2019. INTERNET REACTS",
-    "headline": "OPENCLAW CREATOR TURNS TO X AFTER APP REVIEW DELAY; SUNDAR PICHAI SAYS \u2018WILL FOLLOW UP\u2019. INTERNET REACTS",
-    "url": "https://www.livemint.com/news/trends/openclaw-creator-turns-to-x-after-app-review-delay-sundar-pichai-says-will-follow-up-internet-reacts-11791086460690.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-10-04",
-    "topic": "CISF JAWAN ARRESTED FOR ALLEGEDLY RAPING COLLEGE STUDENT IN ODISHA",
-    "headline": "CISF JAWAN ARRESTED FOR ALLEGEDLY RAPING COLLEGE STUDENT IN ODISHA",
-    "url": "https://news.ssbcrack.com/cisf-jawan-arrested-for-allegedly-raping-college-student-in-odisha/",
-    "post_num": 5
-  },
-  {
-    "date": "2026-10-04",
     "topic": "TRUMP\u2019S TRUTH SOCIAL OWED RIGHTFORGE $1.6 MILLION. 4 YEARS AFTER SHUTTING DOWN, IT\u2019S BACK WITH A NEW OWNER",
     "headline": "TRUMP\u2019S TRUTH SOCIAL OWED RIGHTFORGE $1.6 MILLION. 4 YEARS AFTER SHUTTING DOWN, IT\u2019S BACK WITH A NEW OWNER",
     "url": "https://www.livemint.com/news/us-news/trumps-truth-social-owed-rightforge-1-6-million-4-years-after-shutting-down-it-s-back-with-a-new-owner-11791126750288.html",
@@ -417,6 +382,41 @@
     "topic": "DELHI MARKETS INCLUDING CP AND KHAN MARKET SHUT DOWN AMID JANTAR MANTAR PROTEST",
     "headline": "DELHI MARKETS INCLUDING CP AND KHAN MARKET SHUT DOWN AMID JANTAR MANTAR PROTEST",
     "url": "https://www.livemint.com/news/india/cjp-protest-in-jantar-mantar-cp-palika-khan-market-others-closed-today-check-which-are-open-11791608544447.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-10-10",
+    "topic": "SAUDI AIRPORT ATTACKED AGAIN: MISSILE STRIKE REPORTED, MANY WOUNDED; PASSENGERS EVACUATED, FLIGHTS DIVERTED",
+    "headline": "SAUDI AIRPORT ATTACKED AGAIN: MISSILE STRIKE REPORTED, MANY WOUNDED; PASSENGERS EVACUATED, FLIGHTS DIVERTED",
+    "url": "https://www.livemint.com/news/world/saudi-airport-attacked-again-missile-strike-reported-many-wounded-passengers-evacuated-flights-diverted-11791649722142.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-10-10",
+    "topic": "UN HUMAN RIGHTS EXPRESSES CONCERN OVER MASS DETENTIONS IN DELHI AND MUMBAI PROTESTS",
+    "headline": "UN HUMAN RIGHTS EXPRESSES CONCERN OVER MASS DETENTIONS IN DELHI AND MUMBAI PROTESTS",
+    "url": "https://www.livemint.com/news/india/un-human-rights-expresses-concern-over-mass-detentions-during-delhi-mumbai-protests-calls-for-release-of-detainees-11791646229252.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-10-10",
+    "topic": "INDIAN OIL EXECUTIVE RAKESH KUMAR RECOMMENDED FOR CPCL DIRECTOR OF OPERATIONS POST",
+    "headline": "INDIAN OIL EXECUTIVE RAKESH KUMAR RECOMMENDED FOR CPCL DIRECTOR OF OPERATIONS POST",
+    "url": "https://www.livemint.com/news/india/meet-rakesh-kumar-indian-oil-executive-recommended-for-cpcl-s-director-of-operations-post-11791644480139.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-10-10",
+    "topic": "PIYUSH GOYAL SAYS CHANGED CIRCUMSTANCES WILL SHAPE FINAL TRADE PACT WITH US",
+    "headline": "PIYUSH GOYAL SAYS CHANGED CIRCUMSTANCES WILL SHAPE FINAL TRADE PACT WITH US",
+    "url": "https://www.business-standard.com/economy/news/piyush-goyal-says-changed-circumstances-will-shape-final-trade-pact-with-us-126101000761_1.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-10-10",
+    "topic": "TRUMP ADMINISTRATION TO SEND EXTRA 90 DOLLAR SOCIAL SECURITY CHECKS TO MILLIONS OF SENIORS",
+    "headline": "TRUMP ADMINISTRATION TO SEND EXTRA 90 DOLLAR SOCIAL SECURITY CHECKS TO MILLIONS OF SENIORS",
+    "url": "https://www.livemint.com/news/us-news/social-security-90-checks-why-trump-is-sending-extra-money-to-millions-of-seniors-11791636212274.html",
     "post_num": 5
   }
 ]
