@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-10-04",
-    "topic": "TRUMP\u2019S TRUTH SOCIAL OWED RIGHTFORGE $1.6 MILLION. 4 YEARS AFTER SHUTTING DOWN, IT\u2019S BACK WITH A NEW OWNER",
-    "headline": "TRUMP\u2019S TRUTH SOCIAL OWED RIGHTFORGE $1.6 MILLION. 4 YEARS AFTER SHUTTING DOWN, IT\u2019S BACK WITH A NEW OWNER",
-    "url": "https://www.livemint.com/news/us-news/trumps-truth-social-owed-rightforge-1-6-million-4-years-after-shutting-down-it-s-back-with-a-new-owner-11791126750288.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-10-04",
-    "topic": "RISING GLOBAL BOND YIELDS AND AI INVESTMENTS POSE MAJOR CHALLENGE TO EMERGING MARKETS: DEA SECRETARY",
-    "headline": "RISING GLOBAL BOND YIELDS AND AI INVESTMENTS POSE MAJOR CHALLENGE TO EMERGING MARKETS: DEA SECRETARY",
-    "url": "https://www.business-standard.com/economy/news/rising-global-bond-yields-pose-huge-challenge-to-emerging-markets-dea-secy-126100400708_1.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-10-04",
-    "topic": "TRAFFIC EXISTS EVERYWHERE, BUT WHAT MAKES IRELAND\u2019S ROADS FEEL SAFER? INDIAN WOMAN EXPLAINS",
-    "headline": "TRAFFIC EXISTS EVERYWHERE, BUT WHAT MAKES IRELAND\u2019S ROADS FEEL SAFER? INDIAN WOMAN EXPLAINS",
-    "url": "https://www.livemint.com/news/trends/traffic-exists-everywhere-but-what-makes-ireland-s-roads-feel-safer-indian-woman-explains-11791127486709.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-10-04",
-    "topic": "INDIA\u2019S RESILIENCE TO GLOBAL SHOCKS BUILT ON BROAD REFORMS: SHAKTIKANTA DAS",
-    "headline": "INDIA\u2019S RESILIENCE TO GLOBAL SHOCKS BUILT ON BROAD REFORMS: SHAKTIKANTA DAS",
-    "url": "https://www.livemint.com/news/indias-resilience-not-accidental-outcome-of-broad-reforms-shaktikanta-das-11791112649117.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-10-04",
-    "topic": "FRENCH STUDENT PROTESTS ESCALATE: UP TO 500 SCHOOLS TO REMAIN CLOSED ON MONDAY, 5 OCTOBER",
-    "headline": "FRENCH STUDENT PROTESTS ESCALATE: UP TO 500 SCHOOLS TO REMAIN CLOSED ON MONDAY, 5 OCTOBER",
-    "url": "https://www.livemint.com/news/world/french-student-protests-escalate-up-to-500-schools-to-remain-closed-on-monday-5-october-11791118109393.html",
-    "post_num": 5
-  },
-  {
     "date": "2026-10-05",
     "topic": "NEW BILATERAL INVESTMENT TREATY FRAMEWORK TO GET CABINET NOD: SITHARAMAN",
     "headline": "NEW BILATERAL INVESTMENT TREATY FRAMEWORK TO GET CABINET NOD: SITHARAMAN",
@@ -417,6 +382,41 @@
     "topic": "TRUMP ADMINISTRATION TO SEND EXTRA 90 DOLLAR SOCIAL SECURITY CHECKS TO MILLIONS OF SENIORS",
     "headline": "TRUMP ADMINISTRATION TO SEND EXTRA 90 DOLLAR SOCIAL SECURITY CHECKS TO MILLIONS OF SENIORS",
     "url": "https://www.livemint.com/news/us-news/social-security-90-checks-why-trump-is-sending-extra-money-to-millions-of-seniors-11791636212274.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-10-11",
+    "topic": "SMART INVESTMENT OR MONOPOLY? WOMAN'S \u20b920 CRORE PARKING SPACE BET SPARKS LEGAL FEUD IN CHINA",
+    "headline": "SMART INVESTMENT OR MONOPOLY? WOMAN'S \u20b920 CRORE PARKING SPACE BET SPARKS LEGAL FEUD IN CHINA",
+    "url": "https://www.livemint.com/news/trends/smart-investment-or-monopoly-womans-rs-20-crore-parking-space-bet-sparks-legal-feud-in-china-11791697153873.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-10-11",
+    "topic": "INDIA CONDEMNS \u2018DASTARDLY ATTACK\u2019 ON SAUDI ARABIA AIRPORT THAT KILLED 12; PAKISTAN CALLS HOUTHI STRIKES \u2018HEINOUS\u2019",
+    "headline": "INDIA CONDEMNS \u2018DASTARDLY ATTACK\u2019 ON SAUDI ARABIA AIRPORT THAT KILLED 12; PAKISTAN CALLS HOUTHI STRIKES \u2018HEINOUS\u2019",
+    "url": "https://www.livemint.com/news/world/india-condemns-dastardly-attack-on-saudi-arabia-airport-that-killed-12-pakistan-calls-houthi-strikes-heinous-11791698397347.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-10-11",
+    "topic": "UNCERTAINTIES LOOM OVER HER FATE AS CHRISTA PIKE RETURNS TO PRISON AFTER BOTCHED EXECUTION ATTEMPT: WHAT WE KNOW",
+    "headline": "UNCERTAINTIES LOOM OVER HER FATE AS CHRISTA PIKE RETURNS TO PRISON AFTER BOTCHED EXECUTION ATTEMPT: WHAT WE KNOW",
+    "url": "https://www.livemint.com/news/us-news/uncertainties-loom-over-her-fate-as-christa-pike-returns-to-prison-after-botched-execution-attempt-what-we-know-11791685190298.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-10-11",
+    "topic": "AIR MARSHAL THAREJA REVIEWS CLINICAL SERVICES AND INFRASTRUCTURE AT BASE HOSPITAL, DELHI CANTT",
+    "headline": "AIR MARSHAL THAREJA REVIEWS CLINICAL SERVICES AND INFRASTRUCTURE AT BASE HOSPITAL, DELHI CANTT",
+    "url": "https://news.ssbcrack.com/air-marshal-thareja-reviews-clinical-services-and-infrastructure-at-base-hospital-delhi-cantt/",
+    "post_num": 4
+  },
+  {
+    "date": "2026-10-11",
+    "topic": "US ARMY, KAIZEN LABORATORIES TO ESTABLISH COMMON SOFTWARE PLATFORM FOR CLASSIFIED MATERIAL",
+    "headline": "US ARMY, KAIZEN LABORATORIES TO ESTABLISH COMMON SOFTWARE PLATFORM FOR CLASSIFIED MATERIAL",
+    "url": "https://www.defensenews.com/industry/techwatch/2026/10/10/us-army-kaizen-laboratories-to-establish-common-software-platform-for-classified-material/",
     "post_num": 5
   }
 ]
