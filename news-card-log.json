@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-10-07",
-    "topic": "INDIGO FLIGHT HIT BY LIGHTNING AT 17,000 FEET, AIRCRAFT'S NOSE DAMAGED; ALL 110 ON BOARD SAFE - WHAT WE KNOW SO FAR",
-    "headline": "INDIGO FLIGHT HIT BY LIGHTNING AT 17,000 FEET, AIRCRAFT'S NOSE DAMAGED; ALL 110 ON BOARD SAFE - WHAT WE KNOW SO FAR",
-    "url": "https://www.livemint.com/news/india/indigo-flight-hit-by-lightning-at-17-000-feet-aircrafts-nose-damaged-all-110-on-board-safe-what-we-know-so-far-11791395052647.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-10-07",
-    "topic": "RATE HIKE TO WIDEN BANKS' MARGINS AS EBLR-LINKED LOANS REPRICE FASTER",
-    "headline": "RATE HIKE TO WIDEN BANKS' MARGINS AS EBLR-LINKED LOANS REPRICE FASTER",
-    "url": "https://www.business-standard.com/industry/banking/bank-margins-set-for-near-term-boost-as-eblr-loans-reprice-after-mpc-rise-126100701360_1.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-10-07",
-    "topic": "PM MODI CALLS FOR SECURE MARITIME ORDER AS INDIAN SEAFARERS BECOME WORLD'S SECOND LARGEST WORKFORCE",
-    "headline": "PM MODI CALLS FOR SECURE MARITIME ORDER AS INDIAN SEAFARERS BECOME WORLD'S SECOND LARGEST WORKFORCE",
-    "url": "https://www.livemint.com/news/india/pm-rules-based-maritime-order-sagarmanthan-11791382438051.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-10-07",
-    "topic": "'INDIA-US TRADE BREAKTHROUGH UNLIKELY SOON; NARROW INTERIM DEAL POSSIBLE'",
-    "headline": "'INDIA-US TRADE BREAKTHROUGH UNLIKELY SOON; NARROW INTERIM DEAL POSSIBLE'",
-    "url": "https://www.business-standard.com/economy/news/india-us-trade-breakthrough-unlikely-soon-narrow-interim-deal-possible-126100701231_1.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-10-07",
-    "topic": "RUSSIA PLAGUE SCARE: 200 QUARANTINED, 5,000 TESTS, NO CONFIRMED CASES, NO EPIDEMIC RISK \u2014 LATEST UPDATES",
-    "headline": "RUSSIA PLAGUE SCARE: 200 QUARANTINED, 5,000 TESTS, NO CONFIRMED CASES, NO EPIDEMIC RISK \u2014 LATEST UPDATES",
-    "url": "https://www.livemint.com/news/world/russia-plague-scare-200-quarantined-5-000-tests-no-confirmed-cases-no-epidemic-risk-latest-updates-11791380973135.html",
-    "post_num": 5
-  },
-  {
     "date": "2026-10-08",
     "topic": "CEC GYANESH KUMAR\u2019S SECURITY BEEFED UP AMID CJP, INDIA BLOC\u2019S SIR PROTESTS: WHAT IS Z+ COVER?",
     "headline": "CEC GYANESH KUMAR\u2019S SECURITY BEEFED UP AMID CJP, INDIA BLOC\u2019S SIR PROTESTS: WHAT IS Z+ COVER?",
@@ -417,6 +382,41 @@
     "topic": "18 YEARS IN DUBAI, 2 YEARS OF TRYING LUCK: PUNJAB TRUCK DRIVER WINS \u20b91.23 CRORE IN UAE DRAW; HERE'S WHAT HE SAID",
     "headline": "18 YEARS IN DUBAI, 2 YEARS OF TRYING LUCK: PUNJAB TRUCK DRIVER WINS \u20b91.23 CRORE IN UAE DRAW; HERE'S WHAT HE SAID",
     "url": "https://www.livemint.com/news/world/18-years-in-dubai-2-years-of-trying-luck-punjab-truck-driver-wins-1-23-crore-in-uae-draw-heres-what-he-said-11791991714175.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-10-15",
+    "topic": "WHY HAS IMRAN KHAN BEEN ASKED TO LEAVE INDIA BY OCTOBER 28? LEGAL PROVISIONS INVOKED AGAINST OCI CARDHOLDER EXPLAINED",
+    "headline": "WHY HAS IMRAN KHAN BEEN ASKED TO LEAVE INDIA BY OCTOBER 28? LEGAL PROVISIONS INVOKED AGAINST OCI CARDHOLDER EXPLAINED",
+    "url": "https://www.livemint.com/news/india/why-has-imran-khan-been-asked-to-leave-india-by-october-28-legal-provisions-invoked-against-oci-cardholder-explained-11792044505481.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-10-15",
+    "topic": "PANAMA IS A TRADE GATEWAY TO LATIN AMERICA FOR INDIAN BUSINESSES, SAYS AMBASSADOR MIGUEL",
+    "headline": "PANAMA IS A TRADE GATEWAY TO LATIN AMERICA FOR INDIAN BUSINESSES, SAYS AMBASSADOR MIGUEL",
+    "url": "https://www.livemint.com/news/panama-indian-business-investment-latin-america-ambassador-alonso-correa-miguel-11792033676991.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-10-15",
+    "topic": "US SINGER MARY MILLBEN TARGETS ABHIJEET DIPKE AGAIN; SAYS PM MODI DOESN'T NEED US SUPPORT, PREDICTS 2029 WIN",
+    "headline": "US SINGER MARY MILLBEN TARGETS ABHIJEET DIPKE AGAIN; SAYS PM MODI DOESN'T NEED US SUPPORT, PREDICTS 2029 WIN",
+    "url": "https://www.livemint.com/news/india/us-singer-mary-millben-targets-abhijeet-dipke-again-says-pm-modi-doesnt-need-us-support-predicts-2029-win-11792035666963.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-10-15",
+    "topic": "WHAT TRUMP-PUTIN'S DIESEL DEAL, MUSK-OWNED STARLINK CURBS MEAN FOR ZELENSKY'S UKRAINE?",
+    "headline": "WHAT TRUMP-PUTIN'S DIESEL DEAL, MUSK-OWNED STARLINK CURBS MEAN FOR ZELENSKY'S UKRAINE?",
+    "url": "https://www.livemint.com/news/world/hey-big-man-are-you-playing-politics-what-trump-putins-diesel-deal-starlink-curbs-mean-for-zelenskys-ukraine-11792025011302.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-10-15",
+    "topic": "CISF CONDUCTS ANTI-HIJACKING MOCK DRILL AT IGI AIRPORT TO ENHANCE SECURITY PREPAREDNESS",
+    "headline": "CISF CONDUCTS ANTI-HIJACKING MOCK DRILL AT IGI AIRPORT TO ENHANCE SECURITY PREPAREDNESS",
+    "url": "https://news.ssbcrack.com/cisf-conducts-anti-hijacking-mock-drill-at-igi-airport-to-enhance-security-preparedness/",
     "post_num": 5
   }
 ]
