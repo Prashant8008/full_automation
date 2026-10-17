@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-10-09",
-    "topic": "DELHI POLICE STEPS UP SECURITY AHEAD OF CJP PROTEST. OLA, UBER CABS TO FACE RESTRICTIONS?",
-    "headline": "DELHI POLICE STEPS UP SECURITY AHEAD OF CJP PROTEST. OLA, UBER CABS TO FACE RESTRICTIONS?",
-    "url": "https://www.livemint.com/news/india/delhi-police-steps-up-security-ahead-of-cjp-protest-ola-uber-cabs-to-face-restrictions-11791566851923.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-10-09",
-    "topic": "RBI TIGHTENS LIQUIDITY: RAISES DAILY CRR MAINTENANCE TO 99% AND ANNOUNCES \u20b925,000 CRORE BOND SALE",
-    "headline": "RBI TIGHTENS LIQUIDITY: RAISES DAILY CRR MAINTENANCE TO 99% AND ANNOUNCES \u20b925,000 CRORE BOND SALE",
-    "url": "https://www.business-standard.com/economy/news/rbi-tightens-liquidity-after-rate-rise-raises-daily-crr-maintenance-to-99-126100901382_1.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-10-09",
-    "topic": "RBI STUDY FILLS FOUR-MONTH GAP IN STATE INFLATION DATA USING SURVEY INPUTS",
-    "headline": "RBI STUDY FILLS FOUR-MONTH GAP IN STATE INFLATION DATA USING SURVEY INPUTS",
-    "url": "https://www.business-standard.com/industry/banking/rbi-study-fills-four-month-gap-in-state-inflation-data-using-survey-inputs-126100901369_1.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-10-09",
-    "topic": "SBI REPORT URGES RBI TO WIDEN LAF CORRIDOR TO STABILISE FINANCIAL MARKETS AMID GLOBAL UNCERTAINTY",
-    "headline": "SBI REPORT URGES RBI TO WIDEN LAF CORRIDOR TO STABILISE FINANCIAL MARKETS AMID GLOBAL UNCERTAINTY",
-    "url": "https://www.business-standard.com/industry/banking/rbi-should-widen-laf-corridor-to-stabilise-financial-markets-sbi-report-126100901098_1.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-10-09",
-    "topic": "INDIA'S FOREX RESERVES DROP BY $51 BILLION IN FOUR WEEKS AS RBI DEFENDS RUPEE",
-    "headline": "INDIA'S FOREX RESERVES DROP BY $51 BILLION IN FOUR WEEKS AS RBI DEFENDS RUPEE",
-    "url": "https://www.business-standard.com/economy/news/india-s-forex-reserves-drop-for-fourth-week-down-12-95-bn-to-734-6-bn-126100901061_1.html",
-    "post_num": 5
-  },
-  {
     "date": "2026-10-10",
     "topic": "SHASHI THAROOR SLAMS DELHI CRACKDOWN ON CJP PROTEST, CALLS IT AN \u2018UNDECLARED EMER-GENZ\u2019",
     "headline": "SHASHI THAROOR SLAMS DELHI CRACKDOWN ON CJP PROTEST, CALLS IT AN \u2018UNDECLARED EMER-GENZ\u2019",
@@ -417,6 +382,41 @@
     "topic": "FREEDOM RICE BRAN OIL UNDER SCRUTINY: WHY FSSAI ISSUED NOTICES TO BIGBASKET, FLIPKART",
     "headline": "FREEDOM RICE BRAN OIL UNDER SCRUTINY: WHY FSSAI ISSUED NOTICES TO BIGBASKET, FLIPKART",
     "url": "https://www.livemint.com/news/india/freedom-rice-bran-oil-under-scrutiny-why-fssai-issued-notices-to-bigbasket-flipkart-11792153104922.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-10-17",
+    "topic": "TRUMP'S SANCTIONS WAIVER OFFERS INDIA TEMPORARY RELIEF, NO CERTAINTY: GTRI",
+    "headline": "TRUMP'S SANCTIONS WAIVER OFFERS INDIA TEMPORARY RELIEF, NO CERTAINTY: GTRI",
+    "url": "https://www.business-standard.com/economy/news/trump-s-sanctions-waiver-offers-india-temporary-relief-no-certainty-gtri-126101700282_1.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-10-17",
+    "topic": "REPUBLICANS' $1 BILLION ELECTION WAR CHEST FAILS TO SHIFT POLLS IN US MIDTERMS",
+    "headline": "REPUBLICANS' $1 BILLION ELECTION WAR CHEST FAILS TO SHIFT POLLS IN US MIDTERMS",
+    "url": "https://www.livemint.com/news/world/why-republicans-1-billion-election-war-chest-is-failing-to-translate-into-votes-in-the-us-midterms-explained-11792208452297.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-10-17",
+    "topic": "VEDANTA BOSS ANIL AGARWAL ON ELON MUSK UNVEILING FLYING CAR: \u2018WE SAW THESE IN SCIENCE FICTION MOVIES AND BOOKS\u2019",
+    "headline": "VEDANTA BOSS ANIL AGARWAL ON ELON MUSK UNVEILING FLYING CAR: \u2018WE SAW THESE IN SCIENCE FICTION MOVIES AND BOOKS\u2019",
+    "url": "https://www.livemint.com/news/trends/vedanta-boss-anil-agarwal-on-elon-musk-unveiling-flying-car-we-saw-these-in-science-fiction-movies-and-books-11792212197049.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-10-17",
+    "topic": "IIT MADRAS STARTUP WATERFLY PLANS ELECTRIC FLYING BOAT TRIALS TO START",
+    "headline": "IIT MADRAS STARTUP WATERFLY PLANS ELECTRIC FLYING BOAT TRIALS TO START",
+    "url": "https://idrw.org/iit-madras-startup-waterfly-plans-electric-flying-boat-trials-to-start/",
+    "post_num": 4
+  },
+  {
+    "date": "2026-10-17",
+    "topic": "AVAADA PLANS \u20b940,000 CRORE CAPEX FOR GREEN AMMONIA AND METHANOL PLANTS AHEAD OF IPO",
+    "headline": "AVAADA PLANS \u20b940,000 CRORE CAPEX FOR GREEN AMMONIA AND METHANOL PLANTS AHEAD OF IPO",
+    "url": "https://www.livemint.com/news/avaada-group-plans-around-rs-40-000-cr-capex-for-green-molecule-plants-in-gopalpur-and-nagpur-11792060151351.html",
     "post_num": 5
   }
 ]
