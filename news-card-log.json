@@ -1,41 +1,6 @@
 [
   {
     "date": "2026-10-22",
-    "topic": "KING FAHD AIRPORT ATTACKED IN DAMMAM: 1 KILLED, 8 INJURED AS US ORDERS DIPLOMATS TO LEAVE",
-    "headline": "KING FAHD AIRPORT ATTACKED IN DAMMAM: 1 KILLED, 8 INJURED AS US ORDERS DIPLOMATS TO LEAVE",
-    "url": "https://www.livemint.com/news/world/king-fahd-international-airport-attack-1-killed-8-injured-in-saudi-arabias-dammam-us-orders-diplomats-to-leave-11792648324461.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-10-22",
-    "topic": "IRCTC VANDARSHAN: TICKET PRICE, LOCATIONS, ROUTE, TIMINGS, MEALS AND FIVE-DAY SAFARI SCHEDULE AND MORE",
-    "headline": "IRCTC VANDARSHAN: TICKET PRICE, LOCATIONS, ROUTE, TIMINGS, MEALS AND FIVE-DAY SAFARI SCHEDULE AND MORE",
-    "url": "https://www.livemint.com/news/trends/irctc-vandarshan-ticket-price-locations-route-timings-meals-and-five-day-safari-schedule-and-more-11792647812633.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-10-22",
-    "topic": "ICAI RESULT SEPTEMBER 2026: CHECK DIRECT LINK, MERIT LIST, PASS PERCENTAGE, STEP-BY-STEP GUIDE TO DOWNLOAD CA SCORECARD",
-    "headline": "ICAI RESULT SEPTEMBER 2026: CHECK DIRECT LINK, MERIT LIST, PASS PERCENTAGE, STEP-BY-STEP GUIDE TO DOWNLOAD CA SCORECARD",
-    "url": "https://www.livemint.com/news/india/icai-result-september-2026-check-direct-link-merit-list-pass-percentage-step-by-step-guide-to-download-ca-scorecard-11792644475963.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-10-22",
-    "topic": "US AND ISRAEL PLAN SHORT BUT INTENSIVE STRIKES ON IRAN AFTER MIDTERM ELECTIONS",
-    "headline": "US AND ISRAEL PLAN SHORT BUT INTENSIVE STRIKES ON IRAN AFTER MIDTERM ELECTIONS",
-    "url": "https://www.livemint.com/news/world/us-israel-plan-short-but-intensive-strikes-on-iran-after-mid-term-elections-will-trump-approve-11792637245066.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-10-22",
-    "topic": "IAF TO TRAIN INSTRUCTORS FIRST BEFORE HTT-40 PILOT TRAINING",
-    "headline": "IAF TO TRAIN INSTRUCTORS FIRST BEFORE HTT-40 PILOT TRAINING",
-    "url": "https://idrw.org/htt-40-ankur-training-iaf-instructor-pool/",
-    "post_num": 5
-  },
-  {
-    "date": "2026-10-22",
     "topic": "TRAFFIC IS IMPACTED IN SOUTH DELHI AS ONE OF THE IMPORTANT FLYOVERS CLOSED - HERE IS WHY",
     "headline": "TRAFFIC IS IMPACTED IN SOUTH DELHI AS ONE OF THE IMPORTANT FLYOVERS CLOSED - HERE IS WHY",
     "url": "https://www.livemint.com/news/india/traffic-is-impacted-in-south-delhi-as-one-of-the-important-flyovers-closed-here-is-why-11792687927744.html",
@@ -417,6 +382,41 @@
     "topic": "HOTMAIL CO-FOUNDER SABEER BHATIA FACES \u20b950 CRORE ADANI DEFAMATION SUIT OVER MODI DOCUMENTARY: WHAT IS THE CASE?",
     "headline": "HOTMAIL CO-FOUNDER SABEER BHATIA FACES \u20b950 CRORE ADANI DEFAMATION SUIT OVER MODI DOCUMENTARY: WHAT IS THE CASE?",
     "url": "https://www.livemint.com/news/india/untitled-hotmail-co-founder-sabeer-bhatia-faces-50-crore-adani-defamation-suit-over-modi-documentary-what-is-the-case-11793112456119.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-10-28",
+    "topic": "WHO IS ANDR\u00c9 JANONES? THE MAN BEHIND LULA\u2019S ARMY WHATSAPP CHANNEL AND HOW HE TURNED IT INTO AN ELECTION TOOL IN BRAZIL",
+    "headline": "WHO IS ANDR\u00c9 JANONES? THE MAN BEHIND LULA\u2019S ARMY WHATSAPP CHANNEL AND HOW HE TURNED IT INTO AN ELECTION TOOL IN BRAZIL",
+    "url": "https://www.livemint.com/news/world/who-is-andr-janones-the-man-behind-lula-s-army-whatsapp-channel-and-how-he-turned-it-into-an-election-tool-in-brazil-11793170051354.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-10-28",
+    "topic": "IRAN-US WAR COST: INSIDE PENTAGON'S $47 BILLION BILL AS TRUMP SAYS WAR WILL END \u2018WHEN I WANT IT TO\u2019",
+    "headline": "IRAN-US WAR COST: INSIDE PENTAGON'S $47 BILLION BILL AS TRUMP SAYS WAR WILL END \u2018WHEN I WANT IT TO\u2019",
+    "url": "https://www.livemint.com/news/us-news/iranus-war-cost-inside-pentagons-47-billion-bill-as-trump-says-war-will-end-when-i-want-it-to-11793168950296.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-10-28",
+    "topic": "JIO LISTS AT 21% PREMIUM ON DEBUT AFTER RECORD $3.2 BILLION INDIA IPO",
+    "headline": "JIO LISTS AT 21% PREMIUM ON DEBUT AFTER RECORD $3.2 BILLION INDIA IPO",
+    "url": "https://www.livemint.com/news/jio-lists-at-21-premium-on-debut-after-record-3-2-billion-india-ipo-11793162179725.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-10-28",
+    "topic": "US, AUSTRALIA PLEDGE TO \u2018SWIFTLY EXECUTE\u2019 DEFENSE COLLABORATION",
+    "headline": "US, AUSTRALIA PLEDGE TO \u2018SWIFTLY EXECUTE\u2019 DEFENSE COLLABORATION",
+    "url": "https://www.livemint.com/news/us-news/us-australia-pledge-to-swiftly-execute-defense-collaboration-11793161944555.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-10-28",
+    "topic": "INDIA'S GROWTH SEEN LOSING MOMENTUM AFTER STRONG START TO FISCAL YEAR: POLL",
+    "headline": "INDIA'S GROWTH SEEN LOSING MOMENTUM AFTER STRONG START TO FISCAL YEAR: POLL",
+    "url": "https://www.business-standard.com/economy/news/india-s-growth-seen-losing-momentum-after-strong-start-to-fiscal-year-poll-126102800116_1.html",
     "post_num": 5
   }
 ]
