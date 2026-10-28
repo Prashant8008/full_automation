@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-10-22",
-    "topic": "TRAFFIC IS IMPACTED IN SOUTH DELHI AS ONE OF THE IMPORTANT FLYOVERS CLOSED - HERE IS WHY",
-    "headline": "TRAFFIC IS IMPACTED IN SOUTH DELHI AS ONE OF THE IMPORTANT FLYOVERS CLOSED - HERE IS WHY",
-    "url": "https://www.livemint.com/news/india/traffic-is-impacted-in-south-delhi-as-one-of-the-important-flyovers-closed-here-is-why-11792687927744.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-10-22",
-    "topic": "\u2018DESI AC\u2019: JHANSI SCHOOL STUDENT BUILT BUDGET AIR CONDITIONER FOR \u20b91,800, CAN DROP ROOM TEMPERATURE BY 5\u00b0C",
-    "headline": "\u2018DESI AC\u2019: JHANSI SCHOOL STUDENT BUILT BUDGET AIR CONDITIONER FOR \u20b91,800, CAN DROP ROOM TEMPERATURE BY 5\u00b0C",
-    "url": "https://www.livemint.com/news/india/desi-ac-jhansi-school-student-built-budget-air-conditioner-for-1-800-can-drop-room-temperature-by-5c-11792685317368.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-10-22",
-    "topic": "BENGALURU ASHRAM GROWS 400 KG MANGO GINGER ON 500 SQ FT, CLAIMS 4X YIELD WITH SRI SRI RAVI SHANKAR-BACKED FARMING MODEL",
-    "headline": "BENGALURU ASHRAM GROWS 400 KG MANGO GINGER ON 500 SQ FT, CLAIMS 4X YIELD WITH SRI SRI RAVI SHANKAR-BACKED FARMING MODEL",
-    "url": "https://www.livemint.com/news/india/bengaluru-ashram-grows-400-kg-mango-ginger-on-500-sq-ft-claims-4x-yield-with-sri-sri-ravi-shankar-backed-farming-model-11792687083759.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-10-22",
-    "topic": "EU CARBON TAX IS \u2018INVITING DISASTER\u2019, SAYS PIYUSH GOYAL",
-    "headline": "EU CARBON TAX IS \u2018INVITING DISASTER\u2019, SAYS PIYUSH GOYAL",
-    "url": "https://www.livemint.com/news/eu-carbon-tax-inviting-disaster-piyush-goyal-cbam-living-costs-11792679997762.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-10-22",
-    "topic": "INDIA WEIGHS HARDWARE SECURITY MONITOR TO TRACK ELON MUSK'S STARLINK, OTHER FOREIGN SATELLITE INTERNET OPERATORS: REPORT",
-    "headline": "INDIA WEIGHS HARDWARE SECURITY MONITOR TO TRACK ELON MUSK'S STARLINK, OTHER FOREIGN SATELLITE INTERNET OPERATORS: REPORT",
-    "url": "https://www.livemint.com/news/india/india-weighs-hardware-security-monitor-to-track-elon-musks-starlink-other-foreign-satellite-internet-operators-report-11792683233642.html",
-    "post_num": 5
-  },
-  {
     "date": "2026-10-23",
     "topic": "INDIA'S PRIVATE SECTOR GROWTH HITS FOUR-MONTH HIGH AS SERVICES AND EXPORTS SURGE",
     "headline": "INDIA'S PRIVATE SECTOR GROWTH HITS FOUR-MONTH HIGH AS SERVICES AND EXPORTS SURGE",
@@ -417,6 +382,41 @@
     "topic": "INDIA'S GROWTH SEEN LOSING MOMENTUM AFTER STRONG START TO FISCAL YEAR: POLL",
     "headline": "INDIA'S GROWTH SEEN LOSING MOMENTUM AFTER STRONG START TO FISCAL YEAR: POLL",
     "url": "https://www.business-standard.com/economy/news/india-s-growth-seen-losing-momentum-after-strong-start-to-fiscal-year-poll-126102800116_1.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-10-28",
+    "topic": "US GOODS TRADE DEFICIT WIDENS IN SEPTEMBER AS AI BOOM DRIVES IMPORTS TO RECORD HIGH",
+    "headline": "US GOODS TRADE DEFICIT WIDENS IN SEPTEMBER AS AI BOOM DRIVES IMPORTS TO RECORD HIGH",
+    "url": "https://www.livemint.com/news/us-news/us-goods-trade-deficit-widens-in-september-as-ai-boom-drives-imports-to-record-high-11793210830394.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-10-28",
+    "topic": "MEA CONFIRMS 22 INDIAN NATIONALS KILLED AMID WEST ASIA CONFLICT: 'WE REMAIN DEEPLY CONCERNED ABOUT THE SITUATION'",
+    "headline": "MEA CONFIRMS 22 INDIAN NATIONALS KILLED AMID WEST ASIA CONFLICT: 'WE REMAIN DEEPLY CONCERNED ABOUT THE SITUATION'",
+    "url": "https://www.livemint.com/news/india/mea-confirms-22-indian-nationals-killed-amid-west-asia-conflict-we-remain-deeply-concerned-about-the-situation-11793209560427.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-10-28",
+    "topic": "FED KEEPS INTEREST RATES UNCHANGED, AWAITS MORE DATA ON INFLATION",
+    "headline": "FED KEEPS INTEREST RATES UNCHANGED, AWAITS MORE DATA ON INFLATION",
+    "url": "https://www.business-standard.com/economy/news/fed-keeps-interest-rates-unchanged-awaits-more-data-on-inflation-126102802093_1.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-10-28",
+    "topic": "WHY IS MIHIRKANT UPADHYAYA PURSUING AN MBA DESPITE HAVING 3 DEGREES, A PHD AND YEARS OF EXPERIENCE AT INTEL?",
+    "headline": "WHY IS MIHIRKANT UPADHYAYA PURSUING AN MBA DESPITE HAVING 3 DEGREES, A PHD AND YEARS OF EXPERIENCE AT INTEL?",
+    "url": "https://www.livemint.com/news/india/why-is-mihirkant-upadhyaya-pursuing-an-mba-despite-having-3-degrees-a-phd-and-years-of-experience-at-intel-11793207511499.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-10-28",
+    "topic": "PAKISTAN REVERSES TAIWAN AIRSPACE BAN: HOW THE BAN WOULD HAVE CHANGED GLOBAL AIRSPACE AND IMPACTED AIR TRAFFIC",
+    "headline": "PAKISTAN REVERSES TAIWAN AIRSPACE BAN: HOW THE BAN WOULD HAVE CHANGED GLOBAL AIRSPACE AND IMPACTED AIR TRAFFIC",
+    "url": "https://www.livemint.com/news/world/pakistan-reverses-taiwan-airspace-ban-how-the-ban-would-have-changed-global-airspace-and-impacted-air-traffic-11793208650889.html",
     "post_num": 5
   }
 ]
