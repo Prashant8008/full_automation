@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-10-24",
-    "topic": "PAKISTAN LPG CRISIS DEEPENS AS PRICES HIT 600 PKR PER KG WITH TRUCKS STRANDED AT IRAN BORDER",
-    "headline": "PAKISTAN LPG CRISIS DEEPENS AS PRICES HIT 600 PKR PER KG WITH TRUCKS STRANDED AT IRAN BORDER",
-    "url": "https://www.livemint.com/news/world/pakistans-lpg-crisis-deepens-as-prices-hit-600-pkr-kg-hundreds-of-trucks-stranded-at-iran-border-11792856462903.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-10-24",
-    "topic": "WHO IS PRAKRITI MALLA? HOW A 14-YEAR-OLD NEPALI SCHOOLGIRL\u2019S HANDWRITING TOOK THE INTERNET BY STORM",
-    "headline": "WHO IS PRAKRITI MALLA? HOW A 14-YEAR-OLD NEPALI SCHOOLGIRL\u2019S HANDWRITING TOOK THE INTERNET BY STORM",
-    "url": "https://www.livemint.com/news/trends/who-is-prakriti-malla-how-a-14-year-old-nepali-schoolgirl-s-handwriting-took-the-internet-by-storm-11792852347170.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-10-24",
-    "topic": "WHO IS IPS OFFICER ADITYA KUMAR? FAKE CHIEF JUSTICE CASE, CAT RULING, SUSPENSION AND DIG PROMOTION EXPLAINED",
-    "headline": "WHO IS IPS OFFICER ADITYA KUMAR? FAKE CHIEF JUSTICE CASE, CAT RULING, SUSPENSION AND DIG PROMOTION EXPLAINED",
-    "url": "https://www.livemint.com/news/india/who-is-ips-officer-aditya-kumar-fake-chief-justice-case-cat-ruling-suspension-and-dig-promotion-explained-11792846252885.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-10-24",
-    "topic": "UK ON EMERGENCY? PM ANDY BURNHAM URGES CITIZENS TO STORE 3 DAYS OF FOOD, WATER AND CASH AT HOME; HERE'S WHAT'S HAPPENING",
-    "headline": "UK ON EMERGENCY? PM ANDY BURNHAM URGES CITIZENS TO STORE 3 DAYS OF FOOD, WATER AND CASH AT HOME; HERE'S WHAT'S HAPPENING",
-    "url": "https://www.livemint.com/news/world/uk-on-emergency-pm-andy-burnham-urges-citizens-to-store-3-days-of-food-water-and-cash-at-home-heres-whats-happening-11792835230974.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-10-24",
-    "topic": "RAHUL GANDHI'S NOV 1 INDIA BLOC RALLY: DELHI'S CTI CITES \u20b925K CR DHANTERAS BUSINESS, SEEKS DELAY\u2014 WHAT LETTER TO MP SAID",
-    "headline": "RAHUL GANDHI'S NOV 1 INDIA BLOC RALLY: DELHI'S CTI CITES \u20b925K CR DHANTERAS BUSINESS, SEEKS DELAY\u2014 WHAT LETTER TO MP SAID",
-    "url": "https://www.livemint.com/news/india/rahul-gandhis-nov-1-india-bloc-rally-delhis-cti-cites-25k-cr-dhanteras-business-seeks-delay-what-letter-to-mp-said-11792837966299.html",
-    "post_num": 5
-  },
-  {
     "date": "2026-10-25",
     "topic": "HOW TAMIL NADU CM VIJAY GOT RARE PRAISE FROM MODI GOVT: BIG STEP HE TOOK ON AVIATION FUEL",
     "headline": "HOW TAMIL NADU CM VIJAY GOT RARE PRAISE FROM MODI GOVT: BIG STEP HE TOOK ON AVIATION FUEL",
@@ -417,6 +382,41 @@
     "topic": "CBDT PLANS \u20b95,000-CRORE LAND BUY FOR OFFICES AND STAFF QUARTERS IN DELHI, MUMBAI AND BENGALURU",
     "headline": "CBDT PLANS \u20b95,000-CRORE LAND BUY FOR OFFICES AND STAFF QUARTERS IN DELHI, MUMBAI AND BENGALURU",
     "url": "https://www.livemint.com/news/cbdt-central-board-of-direct-taxes-income-tax-department-government-land-acquisition-office-infrastructure-11793268076332.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-10-30",
+    "topic": "TRUMP ACCOUNTS: HOW A \u2018MOMENT BECOMES A MOVEMENT\u2019 \u2014 WHY MICHAEL DELL HAILED GROWING SUPPORT AS HE REVEALS DONORS",
+    "headline": "TRUMP ACCOUNTS: HOW A \u2018MOMENT BECOMES A MOVEMENT\u2019 \u2014 WHY MICHAEL DELL HAILED GROWING SUPPORT AS HE REVEALS DONORS",
+    "url": "https://www.livemint.com/news/us-news/trump-accounts-how-a-moment-becomes-a-movement-why-michael-dell-hailed-growing-support-as-he-reveals-donors-11793382039146.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-10-30",
+    "topic": "MHA NOTIFIES CENSUS 2027 SCHEDULE WITH POPULATION COUNT STARTING JANUARY 25",
+    "headline": "MHA NOTIFIES CENSUS 2027 SCHEDULE WITH POPULATION COUNT STARTING JANUARY 25",
+    "url": "https://www.livemint.com/news/india/census-2027-self-enumeration-to-begin-on-january-10-door-to-door-population-count-from-january-25-11793382891547.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-10-30",
+    "topic": "ODISHA EYES SEMICONDUCTOR PUSH WITH FIVE PROJECTS WORTH OVER $4 BILLION",
+    "headline": "ODISHA EYES SEMICONDUCTOR PUSH WITH FIVE PROJECTS WORTH OVER $4 BILLION",
+    "url": "https://www.business-standard.com/technology/tech-news/odisha-eyes-semiconductor-push-with-five-projects-worth-over-4-billion-126103001985_1.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-10-30",
+    "topic": "INDIA'S DIESEL EXPORTS HIT 13-MONTH HIGH AMID IRAN WAR: HOW REFINERS ARE CASHING IN ON SUPPLY DISRUPTIONS",
+    "headline": "INDIA'S DIESEL EXPORTS HIT 13-MONTH HIGH AMID IRAN WAR: HOW REFINERS ARE CASHING IN ON SUPPLY DISRUPTIONS",
+    "url": "https://www.livemint.com/news/world/indias-diesel-exports-hit-13-month-high-amid-iran-war-how-refiners-are-cashing-in-on-supply-disruptions-11793378163749.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-10-30",
+    "topic": "FM CITES WORLD BANK POVERTY GAINS, SAYS GOVT COMMITTED TO INCLUSIVE GROWTH",
+    "headline": "FM CITES WORLD BANK POVERTY GAINS, SAYS GOVT COMMITTED TO INCLUSIVE GROWTH",
+    "url": "https://www.business-standard.com/india-news/fm-cites-world-bank-poverty-gains-says-govt-committed-to-inclusive-growth-126103001794_1.html",
     "post_num": 5
   }
 ]
