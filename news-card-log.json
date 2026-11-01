@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-10-26",
-    "topic": "BFSI INSIGHT SUMMIT 2026: ECONOMISTS DIVIDED OVER RELIANCE ON FOREIGN FUNDS",
-    "headline": "BFSI INSIGHT SUMMIT 2026: ECONOMISTS DIVIDED OVER RELIANCE ON FOREIGN FUNDS",
-    "url": "https://www.business-standard.com/specials/bs-events/bfsi-insight-summit-2026-economists-divided-over-reliance-on-foreign-funds-126102700017_1.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-10-26",
-    "topic": "A PAUSE BEFORE ESCALATION? WHY IRAN FEARS A ALL-OUT WAR AFTER US MIDTERM POLLS AS DONALD TRUMP WEIGHS HIS NEXT MOVE",
-    "headline": "A PAUSE BEFORE ESCALATION? WHY IRAN FEARS A ALL-OUT WAR AFTER US MIDTERM POLLS AS DONALD TRUMP WEIGHS HIS NEXT MOVE",
-    "url": "https://www.livemint.com/news/world/a-pause-before-escalation-why-iran-fears-a-all-out-war-after-us-midterm-polls-as-donald-trump-weighs-his-next-move-11793035955744.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-10-26",
-    "topic": "LTCG NEWS: BUDGET 2027-28 MAY CUT LONG-TERM CAPITAL GAINS TAX FOR BOTH DOMESTIC AND FOREIGN INVESTORS, SAYS REPORT",
-    "headline": "LTCG NEWS: BUDGET 2027-28 MAY CUT LONG-TERM CAPITAL GAINS TAX FOR BOTH DOMESTIC AND FOREIGN INVESTORS, SAYS REPORT",
-    "url": "https://www.livemint.com/news/india/budget-2027-28-may-consider-cutting-ltcg-to-boost-stock-market-sentiment-11793032875571.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-10-26",
-    "topic": "NEPAL GETS $20 MN IN UN AID AFTER $2.7 BN FLOOD LOSSES: IS CLIMATE FINANCE FAILING VULNERABLE NATIONS?",
-    "headline": "NEPAL GETS $20 MN IN UN AID AFTER $2.7 BN FLOOD LOSSES: IS CLIMATE FINANCE FAILING VULNERABLE NATIONS?",
-    "url": "https://www.livemint.com/news/world/nepal-gets-20-mn-in-un-aid-after-2-7-bn-flood-losses-is-climate-finance-failing-vulnerable-nations-11793031832808.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-10-26",
-    "topic": "FROM CODING TO CULTIVATION? AI JOB FEARS PROMPT SOFTWARE ENGINEER TO CONSIDER FARMING AS AN ALTERNATIVE CAREER",
-    "headline": "FROM CODING TO CULTIVATION? AI JOB FEARS PROMPT SOFTWARE ENGINEER TO CONSIDER FARMING AS AN ALTERNATIVE CAREER",
-    "url": "https://www.livemint.com/news/trends/from-coding-to-cultivation-ai-job-fears-prompt-software-engineer-to-consider-farming-as-an-alternative-career-11793028962545.html",
-    "post_num": 5
-  },
-  {
     "date": "2026-10-27",
     "topic": "INDIA TO GET COMPARATIVE ADVANTAGE IN US TRADE DEAL: PIYUSH GOYAL",
     "headline": "INDIA TO GET COMPARATIVE ADVANTAGE IN US TRADE DEAL: PIYUSH GOYAL",
@@ -417,6 +382,41 @@
     "topic": "INS KESARI REPORTS WATER INGRESS AT VISAKHAPATNAM NAVAL DOCKYARD",
     "headline": "INS KESARI REPORTS WATER INGRESS AT VISAKHAPATNAM NAVAL DOCKYARD",
     "url": "https://idrw.org/ins-kesari-reports-water-ingress-at-visakhapatnam-naval-dockyard/",
+    "post_num": 5
+  },
+  {
+    "date": "2026-11-01",
+    "topic": "HOW CYCLONE \u2018MURASU\u2019 WAS NAMED? WHAT DOES IT MEAN AND WHEN WILL IT INTENSIFY INTO 'SEVERE' CYCLONIC STORM? DETAILS",
+    "headline": "HOW CYCLONE \u2018MURASU\u2019 WAS NAMED? WHAT DOES IT MEAN AND WHEN WILL IT INTENSIFY INTO 'SEVERE' CYCLONIC STORM? DETAILS",
+    "url": "https://www.livemint.com/news/india/how-cyclone-murasu-was-named-what-does-it-mean-and-when-will-it-intensify-into-severe-cyclonic-storm-details-11793554253960.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-11-01",
+    "topic": "BINANCE'S $6.3 BILLION CRYPTO HEIST: WHAT TO KNOW ABOUT TRADERTRAITOR, NORTH KOREA'S HACKING GROUP ACCUSED OF THE HACK",
+    "headline": "BINANCE'S $6.3 BILLION CRYPTO HEIST: WHAT TO KNOW ABOUT TRADERTRAITOR, NORTH KOREA'S HACKING GROUP ACCUSED OF THE HACK",
+    "url": "https://www.livemint.com/news/world/binances-6-3-billion-crypto-heist-what-to-know-about-tradertraitor-north-koreas-hacking-group-accused-of-the-hack-11793550128851.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-11-01",
+    "topic": "WHY RAFALE LANDING ON INS VIKRANT MATTERS: HOW FRENCH FIGHTER JET WILL BOOST INDIAN NAVY'S CARRIER CAPABILITIES",
+    "headline": "WHY RAFALE LANDING ON INS VIKRANT MATTERS: HOW FRENCH FIGHTER JET WILL BOOST INDIAN NAVY'S CARRIER CAPABILITIES",
+    "url": "https://www.livemint.com/news/india/why-rafale-landing-on-ins-vikrant-matters-how-french-fighter-jet-will-boost-indian-navys-carrier-capabilities-11793550684522.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-11-01",
+    "topic": "DELHI-HARYANA BORDER CLOGGED AS NEW POLLUTION CURBS TRIGGER LONG QUEUES; HEAVY CONGESTION IN NOIDA TOO",
+    "headline": "DELHI-HARYANA BORDER CLOGGED AS NEW POLLUTION CURBS TRIGGER LONG QUEUES; HEAVY CONGESTION IN NOIDA TOO",
+    "url": "https://www.livemint.com/news/india/delhiharyana-border-clogged-as-new-pollution-curbs-trigger-long-queues-heavy-congestion-in-noida-too-11793550965454.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-11-01",
+    "topic": "DOUBLE PAY AMID PROTESTS? WHY ARE BANGLADESH GARMENT WORKERS DEMANDING THIS? HOW UNREST THREATENS A $47 BN EXPORT SECTOR",
+    "headline": "DOUBLE PAY AMID PROTESTS? WHY ARE BANGLADESH GARMENT WORKERS DEMANDING THIS? HOW UNREST THREATENS A $47 BN EXPORT SECTOR",
+    "url": "https://www.livemint.com/news/world/double-pay-amid-protests-why-are-bangladesh-garment-workers-demanding-this-how-unrest-threatens-a-47-bn-export-sector-11793543085409.html",
     "post_num": 5
   }
 ]
