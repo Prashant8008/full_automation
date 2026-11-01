@@ -1,41 +1,6 @@
 [
   {
     "date": "2026-10-26",
-    "topic": "FCNR(B) A STRONG INSURANCE POLICY, BUT REPAYMENT RISKS LOOM: UDAY KOTAK",
-    "headline": "FCNR(B) A STRONG INSURANCE POLICY, BUT REPAYMENT RISKS LOOM: UDAY KOTAK",
-    "url": "https://www.business-standard.com/specials/bs-events/fcnr-b-strong-insurance-policy-uday-kotak-bs-bfsi-summit-2026-126102600391_1.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-10-26",
-    "topic": "LPG CYLINDER NEW RULES 2026 FROM NOV 1: HOW WILL IT IMPACT YOUR HOUSEHOLD BUDGET AND THE WAY YOU BOOK A REFILL",
-    "headline": "LPG CYLINDER NEW RULES 2026 FROM NOV 1: HOW WILL IT IMPACT YOUR HOUSEHOLD BUDGET AND THE WAY YOU BOOK A REFILL",
-    "url": "https://www.livemint.com/news/india/lpg-cylinder-new-rules-2026-from-nov-1-how-will-it-impact-your-household-budget-and-the-way-you-book-a-refill-11792993632322.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-10-26",
-    "topic": "MEET ABIJIT GANGULY: STAND-UP COMEDIAN LEAVES MUMBAI AFTER 9 YEARS; MORE CELEBS SETTLE FROM MAXIMUM CITY; HERE\u2019S WHY",
-    "headline": "MEET ABIJIT GANGULY: STAND-UP COMEDIAN LEAVES MUMBAI AFTER 9 YEARS; MORE CELEBS SETTLE FROM MAXIMUM CITY; HERE\u2019S WHY",
-    "url": "https://www.livemint.com/news/trends/meet-abijit-ganguly-stand-up-comedian-leaves-mumbai-after-9-years-more-celebs-settle-from-maximum-city-here-s-why-11792995424306.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-10-26",
-    "topic": "EXPECTING 50 BPS RATE HIKE IN DEC, MAY IMPACT CREDIT DEMAND: SBI CHIEF",
-    "headline": "EXPECTING 50 BPS RATE HIKE IN DEC, MAY IMPACT CREDIT DEMAND: SBI CHIEF",
-    "url": "https://www.business-standard.com/specials/bs-events/expecting-50-bps-rate-hike-in-dec-may-impact-credit-demand-sbi-chief-126102600296_1.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-10-26",
-    "topic": "KNOWN FOR GOLD AND LUXURY, DUBAI CREATES NOT ONE BUT TWO GUINNESS WORLD RECORDS - EVER HEARD OF 16.5 KG GOLD EARRINGS?",
-    "headline": "KNOWN FOR GOLD AND LUXURY, DUBAI CREATES NOT ONE BUT TWO GUINNESS WORLD RECORDS - EVER HEARD OF 16.5 KG GOLD EARRINGS?",
-    "url": "https://www.livemint.com/news/world/known-for-gold-and-luxury-dubai-creates-not-one-but-two-guinness-world-records-ever-heard-of-16-5-kg-gold-earrings-11792991193515.html",
-    "post_num": 5
-  },
-  {
-    "date": "2026-10-26",
     "topic": "BFSI INSIGHT SUMMIT 2026: ECONOMISTS DIVIDED OVER RELIANCE ON FOREIGN FUNDS",
     "headline": "BFSI INSIGHT SUMMIT 2026: ECONOMISTS DIVIDED OVER RELIANCE ON FOREIGN FUNDS",
     "url": "https://www.business-standard.com/specials/bs-events/bfsi-insight-summit-2026-economists-divided-over-reliance-on-foreign-funds-126102700017_1.html",
@@ -417,6 +382,41 @@
     "topic": "WHO IS ASHUTOSH DIXIT? AIR CHIEF MARSHAL TAKES CHARGE AS NEW IAF CHIEF; HE WAS PART OF OPERATION SINDOOR, OP RAKSHAK",
     "headline": "WHO IS ASHUTOSH DIXIT? AIR CHIEF MARSHAL TAKES CHARGE AS NEW IAF CHIEF; HE WAS PART OF OPERATION SINDOOR, OP RAKSHAK",
     "url": "https://www.livemint.com/news/india/who-is-ashutosh-dixit-air-chief-marshal-takes-charge-as-new-iaf-chief-he-was-part-of-operation-sindoor-op-rakshak-11793446061067.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-11-01",
+    "topic": "GROSS GST COLLECTIONS RISE 23% TO \u20b92.31 TRILLION IN OCTOBER ON STRONG SALES",
+    "headline": "GROSS GST COLLECTIONS RISE 23% TO \u20b92.31 TRILLION IN OCTOBER ON STRONG SALES",
+    "url": "https://www.business-standard.com/economy/news/gross-gst-collections-rise-23-to-2-31-trillion-in-october-on-strong-sales-126110100248_1.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-11-01",
+    "topic": "TAMIL NADU CM VIJAY GIVES 5-YEAR AGE RELAXATION FOR GOVT JOBS: NEW CATEGORY-WISE GROUP I, II AGE LIMITS EXPLAINED",
+    "headline": "TAMIL NADU CM VIJAY GIVES 5-YEAR AGE RELAXATION FOR GOVT JOBS: NEW CATEGORY-WISE GROUP I, II AGE LIMITS EXPLAINED",
+    "url": "https://www.livemint.com/news/tamil-nadu-cm-vijay-gives-5-year-age-relaxation-for-govt-jobs-new-categories-wise-group-i-ii-age-limits-explained-11793513838348.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-11-01",
+    "topic": "COMMERCIAL LPG RATES INCREASE BY \u20b910, ATF PRICES UP BY \u20b91.37 PER LITRE",
+    "headline": "COMMERCIAL LPG RATES INCREASE BY \u20b910, ATF PRICES UP BY \u20b91.37 PER LITRE",
+    "url": "https://www.business-standard.com/economy/news/commercial-lpg-rates-increase-by-10-atf-prices-up-by-1-37-per-litre-126110100124_1.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-11-01",
+    "topic": "RECORD OIL IMPORTS REFLECT STRONG REFINERY RUNS, FLEXIBLE RUSSIAN BUYING",
+    "headline": "RECORD OIL IMPORTS REFLECT STRONG REFINERY RUNS, FLEXIBLE RUSSIAN BUYING",
+    "url": "https://www.business-standard.com/economy/news/record-oil-imports-reflect-strong-refinery-runs-flexible-russian-buying-126110100118_1.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-11-01",
+    "topic": "INS KESARI REPORTS WATER INGRESS AT VISAKHAPATNAM NAVAL DOCKYARD",
+    "headline": "INS KESARI REPORTS WATER INGRESS AT VISAKHAPATNAM NAVAL DOCKYARD",
+    "url": "https://idrw.org/ins-kesari-reports-water-ingress-at-visakhapatnam-naval-dockyard/",
     "post_num": 5
   }
 ]
