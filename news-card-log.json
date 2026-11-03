@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-10-28",
-    "topic": "US GOODS TRADE DEFICIT WIDENS IN SEPTEMBER AS AI BOOM DRIVES IMPORTS TO RECORD HIGH",
-    "headline": "US GOODS TRADE DEFICIT WIDENS IN SEPTEMBER AS AI BOOM DRIVES IMPORTS TO RECORD HIGH",
-    "url": "https://www.livemint.com/news/us-news/us-goods-trade-deficit-widens-in-september-as-ai-boom-drives-imports-to-record-high-11793210830394.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-10-28",
-    "topic": "MEA CONFIRMS 22 INDIAN NATIONALS KILLED AMID WEST ASIA CONFLICT: 'WE REMAIN DEEPLY CONCERNED ABOUT THE SITUATION'",
-    "headline": "MEA CONFIRMS 22 INDIAN NATIONALS KILLED AMID WEST ASIA CONFLICT: 'WE REMAIN DEEPLY CONCERNED ABOUT THE SITUATION'",
-    "url": "https://www.livemint.com/news/india/mea-confirms-22-indian-nationals-killed-amid-west-asia-conflict-we-remain-deeply-concerned-about-the-situation-11793209560427.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-10-28",
-    "topic": "FED KEEPS INTEREST RATES UNCHANGED, AWAITS MORE DATA ON INFLATION",
-    "headline": "FED KEEPS INTEREST RATES UNCHANGED, AWAITS MORE DATA ON INFLATION",
-    "url": "https://www.business-standard.com/economy/news/fed-keeps-interest-rates-unchanged-awaits-more-data-on-inflation-126102802093_1.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-10-28",
-    "topic": "WHY IS MIHIRKANT UPADHYAYA PURSUING AN MBA DESPITE HAVING 3 DEGREES, A PHD AND YEARS OF EXPERIENCE AT INTEL?",
-    "headline": "WHY IS MIHIRKANT UPADHYAYA PURSUING AN MBA DESPITE HAVING 3 DEGREES, A PHD AND YEARS OF EXPERIENCE AT INTEL?",
-    "url": "https://www.livemint.com/news/india/why-is-mihirkant-upadhyaya-pursuing-an-mba-despite-having-3-degrees-a-phd-and-years-of-experience-at-intel-11793207511499.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-10-28",
-    "topic": "PAKISTAN REVERSES TAIWAN AIRSPACE BAN: HOW THE BAN WOULD HAVE CHANGED GLOBAL AIRSPACE AND IMPACTED AIR TRAFFIC",
-    "headline": "PAKISTAN REVERSES TAIWAN AIRSPACE BAN: HOW THE BAN WOULD HAVE CHANGED GLOBAL AIRSPACE AND IMPACTED AIR TRAFFIC",
-    "url": "https://www.livemint.com/news/world/pakistan-reverses-taiwan-airspace-ban-how-the-ban-would-have-changed-global-airspace-and-impacted-air-traffic-11793208650889.html",
-    "post_num": 5
-  },
-  {
     "date": "2026-10-29",
     "topic": "INDIA BLOC\u2019S NOVEMBER 1 RAMLILA MAIDAN RALLY: THESE 3 ARE MAIN CONDITIONS BY DELHI POLICE - LIST AND WHY THEY MATTER",
     "headline": "INDIA BLOC\u2019S NOVEMBER 1 RAMLILA MAIDAN RALLY: THESE 3 ARE MAIN CONDITIONS BY DELHI POLICE - LIST AND WHY THEY MATTER",
@@ -417,6 +382,41 @@
     "topic": "CONSTELLI SIGNALS EMERGES L-1 FOR DRDO SENSOR FUSION PROJECT",
     "headline": "CONSTELLI SIGNALS EMERGES L-1 FOR DRDO SENSOR FUSION PROJECT",
     "url": "https://idrw.org/constelli-signals-drdo-msdf-test-bed-software/",
+    "post_num": 5
+  },
+  {
+    "date": "2026-11-03",
+    "topic": "WHY DID SUPREME COURT FREEZE MUMBAI CIVIC COMMISSIONER'S SALARY, IMPOSE \u20b95 LAKH FINE ON BMC?",
+    "headline": "WHY DID SUPREME COURT FREEZE MUMBAI CIVIC COMMISSIONER'S SALARY, IMPOSE \u20b95 LAKH FINE ON BMC?",
+    "url": "https://www.livemint.com/news/india/why-did-supreme-court-freeze-mumbai-civic-commissioners-salary-impose-5-lakh-fine-on-bmc-11793730154556.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-11-03",
+    "topic": "BENGALURU METRO PINK LINE: PM MODI TO INAUGURATE NEW STRETCH ON NOVEMBER 13; CHECK ROUTE, STATIONS AND KEY DETAILS",
+    "headline": "BENGALURU METRO PINK LINE: PM MODI TO INAUGURATE NEW STRETCH ON NOVEMBER 13; CHECK ROUTE, STATIONS AND KEY DETAILS",
+    "url": "https://www.livemint.com/news/india/bengaluru-metro-pink-line-pm-modi-to-inaugurate-new-stretch-on-november-13-check-route-stations-and-key-details-11793721860197.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-11-03",
+    "topic": "WHY EX-IAF CHIEF AP SINGH WROTE TO RAJNATH SINGH OVER SEALING OF AIR FORCE SPORTS COMPLEX NEAR PM'S RESIDENCE: EXPLAINED",
+    "headline": "WHY EX-IAF CHIEF AP SINGH WROTE TO RAJNATH SINGH OVER SEALING OF AIR FORCE SPORTS COMPLEX NEAR PM'S RESIDENCE: EXPLAINED",
+    "url": "https://www.livemint.com/news/india/why-ex-iaf-chief-ap-singh-wrote-to-rajnath-singh-over-sealing-of-air-force-sports-complex-near-pms-residence-explained-11793716848038.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-11-03",
+    "topic": "WHY DID INDIA AND ISRAEL OPPOSE PAKISTAN-BACKED ARMS CONTROL RESOLUTION AT UN? EXPLAINED",
+    "headline": "WHY DID INDIA AND ISRAEL OPPOSE PAKISTAN-BACKED ARMS CONTROL RESOLUTION AT UN? EXPLAINED",
+    "url": "https://www.livemint.com/news/world/why-did-india-and-israel-oppose-pakistan-backed-arms-control-resolution-at-un-explained-11793715306711.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-11-03",
+    "topic": "CENTRE PLANS TO EXPAND IMPORT CLEARANCE GATEWAYS FOR DRUGS, MEDICAL DEVICES",
+    "headline": "CENTRE PLANS TO EXPAND IMPORT CLEARANCE GATEWAYS FOR DRUGS, MEDICAL DEVICES",
+    "url": "https://www.business-standard.com/economy/news/centre-plans-to-expand-import-clearance-gateways-for-drugs-medical-devices-126110301818_1.html",
     "post_num": 5
   }
 ]
