@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-10-29",
-    "topic": "WHO IS ANIL MENON? NASA ASTRONAUT ON FOURTH SPACEWALK, RANKS BEHIND SUNITA WILLIAMS AMONG INDIAN-ORIGIN SPACE WALKERS",
-    "headline": "WHO IS ANIL MENON? NASA ASTRONAUT ON FOURTH SPACEWALK, RANKS BEHIND SUNITA WILLIAMS AMONG INDIAN-ORIGIN SPACE WALKERS",
-    "url": "https://www.livemint.com/news/us-news/who-is-anil-menon-nasa-astronaut-on-fourth-spacewalk-ranks-behind-sunita-williams-among-indian-origin-space-walkers-11793297033170.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-10-29",
-    "topic": "PRICE STABILITY TOP POLICY AGENDA IN H2FY27 AMID INFLATION: FINMIN REVIEW",
-    "headline": "PRICE STABILITY TOP POLICY AGENDA IN H2FY27 AMID INFLATION: FINMIN REVIEW",
-    "url": "https://www.business-standard.com/economy/news/price-stability-top-policy-agenda-in-h2fy27-amid-inflation-finmin-review-126102901807_1.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-10-29",
-    "topic": "NVIDIA RESPONDS TO REPORT ON CEO JENSEN HUANG-ALLEGED CHINESE SPY INTERACTIONS: \u2018NO TRADE SECRETS SHARED\u2019",
-    "headline": "NVIDIA RESPONDS TO REPORT ON CEO JENSEN HUANG-ALLEGED CHINESE SPY INTERACTIONS: \u2018NO TRADE SECRETS SHARED\u2019",
-    "url": "https://www.livemint.com/news/us-news/nvidia-responds-to-report-on-ceo-jensen-huang-alleged-chinese-spy-interactions-no-trade-secrets-shared-11793292256420.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-10-29",
-    "topic": "B.R. SHETTY SEEKS BANK OF BARODA RECORDS, FINANCIAL SECURITY IN NEW APPLICATIONS",
-    "headline": "B.R. SHETTY SEEKS BANK OF BARODA RECORDS, FINANCIAL SECURITY IN NEW APPLICATIONS",
-    "url": "https://www.livemint.com/news/br-shetty-seeks-bank-of-baroda-records-financial-security-in-new-applications-11793283344377.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-10-29",
-    "topic": "SIX-YEAR-OLD MADHYA PRADESH BOY WINS TOYOTA FORTUNER WORTH \u20b950 LAKH IN \u20b9200 LUCKY DRAW",
-    "headline": "SIX-YEAR-OLD MADHYA PRADESH BOY WINS TOYOTA FORTUNER WORTH \u20b950 LAKH IN \u20b9200 LUCKY DRAW",
-    "url": "https://www.livemint.com/news/trends/sixyearold-madhya-pradesh-boy-wins-toyota-fortuner-worth-50-lakh-in-200-lucky-draw-11793283595955.html",
-    "post_num": 5
-  },
-  {
     "date": "2026-10-30",
     "topic": "FROM RASHTRAPATI BHAVAN TO RUNWAY: FORMER ADC MAJOR RISHABH SINGH SAMBYAL DEBUTS AS A FASHION MODEL",
     "headline": "FROM RASHTRAPATI BHAVAN TO RUNWAY: FORMER ADC MAJOR RISHABH SINGH SAMBYAL DEBUTS AS A FASHION MODEL",
@@ -417,6 +382,41 @@
     "topic": "MBDA\u2019S HIGH-SPEED STRIKE MISSILE TO HAVE RANGE \u2018FAR\u2019 EXCEEDING EXOCET",
     "headline": "MBDA\u2019S HIGH-SPEED STRIKE MISSILE TO HAVE RANGE \u2018FAR\u2019 EXCEEDING EXOCET",
     "url": "https://www.defensenews.com/global/europe/2026/11/04/mbda-high-speed-strike-missile-to-have-range-far-exceeding-exocet/",
+    "post_num": 5
+  },
+  {
+    "date": "2026-11-04",
+    "topic": "IRAN WAR! JD VANCE LISTS 4 REASONS VOTERS SWITCHED TO DEMOCRATS: \u2018AGREE OR DISAGREE, THAT\u2019S AT LEAST HONEST\u2019",
+    "headline": "IRAN WAR! JD VANCE LISTS 4 REASONS VOTERS SWITCHED TO DEMOCRATS: \u2018AGREE OR DISAGREE, THAT\u2019S AT LEAST HONEST\u2019",
+    "url": "https://www.livemint.com/news/us-news/iran-war-jd-vance-lists-4-reasons-voters-switched-to-democrats-agree-or-disagree-that-s-at-least-honest-11793814944641.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-11-04",
+    "topic": "DESPITE GAINS SINCE OCTOBER, RUPEE STILL TRAILS ITS ASIAN PEERS IN 2026",
+    "headline": "DESPITE GAINS SINCE OCTOBER, RUPEE STILL TRAILS ITS ASIAN PEERS IN 2026",
+    "url": "https://www.business-standard.com/economy/news/despite-gains-since-october-rupee-still-trails-its-asian-peers-in-2026-126110402135_1.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-11-04",
+    "topic": "WHO IS SARAH JUKAKU? MEET MICHIGAN SENATOR-ELECT ABDUL EL-SAYED'S WIFE WHOSE FAMILY HAS ROOTS IN KARNATAKA'S BHATKAL",
+    "headline": "WHO IS SARAH JUKAKU? MEET MICHIGAN SENATOR-ELECT ABDUL EL-SAYED'S WIFE WHOSE FAMILY HAS ROOTS IN KARNATAKA'S BHATKAL",
+    "url": "https://www.livemint.com/news/us-news/who-is-sarah-jukaku-meet-michigan-senator-elect-abdul-el-sayeds-wife-whose-family-has-roots-in-karnatakas-bhatkal-11793810149845.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-11-04",
+    "topic": "US MIDTERM ELECTION 2026 RESULTS: WHAT DEMOCRATS' CONGRESS TAKEOVER MEANS FOR TRUMP'S $100,000 H-1B FEE",
+    "headline": "US MIDTERM ELECTION 2026 RESULTS: WHAT DEMOCRATS' CONGRESS TAKEOVER MEANS FOR TRUMP'S $100,000 H-1B FEE",
+    "url": "https://www.livemint.com/news/us-news/us-midterm-election-2026-results-what-democrats-congress-takeover-means-for-trumps-100-000-h-1b-fee-11793803086958.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-11-04",
+    "topic": "UNDER THREAT OF AIR STRIKES, US LOOKS TO BOLSTER BASE INFRASTRUCTURE WITH 3D PRINTING",
+    "headline": "UNDER THREAT OF AIR STRIKES, US LOOKS TO BOLSTER BASE INFRASTRUCTURE WITH 3D PRINTING",
+    "url": "https://www.defensenews.com/global/mideast-africa/2026/11/04/under-threat-of-air-strikes-us-looks-to-bolster-base-infrastructure-with-3d-printing/",
     "post_num": 5
   }
 ]
