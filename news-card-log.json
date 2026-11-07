@@ -1,41 +1,6 @@
 [
   {
     "date": "2026-11-01",
-    "topic": "GROSS GST COLLECTIONS RISE 23% TO \u20b92.31 TRILLION IN OCTOBER ON STRONG SALES",
-    "headline": "GROSS GST COLLECTIONS RISE 23% TO \u20b92.31 TRILLION IN OCTOBER ON STRONG SALES",
-    "url": "https://www.business-standard.com/economy/news/gross-gst-collections-rise-23-to-2-31-trillion-in-october-on-strong-sales-126110100248_1.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-11-01",
-    "topic": "TAMIL NADU CM VIJAY GIVES 5-YEAR AGE RELAXATION FOR GOVT JOBS: NEW CATEGORY-WISE GROUP I, II AGE LIMITS EXPLAINED",
-    "headline": "TAMIL NADU CM VIJAY GIVES 5-YEAR AGE RELAXATION FOR GOVT JOBS: NEW CATEGORY-WISE GROUP I, II AGE LIMITS EXPLAINED",
-    "url": "https://www.livemint.com/news/tamil-nadu-cm-vijay-gives-5-year-age-relaxation-for-govt-jobs-new-categories-wise-group-i-ii-age-limits-explained-11793513838348.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-11-01",
-    "topic": "COMMERCIAL LPG RATES INCREASE BY \u20b910, ATF PRICES UP BY \u20b91.37 PER LITRE",
-    "headline": "COMMERCIAL LPG RATES INCREASE BY \u20b910, ATF PRICES UP BY \u20b91.37 PER LITRE",
-    "url": "https://www.business-standard.com/economy/news/commercial-lpg-rates-increase-by-10-atf-prices-up-by-1-37-per-litre-126110100124_1.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-11-01",
-    "topic": "RECORD OIL IMPORTS REFLECT STRONG REFINERY RUNS, FLEXIBLE RUSSIAN BUYING",
-    "headline": "RECORD OIL IMPORTS REFLECT STRONG REFINERY RUNS, FLEXIBLE RUSSIAN BUYING",
-    "url": "https://www.business-standard.com/economy/news/record-oil-imports-reflect-strong-refinery-runs-flexible-russian-buying-126110100118_1.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-11-01",
-    "topic": "INS KESARI REPORTS WATER INGRESS AT VISAKHAPATNAM NAVAL DOCKYARD",
-    "headline": "INS KESARI REPORTS WATER INGRESS AT VISAKHAPATNAM NAVAL DOCKYARD",
-    "url": "https://idrw.org/ins-kesari-reports-water-ingress-at-visakhapatnam-naval-dockyard/",
-    "post_num": 5
-  },
-  {
-    "date": "2026-11-01",
     "topic": "HOW CYCLONE \u2018MURASU\u2019 WAS NAMED? WHAT DOES IT MEAN AND WHEN WILL IT INTENSIFY INTO 'SEVERE' CYCLONIC STORM? DETAILS",
     "headline": "HOW CYCLONE \u2018MURASU\u2019 WAS NAMED? WHAT DOES IT MEAN AND WHEN WILL IT INTENSIFY INTO 'SEVERE' CYCLONIC STORM? DETAILS",
     "url": "https://www.livemint.com/news/india/how-cyclone-murasu-was-named-what-does-it-mean-and-when-will-it-intensify-into-severe-cyclonic-storm-details-11793554253960.html",
@@ -417,6 +382,41 @@
     "topic": "FOREIGN CARRIERS TAKE FIGHT TO AVIATION MINISTRY AFTER ADANI BLOCKS 12 AIRLINES",
     "headline": "FOREIGN CARRIERS TAKE FIGHT TO AVIATION MINISTRY AFTER ADANI BLOCKS 12 AIRLINES",
     "url": "https://www.livemint.com/news/foreign-carriers-take-fight-to-aviation-min-after-adani-blocks-12-airlines-11793969339931.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-11-07",
+    "topic": "\u2018AN ECHO CHAMBER\u2019: US MAN SUES OPENAI, CLAIMS CHATGPT HELPED WIFE CRAFT PLAN ON HOW TO KILL HIM",
+    "headline": "\u2018AN ECHO CHAMBER\u2019: US MAN SUES OPENAI, CLAIMS CHATGPT HELPED WIFE CRAFT PLAN ON HOW TO KILL HIM",
+    "url": "https://www.livemint.com/news/us-news/an-echo-chamber-us-man-sues-openai-claims-chatgpt-helped-wife-craft-plan-on-how-to-kill-him-11794029314600.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-11-07",
+    "topic": "'FULLY AND IMMEDIATELY': US URGES CHINA TO HONOUR TRADE COMMITMENTS, FLAGS CONCERNS OVER RARE EARTHS AND FARM PURCHASES",
+    "headline": "'FULLY AND IMMEDIATELY': US URGES CHINA TO HONOUR TRADE COMMITMENTS, FLAGS CONCERNS OVER RARE EARTHS AND FARM PURCHASES",
+    "url": "https://www.livemint.com/news/us-news/fully-and-immediately-us-urges-china-to-honour-trade-commitments-flags-concerns-over-rare-earths-and-farm-purchases-11794019325217.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-11-07",
+    "topic": "EXERCISE RAHAT MITRA BRINGS INDIA AND MYANMAR TOGETHER FOR JOINT TRAINING",
+    "headline": "EXERCISE RAHAT MITRA BRINGS INDIA AND MYANMAR TOGETHER FOR JOINT TRAINING",
+    "url": "https://idrw.org/exercise-rahat-mitra-brings-india-and-myanmar-together-for-joint-training/",
+    "post_num": 3
+  },
+  {
+    "date": "2026-11-07",
+    "topic": "AIR MARSHAL YALLA UMESH CELEBRATES DIWALI WITH AIR FORCE FAMILIES AT KORWA",
+    "headline": "AIR MARSHAL YALLA UMESH CELEBRATES DIWALI WITH AIR FORCE FAMILIES AT KORWA",
+    "url": "https://news.ssbcrack.com/air-marshal-yalla-umesh-celebrates-diwali-with-air-force-families-at-korwa/",
+    "post_num": 4
+  },
+  {
+    "date": "2026-11-07",
+    "topic": "INDIAN AIR FORCE ACHIEVES WORLD\u2019S HIGHEST ALTITUDE LANDING OF IL-76MD IN EASTERN LADAKH",
+    "headline": "INDIAN AIR FORCE ACHIEVES WORLD\u2019S HIGHEST ALTITUDE LANDING OF IL-76MD IN EASTERN LADAKH",
+    "url": "https://news.ssbcrack.com/indian-air-force-achieves-worlds-highest-altitude-landing-of-il-76md-in-eastern-ladakh/",
     "post_num": 5
   }
 ]
