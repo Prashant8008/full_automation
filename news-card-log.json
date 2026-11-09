@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-11-03",
-    "topic": "WHY DID SUPREME COURT FREEZE MUMBAI CIVIC COMMISSIONER'S SALARY, IMPOSE \u20b95 LAKH FINE ON BMC?",
-    "headline": "WHY DID SUPREME COURT FREEZE MUMBAI CIVIC COMMISSIONER'S SALARY, IMPOSE \u20b95 LAKH FINE ON BMC?",
-    "url": "https://www.livemint.com/news/india/why-did-supreme-court-freeze-mumbai-civic-commissioners-salary-impose-5-lakh-fine-on-bmc-11793730154556.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-11-03",
-    "topic": "BENGALURU METRO PINK LINE: PM MODI TO INAUGURATE NEW STRETCH ON NOVEMBER 13; CHECK ROUTE, STATIONS AND KEY DETAILS",
-    "headline": "BENGALURU METRO PINK LINE: PM MODI TO INAUGURATE NEW STRETCH ON NOVEMBER 13; CHECK ROUTE, STATIONS AND KEY DETAILS",
-    "url": "https://www.livemint.com/news/india/bengaluru-metro-pink-line-pm-modi-to-inaugurate-new-stretch-on-november-13-check-route-stations-and-key-details-11793721860197.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-11-03",
-    "topic": "WHY EX-IAF CHIEF AP SINGH WROTE TO RAJNATH SINGH OVER SEALING OF AIR FORCE SPORTS COMPLEX NEAR PM'S RESIDENCE: EXPLAINED",
-    "headline": "WHY EX-IAF CHIEF AP SINGH WROTE TO RAJNATH SINGH OVER SEALING OF AIR FORCE SPORTS COMPLEX NEAR PM'S RESIDENCE: EXPLAINED",
-    "url": "https://www.livemint.com/news/india/why-ex-iaf-chief-ap-singh-wrote-to-rajnath-singh-over-sealing-of-air-force-sports-complex-near-pms-residence-explained-11793716848038.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-11-03",
-    "topic": "WHY DID INDIA AND ISRAEL OPPOSE PAKISTAN-BACKED ARMS CONTROL RESOLUTION AT UN? EXPLAINED",
-    "headline": "WHY DID INDIA AND ISRAEL OPPOSE PAKISTAN-BACKED ARMS CONTROL RESOLUTION AT UN? EXPLAINED",
-    "url": "https://www.livemint.com/news/world/why-did-india-and-israel-oppose-pakistan-backed-arms-control-resolution-at-un-explained-11793715306711.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-11-03",
-    "topic": "CENTRE PLANS TO EXPAND IMPORT CLEARANCE GATEWAYS FOR DRUGS, MEDICAL DEVICES",
-    "headline": "CENTRE PLANS TO EXPAND IMPORT CLEARANCE GATEWAYS FOR DRUGS, MEDICAL DEVICES",
-    "url": "https://www.business-standard.com/economy/news/centre-plans-to-expand-import-clearance-gateways-for-drugs-medical-devices-126110301818_1.html",
-    "post_num": 5
-  },
-  {
     "date": "2026-11-04",
     "topic": "SERVICES PMI RISES TO 4-MONTH HIGH OF 55.8 IN OCT AS COST INFLATION EASES",
     "headline": "SERVICES PMI RISES TO 4-MONTH HIGH OF 55.8 IN OCT AS COST INFLATION EASES",
@@ -417,6 +382,41 @@
     "topic": "SHEIKH HASINA SEEKS NEW PASSPORT AHEAD OF DECEMBER RETURN TO BANGLADESH AS GOVERNMENT DOUBLES DOWN ON EXTRADITION",
     "headline": "SHEIKH HASINA SEEKS NEW PASSPORT AHEAD OF DECEMBER RETURN TO BANGLADESH AS GOVERNMENT DOUBLES DOWN ON EXTRADITION",
     "url": "https://www.livemint.com/news/world/sheikh-hasina-seeks-new-passport-ahead-of-december-return-to-bangladesh-as-government-doubles-down-on-extradition-11794197754443.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-11-09",
+    "topic": "US DEFENSE CHIEF ORDERS MILITARY COLLEGES TO FOCUS ON WINNING WARS OVER ACADEMIC THEORIES",
+    "headline": "US DEFENSE CHIEF ORDERS MILITARY COLLEGES TO FOCUS ON WINNING WARS OVER ACADEMIC THEORIES",
+    "url": "https://www.livemint.com/news/us-news/hegseth-orders-senior-military-schools-to-focus-on-victory-11794254746643.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-11-09",
+    "topic": "IIT GUWAHATI TOPS LAM RESEARCH'S SEMICONDUCTOR ENGINEERING CHALLENGE; WINNERS SHARE \u20b910 LAKH",
+    "headline": "IIT GUWAHATI TOPS LAM RESEARCH'S SEMICONDUCTOR ENGINEERING CHALLENGE; WINNERS SHARE \u20b910 LAKH",
+    "url": "https://www.livemint.com/news/india/iit-guwahati-tops-lam-researchs-semiconductor-engineering-challenge-winners-share-10-lakh-11794244597312.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-11-09",
+    "topic": "A SHORT SELLER FLAGGED NVIDIA CEO\u2019S TIES TO A SUSPECTED CHINESE SPY SIX MONTHS BEFORE THE SCANDAL",
+    "headline": "A SHORT SELLER FLAGGED NVIDIA CEO\u2019S TIES TO A SUSPECTED CHINESE SPY SIX MONTHS BEFORE THE SCANDAL",
+    "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+    "post_num": 3
+  },
+  {
+    "date": "2026-11-09",
+    "topic": "THE RACE IS ON TO SUE NVIDIA",
+    "headline": "THE RACE IS ON TO SUE NVIDIA",
+    "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+    "post_num": 4
+  },
+  {
+    "date": "2026-11-09",
+    "topic": "BOND YIELDS FALL AS OIL PRICES SOFTEN AMID EASING GEOPOLITICAL CONCERNS",
+    "headline": "BOND YIELDS FALL AS OIL PRICES SOFTEN AMID EASING GEOPOLITICAL CONCERNS",
+    "url": "https://www.business-standard.com/economy/news/bond-yields-decline-as-crude-oil-prices-ease-amid-geopolitical-optimism-126110901238_1.html",
     "post_num": 5
   }
 ]
