@@ -1,41 +1,6 @@
 [
   {
     "date": "2026-11-03",
-    "topic": "FROM GRAINS TO CHICKEN AND MILK, INDIA FACES PROLONGED FOOD INFLATION",
-    "headline": "FROM GRAINS TO CHICKEN AND MILK, INDIA FACES PROLONGED FOOD INFLATION",
-    "url": "https://www.business-standard.com/economy/news/from-grains-to-chicken-and-milk-india-faces-prolonged-food-inflation-126110300578_1.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-11-03",
-    "topic": "INDIAN NAVY RESCUES 20 IRANIAN CREW MEMBERS OF FISHING VESSEL AZINI HIJACKED BY SOMALI PIRATES AFTER 48-HOUR OPERATION",
-    "headline": "INDIAN NAVY RESCUES 20 IRANIAN CREW MEMBERS OF FISHING VESSEL AZINI HIJACKED BY SOMALI PIRATES AFTER 48-HOUR OPERATION",
-    "url": "https://www.livemint.com/news/india/indian-navy-rescues-20-iranian-crew-members-of-fishing-vessel-azini-hijacked-by-somali-pirates-after-48-hour-operation-11793690593458.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-11-03",
-    "topic": "NCLAT SENDS NOTICE TO BOEING AS JET AIRWAYS SEEKS \u20b9872-CRORE REFUND FOR UNDELIVERED AIRCRAFT",
-    "headline": "NCLAT SENDS NOTICE TO BOEING AS JET AIRWAYS SEEKS \u20b9872-CRORE REFUND FOR UNDELIVERED AIRCRAFT",
-    "url": "https://www.livemint.com/news/jet-airways-liquidation-boeing-rs-872-crore-refund-nclat-11793685494158.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-11-03",
-    "topic": "INDIA TAX HIKE DRIVES ILLEGAL GOLD IMPORTS TO HIGHEST LEVEL SINCE 2023",
-    "headline": "INDIA TAX HIKE DRIVES ILLEGAL GOLD IMPORTS TO HIGHEST LEVEL SINCE 2023",
-    "url": "https://www.business-standard.com/economy/news/india-tax-hike-drives-illegal-gold-imports-to-highest-level-since-2023-126110300555_1.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-11-03",
-    "topic": "CONSTELLI SIGNALS EMERGES L-1 FOR DRDO SENSOR FUSION PROJECT",
-    "headline": "CONSTELLI SIGNALS EMERGES L-1 FOR DRDO SENSOR FUSION PROJECT",
-    "url": "https://idrw.org/constelli-signals-drdo-msdf-test-bed-software/",
-    "post_num": 5
-  },
-  {
-    "date": "2026-11-03",
     "topic": "WHY DID SUPREME COURT FREEZE MUMBAI CIVIC COMMISSIONER'S SALARY, IMPOSE \u20b95 LAKH FINE ON BMC?",
     "headline": "WHY DID SUPREME COURT FREEZE MUMBAI CIVIC COMMISSIONER'S SALARY, IMPOSE \u20b95 LAKH FINE ON BMC?",
     "url": "https://www.livemint.com/news/india/why-did-supreme-court-freeze-mumbai-civic-commissioners-salary-impose-5-lakh-fine-on-bmc-11793730154556.html",
@@ -417,6 +382,41 @@
     "topic": "TWO LAKH APPLICANTS, 10 FINALISTS, ONE SLEEP CHAMPION: HOW MUMBAI WOMAN WON \u20b99.6 LAKH \u2014 INSIDE WAKEFIT\u2019S 60-DAY CONTEST",
     "headline": "TWO LAKH APPLICANTS, 10 FINALISTS, ONE SLEEP CHAMPION: HOW MUMBAI WOMAN WON \u20b99.6 LAKH \u2014 INSIDE WAKEFIT\u2019S 60-DAY CONTEST",
     "url": "https://www.livemint.com/news/trends/two-lakh-applicants-10-finalists-one-sleep-champion-how-mumbai-woman-won-9-6-lakh-inside-wakefit-s-60-day-contest-11794133942952.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-11-09",
+    "topic": "GOVT EXTENDS DEEPSEA OIL, GAS BLOCK BIDDING DEADLINE AGAIN TO DECEMBER 10",
+    "headline": "GOVT EXTENDS DEEPSEA OIL, GAS BLOCK BIDDING DEADLINE AGAIN TO DECEMBER 10",
+    "url": "https://www.business-standard.com/economy/news/govt-extends-deepsea-oil-gas-block-bidding-deadline-again-to-december-10-126110900479_1.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-11-09",
+    "topic": "INDIA'S OILMEAL EXPORTS FALL 28.5% AS SOYMEAL LOSES TO BRAZIL, ARGENTINA",
+    "headline": "INDIA'S OILMEAL EXPORTS FALL 28.5% AS SOYMEAL LOSES TO BRAZIL, ARGENTINA",
+    "url": "https://www.business-standard.com/economy/news/india-s-oilmeal-exports-fall-28-5-as-soymeal-loses-to-brazil-argentina-126110900396_1.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-11-09",
+    "topic": "US-IRAN WAR: WHAT IS TRUMP'S \u2018TASK FORCE IRON GATE\u2019? HOW WILL LAND \u2018BLOCKADE\u2019 IMPACT TEHRAN, ITS ECONOMY? EXPLAINED",
+    "headline": "US-IRAN WAR: WHAT IS TRUMP'S \u2018TASK FORCE IRON GATE\u2019? HOW WILL LAND \u2018BLOCKADE\u2019 IMPACT TEHRAN, ITS ECONOMY? EXPLAINED",
+    "url": "https://www.livemint.com/news/us-news/usiran-war-what-is-trumps-task-force-iron-gate-how-will-land-blockade-impact-tehran-its-economy-explained-11794198846233.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-11-09",
+    "topic": "BHAI DOOJ 2026 DATE & TIME: CHECK SHUBH MUHURAT, HISTORY, SIGNIFICANCE & MORE",
+    "headline": "BHAI DOOJ 2026 DATE & TIME: CHECK SHUBH MUHURAT, HISTORY, SIGNIFICANCE & MORE",
+    "url": "https://www.livemint.com/news/trends/bhai-dooj-2026-date-time-check-shubh-muhurat-history-significance-more-11794197050783.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-11-09",
+    "topic": "SHEIKH HASINA SEEKS NEW PASSPORT AHEAD OF DECEMBER RETURN TO BANGLADESH AS GOVERNMENT DOUBLES DOWN ON EXTRADITION",
+    "headline": "SHEIKH HASINA SEEKS NEW PASSPORT AHEAD OF DECEMBER RETURN TO BANGLADESH AS GOVERNMENT DOUBLES DOWN ON EXTRADITION",
+    "url": "https://www.livemint.com/news/world/sheikh-hasina-seeks-new-passport-ahead-of-december-return-to-bangladesh-as-government-doubles-down-on-extradition-11794197754443.html",
     "post_num": 5
   }
 ]
