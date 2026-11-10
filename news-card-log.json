@@ -1,41 +1,6 @@
 [
   {
     "date": "2026-11-04",
-    "topic": "SERVICES PMI RISES TO 4-MONTH HIGH OF 55.8 IN OCT AS COST INFLATION EASES",
-    "headline": "SERVICES PMI RISES TO 4-MONTH HIGH OF 55.8 IN OCT AS COST INFLATION EASES",
-    "url": "https://www.business-standard.com/economy/news/india-services-pmi-october-2026-four-month-high-55-8-cost-inflation-hiring-126110400488_1.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-11-04",
-    "topic": "INDIA PUTS FOOD BEFORE FUEL AS EL NINO DENTS ETHANOL BLENDING TARGET",
-    "headline": "INDIA PUTS FOOD BEFORE FUEL AS EL NINO DENTS ETHANOL BLENDING TARGET",
-    "url": "https://www.business-standard.com/economy/news/india-puts-food-before-fuel-as-el-nino-dents-ethanol-blending-target-126110400147_1.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-11-04",
-    "topic": "MIDTERMS MAY BRING IN WAVE OF HISTORIC FIRSTS FOR SOME STATES AND THE COUNTRY",
-    "headline": "MIDTERMS MAY BRING IN WAVE OF HISTORIC FIRSTS FOR SOME STATES AND THE COUNTRY",
-    "url": "https://www.livemint.com/news/midterms-may-bring-in-wave-of-historic-firsts-for-some-states-and-the-country-11793759345879.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-11-04",
-    "topic": "INDIA\u2019S NAETC PROJECT SET FOR NEXT PHASE AS GTRE MOVES FORWARD",
-    "headline": "INDIA\u2019S NAETC PROJECT SET FOR NEXT PHASE AS GTRE MOVES FORWARD",
-    "url": "https://idrw.org/indias-naetc-project-set-for-next-phase-as-gtre-moves-forward/",
-    "post_num": 4
-  },
-  {
-    "date": "2026-11-04",
-    "topic": "MBDA\u2019S HIGH-SPEED STRIKE MISSILE TO HAVE RANGE \u2018FAR\u2019 EXCEEDING EXOCET",
-    "headline": "MBDA\u2019S HIGH-SPEED STRIKE MISSILE TO HAVE RANGE \u2018FAR\u2019 EXCEEDING EXOCET",
-    "url": "https://www.defensenews.com/global/europe/2026/11/04/mbda-high-speed-strike-missile-to-have-range-far-exceeding-exocet/",
-    "post_num": 5
-  },
-  {
-    "date": "2026-11-04",
     "topic": "IRAN WAR! JD VANCE LISTS 4 REASONS VOTERS SWITCHED TO DEMOCRATS: \u2018AGREE OR DISAGREE, THAT\u2019S AT LEAST HONEST\u2019",
     "headline": "IRAN WAR! JD VANCE LISTS 4 REASONS VOTERS SWITCHED TO DEMOCRATS: \u2018AGREE OR DISAGREE, THAT\u2019S AT LEAST HONEST\u2019",
     "url": "https://www.livemint.com/news/us-news/iran-war-jd-vance-lists-4-reasons-voters-switched-to-democrats-agree-or-disagree-that-s-at-least-honest-11793814944641.html",
@@ -417,6 +382,41 @@
     "topic": "BOND YIELDS FALL AS OIL PRICES SOFTEN AMID EASING GEOPOLITICAL CONCERNS",
     "headline": "BOND YIELDS FALL AS OIL PRICES SOFTEN AMID EASING GEOPOLITICAL CONCERNS",
     "url": "https://www.business-standard.com/economy/news/bond-yields-decline-as-crude-oil-prices-ease-amid-geopolitical-optimism-126110901238_1.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-11-10",
+    "topic": "GOVT TO IDENTIFY RAINFED AREAS TO BOOST PULSES PRODUCTION, CHECK PRICES",
+    "headline": "GOVT TO IDENTIFY RAINFED AREAS TO BOOST PULSES PRODUCTION, CHECK PRICES",
+    "url": "https://www.livemint.com/news/govt-plans-to-identify-rainfed-areas-across-80-districts-to-boost-india-s-chana-production-11794281797170.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-11-10",
+    "topic": "\u2018SCRAP \u20b9500 NOTES\u2019: WHY ANDHRA CM CHANDRABABU NAIDU WANTS \u20b9200 TO BE THE HIGHEST DENOMINATION OF INDIAN CURRENCY",
+    "headline": "\u2018SCRAP \u20b9500 NOTES\u2019: WHY ANDHRA CM CHANDRABABU NAIDU WANTS \u20b9200 TO BE THE HIGHEST DENOMINATION OF INDIAN CURRENCY",
+    "url": "https://www.livemint.com/news/scrap-rs-500-notes-why-andhra-cm-chandrababu-naidu-wants-rs-200-to-be-the-highest-denomination-of-indian-currency-11794294264003.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-11-10",
+    "topic": "WATCH | BRITISH VLOGGER LEFT AMAZED BY DELHI METRO, PAYS JUST \u20b932 FOR WHAT HE CALLS \u2018WAY MORE MODERN\u2019 THAN LONDON",
+    "headline": "WATCH | BRITISH VLOGGER LEFT AMAZED BY DELHI METRO, PAYS JUST \u20b932 FOR WHAT HE CALLS \u2018WAY MORE MODERN\u2019 THAN LONDON",
+    "url": "https://www.livemint.com/news/trends/watch-british-vlogger-left-amazed-by-delhi-metro-pays-just-rs-32-for-what-he-calls-way-more-modern-than-london-11794285910284.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-11-10",
+    "topic": "TYLER ROBINSON TO STAND TRIAL IN 2028 FOR CHARLIE KIRK'S KILLING, NEARLY THREE YEARS AFTER SHOOTING",
+    "headline": "TYLER ROBINSON TO STAND TRIAL IN 2028 FOR CHARLIE KIRK'S KILLING, NEARLY THREE YEARS AFTER SHOOTING",
+    "url": "https://www.livemint.com/news/us-news/tyler-robinson-to-stand-trial-in-2028-for-charlie-kirks-killing-nearly-three-years-after-shooting-11794279963586.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-11-10",
+    "topic": "INDIGENOUS MOUNTED GUN SYSTEM HEADS TO SIKKIM FOR WINTER TRIALS",
+    "headline": "INDIGENOUS MOUNTED GUN SYSTEM HEADS TO SIKKIM FOR WINTER TRIALS",
+    "url": "https://idrw.org/kalyani-mounted-gun-system-pokhran-sikkim-winter-trials/",
     "post_num": 5
   }
 ]
