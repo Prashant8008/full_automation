@@ -1,41 +1,6 @@
 [
   {
     "date": "2026-11-06",
-    "topic": "BOMBAY HC, MAHALAXMI RACECOURSE AND AMITABH BACHCHAN'S RESIDENCE RECEIVE BOMB THREAT EMAIL",
-    "headline": "BOMBAY HC, MAHALAXMI RACECOURSE AND AMITABH BACHCHAN'S RESIDENCE RECEIVE BOMB THREAT EMAIL",
-    "url": "https://www.livemint.com/news/india/bombay-hc-mahalaxmi-racecourse-and-amitabh-bachchans-residence-receive-bomb-threat-email-11793953972423.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-11-06",
-    "topic": "CHINA\u2019S TYPE 004, THE WORLD\u2019S LARGEST AIRCRAFT CARRIER, MAY BE NUCLEAR-POWERED; LAUNCH LIKELY IN 2027 | DETAILS",
-    "headline": "CHINA\u2019S TYPE 004, THE WORLD\u2019S LARGEST AIRCRAFT CARRIER, MAY BE NUCLEAR-POWERED; LAUNCH LIKELY IN 2027 | DETAILS",
-    "url": "https://www.livemint.com/news/world/chinas-type-004-the-world-s-largest-aircraft-carrier-may-be-nuclear-powered-launch-likely-in-2027-details-11793950672401.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-11-06",
-    "topic": "EGYPT ASKS FOR RETURN OF ANCIENT MUMMY BEHIND SCOTS CONTROVERSY",
-    "headline": "EGYPT ASKS FOR RETURN OF ANCIENT MUMMY BEHIND SCOTS CONTROVERSY",
-    "url": "https://www.livemint.com/news/egypt-asks-for-return-of-ancient-mummy-behind-scots-controversy-11793941982752.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-11-06",
-    "topic": "INDOWINGS SHOWCASES STEALTH-SHAPED JET UAV CONCEPT",
-    "headline": "INDOWINGS SHOWCASES STEALTH-SHAPED JET UAV CONCEPT",
-    "url": "https://idrw.org/indowings-stealth-shaped-jet-uav-concept/",
-    "post_num": 4
-  },
-  {
-    "date": "2026-11-06",
-    "topic": "NEWSPACE\u2019S EMERGING DESIGN HINTS AT NAVAL VARIANT OF SHEESHNAAG-150",
-    "headline": "NEWSPACE\u2019S EMERGING DESIGN HINTS AT NAVAL VARIANT OF SHEESHNAAG-150",
-    "url": "https://idrw.org/newspace-sheeshnaag-150-naval-variant-design/",
-    "post_num": 5
-  },
-  {
-    "date": "2026-11-06",
     "topic": "WHY SAUDI ARABIA IS EXTENDING $3 BN LIFELINE TO PAK: REASONS RIYADH CONTINUES TO BANKROLL ISLAMABAD\u2019S STRUGGLING ECONOMY",
     "headline": "WHY SAUDI ARABIA IS EXTENDING $3 BN LIFELINE TO PAK: REASONS RIYADH CONTINUES TO BANKROLL ISLAMABAD\u2019S STRUGGLING ECONOMY",
     "url": "https://www.livemint.com/news/world/why-saudi-arabia-is-extending-3-bn-lifeline-to-pak-reasons-riyadh-continues-to-bankroll-islamabad-s-struggling-economy-11793988099638.html",
@@ -417,6 +382,41 @@
     "topic": "ODISHA SIGNS PACT WITH JAPAN'S TOTTORI TO BOOST INVESTMENT, TECHNOLOGY TIES",
     "headline": "ODISHA SIGNS PACT WITH JAPAN'S TOTTORI TO BOOST INVESTMENT, TECHNOLOGY TIES",
     "url": "https://www.business-standard.com/economy/news/odisha-signs-pact-with-japan-s-tottori-to-boost-investment-technology-ties-126111101511_1.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-11-12",
+    "topic": "INDIA'S GULF OIL IMPORTS SURPASS RUSSIA FOR FIRST TIME SINCE IRAN WAR",
+    "headline": "INDIA'S GULF OIL IMPORTS SURPASS RUSSIA FOR FIRST TIME SINCE IRAN WAR",
+    "url": "https://www.business-standard.com/economy/news/india-s-gulf-oil-imports-surpass-russia-for-first-time-since-iran-war-126111200597_1.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-11-12",
+    "topic": "INDIAN NAVY SEEKS STRAP-ON MAGNETIC ANOMALY DETECTOR FOR HELICOPTERS",
+    "headline": "INDIAN NAVY SEEKS STRAP-ON MAGNETIC ANOMALY DETECTOR FOR HELICOPTERS",
+    "url": "https://idrw.org/indian-navy-helicopter-strap-on-magnetic-anomaly-detector/",
+    "post_num": 2
+  },
+  {
+    "date": "2026-11-12",
+    "topic": "ISRO COMPLETES CRYOGENIC ENGINE ACCEPTANCE TEST FOR NEXT GSLV MISSION",
+    "headline": "ISRO COMPLETES CRYOGENIC ENGINE ACCEPTANCE TEST FOR NEXT GSLV MISSION",
+    "url": "https://idrw.org/isro-completes-cryogenic-engine-acceptance-test-for-next-gslv-mission/",
+    "post_num": 3
+  },
+  {
+    "date": "2026-11-12",
+    "topic": "DELHI TO GET 11-KM-LONG CHHATH GHAT ALONG MUNAK CANAL TODAY: CHECK FACILITIES FOR DEVOTEES, SECURITY ARRANGEMENTS",
+    "headline": "DELHI TO GET 11-KM-LONG CHHATH GHAT ALONG MUNAK CANAL TODAY: CHECK FACILITIES FOR DEVOTEES, SECURITY ARRANGEMENTS",
+    "url": "https://www.livemint.com/news/india/delhi-to-get-11-km-long-chhath-ghat-along-munak-canal-today-check-facilities-for-devotees-security-arrangements-11794447865631.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-11-12",
+    "topic": "PROJECT 17B FRIGATES COULD APPROACH DESTROYER SIZE WITH 8,000-TONNE DISPLACEMENT AND FUTURE LASER GROWTH",
+    "headline": "PROJECT 17B FRIGATES COULD APPROACH DESTROYER SIZE WITH 8,000-TONNE DISPLACEMENT AND FUTURE LASER GROWTH",
+    "url": "https://idrw.org/project-17b-frigates-8000-tonne-displacement-laser-weapons/",
     "post_num": 5
   }
 ]
