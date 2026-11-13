@@ -1,41 +1,6 @@
 [
   {
     "date": "2026-11-07",
-    "topic": "\u2018AN ECHO CHAMBER\u2019: US MAN SUES OPENAI, CLAIMS CHATGPT HELPED WIFE CRAFT PLAN ON HOW TO KILL HIM",
-    "headline": "\u2018AN ECHO CHAMBER\u2019: US MAN SUES OPENAI, CLAIMS CHATGPT HELPED WIFE CRAFT PLAN ON HOW TO KILL HIM",
-    "url": "https://www.livemint.com/news/us-news/an-echo-chamber-us-man-sues-openai-claims-chatgpt-helped-wife-craft-plan-on-how-to-kill-him-11794029314600.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-11-07",
-    "topic": "'FULLY AND IMMEDIATELY': US URGES CHINA TO HONOUR TRADE COMMITMENTS, FLAGS CONCERNS OVER RARE EARTHS AND FARM PURCHASES",
-    "headline": "'FULLY AND IMMEDIATELY': US URGES CHINA TO HONOUR TRADE COMMITMENTS, FLAGS CONCERNS OVER RARE EARTHS AND FARM PURCHASES",
-    "url": "https://www.livemint.com/news/us-news/fully-and-immediately-us-urges-china-to-honour-trade-commitments-flags-concerns-over-rare-earths-and-farm-purchases-11794019325217.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-11-07",
-    "topic": "EXERCISE RAHAT MITRA BRINGS INDIA AND MYANMAR TOGETHER FOR JOINT TRAINING",
-    "headline": "EXERCISE RAHAT MITRA BRINGS INDIA AND MYANMAR TOGETHER FOR JOINT TRAINING",
-    "url": "https://idrw.org/exercise-rahat-mitra-brings-india-and-myanmar-together-for-joint-training/",
-    "post_num": 3
-  },
-  {
-    "date": "2026-11-07",
-    "topic": "AIR MARSHAL YALLA UMESH CELEBRATES DIWALI WITH AIR FORCE FAMILIES AT KORWA",
-    "headline": "AIR MARSHAL YALLA UMESH CELEBRATES DIWALI WITH AIR FORCE FAMILIES AT KORWA",
-    "url": "https://news.ssbcrack.com/air-marshal-yalla-umesh-celebrates-diwali-with-air-force-families-at-korwa/",
-    "post_num": 4
-  },
-  {
-    "date": "2026-11-07",
-    "topic": "INDIAN AIR FORCE ACHIEVES WORLD\u2019S HIGHEST ALTITUDE LANDING OF IL-76MD IN EASTERN LADAKH",
-    "headline": "INDIAN AIR FORCE ACHIEVES WORLD\u2019S HIGHEST ALTITUDE LANDING OF IL-76MD IN EASTERN LADAKH",
-    "url": "https://news.ssbcrack.com/indian-air-force-achieves-worlds-highest-altitude-landing-of-il-76md-in-eastern-ladakh/",
-    "post_num": 5
-  },
-  {
-    "date": "2026-11-07",
     "topic": "INDIGO'S BENGALURU-LUCKNOW FLIGHT RETURNS AFTER HIJACK THREAT NOTE FOUND; FULL EMERGENCY DECLARED AT KEMPEGOWDA AIRPORT",
     "headline": "INDIGO'S BENGALURU-LUCKNOW FLIGHT RETURNS AFTER HIJACK THREAT NOTE FOUND; FULL EMERGENCY DECLARED AT KEMPEGOWDA AIRPORT",
     "url": "https://www.livemint.com/news/india/indigos-bengaluru-lucknow-flight-returns-after-hijack-threat-note-found-full-emergency-declared-at-kempegowda-airport-11794073753754.html",
@@ -417,6 +382,41 @@
     "topic": "MUMBAI COOK EARNS \u20b91.05 LAKH A MONTH, PLANS FIRST THAILAND TRIP AS EMPLOYER COMPARES HIS FINANCES WITH MBA FRIENDS",
     "headline": "MUMBAI COOK EARNS \u20b91.05 LAKH A MONTH, PLANS FIRST THAILAND TRIP AS EMPLOYER COMPARES HIS FINANCES WITH MBA FRIENDS",
     "url": "https://www.livemint.com/news/trends/mumbai-cook-earns-1-05-lakh-a-month-plans-first-thailand-trip-as-employer-compares-his-finances-with-mba-friends-11794499402881.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-11-13",
+    "topic": "REGIONAL CREATORS GO MULTILINGUAL WITH AI, BUT WILL THE MONEY FOLLOW?",
+    "headline": "REGIONAL CREATORS GO MULTILINGUAL WITH AI, BUT WILL THE MONEY FOLLOW?",
+    "url": "https://www.livemint.com/news/ai-dubbing-instagram-reels-youtube-auto-dubbing-regional-content-creators-multilingual-videos-creator-economy-11794547920225.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-11-13",
+    "topic": "BULK SCOTCH WHISKY IMPORTS HELD UP AT INDIAN PORTS: COMMERCE, FINANCE MINISTRIES MEET TO RESOLVE DISPUTE OVER DUTIES",
+    "headline": "BULK SCOTCH WHISKY IMPORTS HELD UP AT INDIAN PORTS: COMMERCE, FINANCE MINISTRIES MEET TO RESOLVE DISPUTE OVER DUTIES",
+    "url": "https://www.livemint.com/news/india/bulk-scotch-whisky-imports-held-up-at-indian-ports-commerce-finance-ministries-meet-to-resolve-dispute-over-duties-11794551143056.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-11-13",
+    "topic": "FUEL PRICES TODAY, 13 NOVEMBER: CHECK HOW MUCH PETROL, DIESEL COST IN YOUR CITY ON FRIDAY \u2014 FULL LIST",
+    "headline": "FUEL PRICES TODAY, 13 NOVEMBER: CHECK HOW MUCH PETROL, DIESEL COST IN YOUR CITY ON FRIDAY \u2014 FULL LIST",
+    "url": "https://www.livemint.com/news/india/fuel-prices-today-13-november-check-how-much-petrol-diesel-cost-in-your-city-on-friday-full-list-11794538363099.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-11-13",
+    "topic": "TES 56 MERIT LIST OUT\u2013 104 CANDIDATES RECOMMENDED",
+    "headline": "TES 56 MERIT LIST OUT\u2013 104 CANDIDATES RECOMMENDED",
+    "url": "https://www.ssbcrack.com/2026/11/tes-56-merit-list-out-104-candidates-recommended.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-11-13",
+    "topic": "BEL TARGETS 3,000 SEEKERS A YEAR AS MISSILE DEMAND GROWS",
+    "headline": "BEL TARGETS 3,000 SEEKERS A YEAR AS MISSILE DEMAND GROWS",
+    "url": "https://idrw.org/bel-missile-seeker-production-capacity-brahmos/",
     "post_num": 5
   }
 ]
