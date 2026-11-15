@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-11-09",
-    "topic": "US DEFENSE CHIEF ORDERS MILITARY COLLEGES TO FOCUS ON WINNING WARS OVER ACADEMIC THEORIES",
-    "headline": "US DEFENSE CHIEF ORDERS MILITARY COLLEGES TO FOCUS ON WINNING WARS OVER ACADEMIC THEORIES",
-    "url": "https://www.livemint.com/news/us-news/hegseth-orders-senior-military-schools-to-focus-on-victory-11794254746643.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-11-09",
-    "topic": "IIT GUWAHATI TOPS LAM RESEARCH'S SEMICONDUCTOR ENGINEERING CHALLENGE; WINNERS SHARE \u20b910 LAKH",
-    "headline": "IIT GUWAHATI TOPS LAM RESEARCH'S SEMICONDUCTOR ENGINEERING CHALLENGE; WINNERS SHARE \u20b910 LAKH",
-    "url": "https://www.livemint.com/news/india/iit-guwahati-tops-lam-researchs-semiconductor-engineering-challenge-winners-share-10-lakh-11794244597312.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-11-09",
-    "topic": "A SHORT SELLER FLAGGED NVIDIA CEO\u2019S TIES TO A SUSPECTED CHINESE SPY SIX MONTHS BEFORE THE SCANDAL",
-    "headline": "A SHORT SELLER FLAGGED NVIDIA CEO\u2019S TIES TO A SUSPECTED CHINESE SPY SIX MONTHS BEFORE THE SCANDAL",
-    "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-    "post_num": 3
-  },
-  {
-    "date": "2026-11-09",
-    "topic": "THE RACE IS ON TO SUE NVIDIA",
-    "headline": "THE RACE IS ON TO SUE NVIDIA",
-    "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-    "post_num": 4
-  },
-  {
-    "date": "2026-11-09",
-    "topic": "BOND YIELDS FALL AS OIL PRICES SOFTEN AMID EASING GEOPOLITICAL CONCERNS",
-    "headline": "BOND YIELDS FALL AS OIL PRICES SOFTEN AMID EASING GEOPOLITICAL CONCERNS",
-    "url": "https://www.business-standard.com/economy/news/bond-yields-decline-as-crude-oil-prices-ease-amid-geopolitical-optimism-126110901238_1.html",
-    "post_num": 5
-  },
-  {
     "date": "2026-11-10",
     "topic": "GOVT TO IDENTIFY RAINFED AREAS TO BOOST PULSES PRODUCTION, CHECK PRICES",
     "headline": "GOVT TO IDENTIFY RAINFED AREAS TO BOOST PULSES PRODUCTION, CHECK PRICES",
@@ -417,6 +382,41 @@
     "topic": "H-1B IS \u2018NOT A BUSINESS MODEL\u2019: INFOSYS, TCS, WIPRO FACE FRESH SCRUTINY AS US VISA CRACKDOWN WIDENS",
     "headline": "H-1B IS \u2018NOT A BUSINESS MODEL\u2019: INFOSYS, TCS, WIPRO FACE FRESH SCRUTINY AS US VISA CRACKDOWN WIDENS",
     "url": "https://www.livemint.com/news/us-news/h1b-is-not-a-business-model-infosys-tcs-wipro-face-fresh-scrutiny-as-us-visa-crackdown-widens-11794714759722.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-11-15",
+    "topic": "US RAISES UNPRECEDENTED DONBAS PROPOSAL: WOULD UKRAINE GIVE UP ITS EASTERN TERRITORY TO RUSSIA FOR NATO MEMBERSHIP?",
+    "headline": "US RAISES UNPRECEDENTED DONBAS PROPOSAL: WOULD UKRAINE GIVE UP ITS EASTERN TERRITORY TO RUSSIA FOR NATO MEMBERSHIP?",
+    "url": "https://www.livemint.com/news/world/us-raises-unprecedented-donbas-proposal-would-ukraine-give-up-its-eastern-territory-to-russia-for-nato-membership-11794762971454.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-11-15",
+    "topic": "ALL ABOUT THE FAMOUS RESTAURANT WHERE NVIDIA WAS FOUNDED - WHAT'S HAPPENING AT THE EATERY NOW?",
+    "headline": "ALL ABOUT THE FAMOUS RESTAURANT WHERE NVIDIA WAS FOUNDED - WHAT'S HAPPENING AT THE EATERY NOW?",
+    "url": "https://www.livemint.com/news/trends/all-about-the-famous-restaurant-where-nvidia-was-founded-whats-happening-at-the-eatery-now-11794765221212.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-11-15",
+    "topic": "HILTON RETAINS WORLD\u2019S BEST WORKPLACE TITLE FOR SECOND YEAR; CEO EXPLAINS ITS EMPLOYEE-FIRST APPROACH",
+    "headline": "HILTON RETAINS WORLD\u2019S BEST WORKPLACE TITLE FOR SECOND YEAR; CEO EXPLAINS ITS EMPLOYEE-FIRST APPROACH",
+    "url": "https://www.livemint.com/news/trends/hilton-retains-world-s-best-workplace-title-for-second-year-ceo-explains-its-employee-first-approach-11794762596128.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-11-15",
+    "topic": "DUBAI USES CLOUD SEEDING TO TACKLE DUST, BUT WHY CAN'T DELHI TRIGGER RAIN TO BEAT TOXIC SMOG?",
+    "headline": "DUBAI USES CLOUD SEEDING TO TACKLE DUST, BUT WHY CAN'T DELHI TRIGGER RAIN TO BEAT TOXIC SMOG?",
+    "url": "https://www.livemint.com/news/dubai-uses-cloud-seeding-to-tackle-dust-but-why-cant-delhi-trigger-rain-to-beat-toxic-smog-11794755225469.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-11-15",
+    "topic": "QUALCOMM EMPLOYEE LAID OFF DAYS BEFORE WEDDING; WHAT HIS MANAGER TOLD HIM LEFT HIM STUNNED",
+    "headline": "QUALCOMM EMPLOYEE LAID OFF DAYS BEFORE WEDDING; WHAT HIS MANAGER TOLD HIM LEFT HIM STUNNED",
+    "url": "https://www.livemint.com/news/trends/qualcomm-employee-laid-off-days-before-wedding-what-his-manager-told-him-left-him-stunned-11794749597506.html",
     "post_num": 5
   }
 ]
