@@ -1,41 +1,6 @@
 [
   {
     "date": "2026-11-09",
-    "topic": "GOVT EXTENDS DEEPSEA OIL, GAS BLOCK BIDDING DEADLINE AGAIN TO DECEMBER 10",
-    "headline": "GOVT EXTENDS DEEPSEA OIL, GAS BLOCK BIDDING DEADLINE AGAIN TO DECEMBER 10",
-    "url": "https://www.business-standard.com/economy/news/govt-extends-deepsea-oil-gas-block-bidding-deadline-again-to-december-10-126110900479_1.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-11-09",
-    "topic": "INDIA'S OILMEAL EXPORTS FALL 28.5% AS SOYMEAL LOSES TO BRAZIL, ARGENTINA",
-    "headline": "INDIA'S OILMEAL EXPORTS FALL 28.5% AS SOYMEAL LOSES TO BRAZIL, ARGENTINA",
-    "url": "https://www.business-standard.com/economy/news/india-s-oilmeal-exports-fall-28-5-as-soymeal-loses-to-brazil-argentina-126110900396_1.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-11-09",
-    "topic": "US-IRAN WAR: WHAT IS TRUMP'S \u2018TASK FORCE IRON GATE\u2019? HOW WILL LAND \u2018BLOCKADE\u2019 IMPACT TEHRAN, ITS ECONOMY? EXPLAINED",
-    "headline": "US-IRAN WAR: WHAT IS TRUMP'S \u2018TASK FORCE IRON GATE\u2019? HOW WILL LAND \u2018BLOCKADE\u2019 IMPACT TEHRAN, ITS ECONOMY? EXPLAINED",
-    "url": "https://www.livemint.com/news/us-news/usiran-war-what-is-trumps-task-force-iron-gate-how-will-land-blockade-impact-tehran-its-economy-explained-11794198846233.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-11-09",
-    "topic": "BHAI DOOJ 2026 DATE & TIME: CHECK SHUBH MUHURAT, HISTORY, SIGNIFICANCE & MORE",
-    "headline": "BHAI DOOJ 2026 DATE & TIME: CHECK SHUBH MUHURAT, HISTORY, SIGNIFICANCE & MORE",
-    "url": "https://www.livemint.com/news/trends/bhai-dooj-2026-date-time-check-shubh-muhurat-history-significance-more-11794197050783.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-11-09",
-    "topic": "SHEIKH HASINA SEEKS NEW PASSPORT AHEAD OF DECEMBER RETURN TO BANGLADESH AS GOVERNMENT DOUBLES DOWN ON EXTRADITION",
-    "headline": "SHEIKH HASINA SEEKS NEW PASSPORT AHEAD OF DECEMBER RETURN TO BANGLADESH AS GOVERNMENT DOUBLES DOWN ON EXTRADITION",
-    "url": "https://www.livemint.com/news/world/sheikh-hasina-seeks-new-passport-ahead-of-december-return-to-bangladesh-as-government-doubles-down-on-extradition-11794197754443.html",
-    "post_num": 5
-  },
-  {
-    "date": "2026-11-09",
     "topic": "US DEFENSE CHIEF ORDERS MILITARY COLLEGES TO FOCUS ON WINNING WARS OVER ACADEMIC THEORIES",
     "headline": "US DEFENSE CHIEF ORDERS MILITARY COLLEGES TO FOCUS ON WINNING WARS OVER ACADEMIC THEORIES",
     "url": "https://www.livemint.com/news/us-news/hegseth-orders-senior-military-schools-to-focus-on-victory-11794254746643.html",
@@ -417,6 +382,41 @@
     "topic": "THE AI GRAVEYARD: A RUNNING LIST OF PROJECTS AND STARTUPS THAT DIDN\u2019T MAKE IT",
     "headline": "THE AI GRAVEYARD: A RUNNING LIST OF PROJECTS AND STARTUPS THAT DIDN\u2019T MAKE IT",
     "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "post_num": 5
+  },
+  {
+    "date": "2026-11-15",
+    "topic": "MINT EXPLAINER | CENTRE'S REVISED LAPTOP PROCUREMENT NORMS AND WHAT IT MEANS FOR GOVT OFFICIALS?",
+    "headline": "MINT EXPLAINER | CENTRE'S REVISED LAPTOP PROCUREMENT NORMS AND WHAT IT MEANS FOR GOVT OFFICIALS?",
+    "url": "https://www.livemint.com/news/centre-revised-laptop-purchase-rules-2026-price-limit-eligibility-11794716928412.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-11-15",
+    "topic": "US-IRAN WAR NEGOTIATIONS IN LIMBO? ISRAEL WARNS TRUMP, SEVERAL AMERICAN OFFICIALS OF TEHRAN'S PLAN TO ATTACK",
+    "headline": "US-IRAN WAR NEGOTIATIONS IN LIMBO? ISRAEL WARNS TRUMP, SEVERAL AMERICAN OFFICIALS OF TEHRAN'S PLAN TO ATTACK",
+    "url": "https://www.livemint.com/news/us-news/usiran-war-negotiations-in-limbo-israel-warns-trump-several-american-officials-of-tehrans-plan-to-attack-11794719697445.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-11-15",
+    "topic": "\u2018BEST PLACE FOR FRAUDSTERS\u2019: SOCIAL MEDIA REACTS AS LALIT MODI BECOMES \u2018PROUD\u2019 BRITISH CITIZEN ON KING CHARLES' BIRTHDAY",
+    "headline": "\u2018BEST PLACE FOR FRAUDSTERS\u2019: SOCIAL MEDIA REACTS AS LALIT MODI BECOMES \u2018PROUD\u2019 BRITISH CITIZEN ON KING CHARLES' BIRTHDAY",
+    "url": "https://www.livemint.com/news/trends/best-place-for-fraudsters-social-media-reacts-as-lalit-modi-becomes-proud-british-citizen-on-king-charles-birthday-11794718203357.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-11-15",
+    "topic": "AUSTRALIA, PHILIPPINES UPGRADE DEFENSE TIES WITH FOCUS ON CHINA",
+    "headline": "AUSTRALIA, PHILIPPINES UPGRADE DEFENSE TIES WITH FOCUS ON CHINA",
+    "url": "https://www.livemint.com/news/world/australia-philippines-upgrade-defense-ties-with-focus-on-china-11794718573151.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-11-15",
+    "topic": "H-1B IS \u2018NOT A BUSINESS MODEL\u2019: INFOSYS, TCS, WIPRO FACE FRESH SCRUTINY AS US VISA CRACKDOWN WIDENS",
+    "headline": "H-1B IS \u2018NOT A BUSINESS MODEL\u2019: INFOSYS, TCS, WIPRO FACE FRESH SCRUTINY AS US VISA CRACKDOWN WIDENS",
+    "url": "https://www.livemint.com/news/us-news/h1b-is-not-a-business-model-infosys-tcs-wipro-face-fresh-scrutiny-as-us-visa-crackdown-widens-11794714759722.html",
     "post_num": 5
   }
 ]
