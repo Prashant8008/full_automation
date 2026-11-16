@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-11-10",
-    "topic": "UP VOTER LIST: YOGI ADITYANATH CLAIMS 1.27 CRORE HINDU VOTERS MISSING AFTER SIR EXERCISE AS MUSLIM VOTERS UP BY 1.65%",
-    "headline": "UP VOTER LIST: YOGI ADITYANATH CLAIMS 1.27 CRORE HINDU VOTERS MISSING AFTER SIR EXERCISE AS MUSLIM VOTERS UP BY 1.65%",
-    "url": "https://www.livemint.com/news/india/up-voter-list-yogi-adityanath-claims-1-27-crore-hindu-voters-missing-after-sir-exercise-as-muslim-voters-up-by-165-11794332440118.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-11-10",
-    "topic": "INDIA-US TRADE DEAL TALKS CONTINUE AS US TEAM VISITS DELHI",
-    "headline": "INDIA-US TRADE DEAL TALKS CONTINUE AS US TEAM VISITS DELHI",
-    "url": "https://www.livemint.com/news/india/indiaus-trade-deal-talks-continue-as-us-team-visits-delhi-11794330219355.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-11-10",
-    "topic": "GOVT EXTENDS MEDICAL DEVICES PLI TO 2035\u201336, RELAXES RULES TO SPUR INVESTMENT",
-    "headline": "GOVT EXTENDS MEDICAL DEVICES PLI TO 2035\u201336, RELAXES RULES TO SPUR INVESTMENT",
-    "url": "https://www.livemint.com/news/india/govt-extends-medical-devices-pli-2035-36-relaxes-rules-spur-investment-11794325048706.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-11-10",
-    "topic": "PHDCCI SEEKS 180-DAY NPA WINDOW FOR MSMES, HIGHER MUDRA LOAN LIMITS",
-    "headline": "PHDCCI SEEKS 180-DAY NPA WINDOW FOR MSMES, HIGHER MUDRA LOAN LIMITS",
-    "url": "https://www.business-standard.com/economy/news/phdcci-seeks-180-day-npa-window-for-msmes-higher-mudra-loan-limits-126111000934_1.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-11-10",
-    "topic": "ADNAN SAMI SLAMS MUMBAI AIRPORT T2: WHAT HAPPENED WITH PRANAAM STAFF AND WHY IS THE SINGER UPSET?",
-    "headline": "ADNAN SAMI SLAMS MUMBAI AIRPORT T2: WHAT HAPPENED WITH PRANAAM STAFF AND WHY IS THE SINGER UPSET?",
-    "url": "https://www.livemint.com/news/india/adnan-sami-slams-mumbai-airport-t2-what-happened-with-pranaam-staff-and-why-is-the-singer-upset-11794322511240.html",
-    "post_num": 5
-  },
-  {
     "date": "2026-11-11",
     "topic": "MOODY'S RAISES INDIA'S FY27 GROWTH FORECAST TO 7% ON BROAD-BASED MOMENTUM",
     "headline": "MOODY'S RAISES INDIA'S FY27 GROWTH FORECAST TO 7% ON BROAD-BASED MOMENTUM",
@@ -417,6 +382,41 @@
     "topic": "PUNE FIRM GETS IAF ORDER FOR ELECTRICAL COOLANOL UNIT FOR SU-30MKI",
     "headline": "PUNE FIRM GETS IAF ORDER FOR ELECTRICAL COOLANOL UNIT FOR SU-30MKI",
     "url": "https://idrw.org/techera-indian-air-force-electrical-coolanol-unit/",
+    "post_num": 5
+  },
+  {
+    "date": "2026-11-16",
+    "topic": "INDIA'S INVESTMENTS IN US TREASURIES UP $38.4 BILLION IN JUNE-AUGUST",
+    "headline": "INDIA'S INVESTMENTS IN US TREASURIES UP $38.4 BILLION IN JUNE-AUGUST",
+    "url": "https://www.business-standard.com/economy/news/india-s-investments-in-us-treasuries-up-38-4-billion-in-june-august-126111601474_1.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-11-16",
+    "topic": "JIMMY TATA ACCUSES NOEL OF A \u2018BACK-DOOR TAKEOVER\u2019 OF TATA SONS, BACKS LISTING",
+    "headline": "JIMMY TATA ACCUSES NOEL OF A \u2018BACK-DOOR TAKEOVER\u2019 OF TATA SONS, BACKS LISTING",
+    "url": "https://www.livemint.com/news/jimmy-tata-accuses-noel-of-a-back-door-takeover-of-tata-sons-backs-listing-11794850273823.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-11-16",
+    "topic": "\u2018JENSEN HUANG WAS MUCH MORE THAN CEO\u2019: CHINA-BASED NVIDIA ENGINEER SAYS HE QUIT AFTER CEO EXIT- HERE IS WHY",
+    "headline": "\u2018JENSEN HUANG WAS MUCH MORE THAN CEO\u2019: CHINA-BASED NVIDIA ENGINEER SAYS HE QUIT AFTER CEO EXIT- HERE IS WHY",
+    "url": "https://www.livemint.com/news/trends/jensen-huang-was-much-more-than-ceo-china-based-nvidia-engineer-says-he-quit-after-ceo-exit-11794848559310.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-11-16",
+    "topic": "NVIDIA CHIP ROW: US TIGHTENS AI CHIP EXPORT RULES TO RESTRICT ACCESS THROUGH OVERSEAS DATA CENTRES",
+    "headline": "NVIDIA CHIP ROW: US TIGHTENS AI CHIP EXPORT RULES TO RESTRICT ACCESS THROUGH OVERSEAS DATA CENTRES",
+    "url": "https://www.livemint.com/news/us-news/nvidia-chip-row-us-tightens-ai-chip-export-rules-to-restrict-access-through-overseas-data-centres-11794844767793.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-11-16",
+    "topic": "PENTAGON FAILS 9TH AUDIT, ASSERTS PATH TOWARDS CLEAN BOOKS IN 2028",
+    "headline": "PENTAGON FAILS 9TH AUDIT, ASSERTS PATH TOWARDS CLEAN BOOKS IN 2028",
+    "url": "https://breakingdefense.com/2026/11/pentagon-fails-9th-audit-asserts-path-towards-clean-books-in-2028/",
     "post_num": 5
   }
 ]
