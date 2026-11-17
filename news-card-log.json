@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-11-11",
-    "topic": "PUNJAB MAN WINS \u20b91.5 CRORE LOTTERY A DAY AFTER DAUGHTER BARKAT'S BIRTH: \u2018WE WANTED A BOY\u2019",
-    "headline": "PUNJAB MAN WINS \u20b91.5 CRORE LOTTERY A DAY AFTER DAUGHTER BARKAT'S BIRTH: \u2018WE WANTED A BOY\u2019",
-    "url": "https://www.livemint.com/news/trends/punjab-man-wins-1-5-crore-lottery-a-day-after-daughter-barkats-birth-we-wanted-a-boy-11794419878609.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-11-11",
-    "topic": "NET DIRECT TAX COLLECTIONS RISE 11.8% TO \u20b914.42 TRILLION, CORPORATE TAX LEADS",
-    "headline": "NET DIRECT TAX COLLECTIONS RISE 11.8% TO \u20b914.42 TRILLION, CORPORATE TAX LEADS",
-    "url": "https://www.livemint.com/news/net-direct-tax-collections-rise-11-8-to-rs-14-42-trillion-corporate-tax-leads-11794414077304.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-11-11",
-    "topic": "\u2018PILLOW TALK\u2019 ESPIONAGE? HOW ALLEGED CHINESE SPY ALICE HUANG MAY HAVE GAINED ACCESS TO JENSEN HUANG\u2019S NVIDIA INSIGHTS",
-    "headline": "\u2018PILLOW TALK\u2019 ESPIONAGE? HOW ALLEGED CHINESE SPY ALICE HUANG MAY HAVE GAINED ACCESS TO JENSEN HUANG\u2019S NVIDIA INSIGHTS",
-    "url": "https://www.livemint.com/news/us-news/pillow-talk-espionage-how-alleged-chinese-spy-alice-huang-may-have-gained-access-to-jensen-huang-s-nvidia-insights-11794409341358.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-11-11",
-    "topic": "WHY BILLIONAIRE LUCY GUO WANTS META TO DISCLOSE INSTAGRAM STORY DATA IN DEFAMATION DISPUTE; WHAT\u2019S SO IMPORTANT HIDDEN?",
-    "headline": "WHY BILLIONAIRE LUCY GUO WANTS META TO DISCLOSE INSTAGRAM STORY DATA IN DEFAMATION DISPUTE; WHAT\u2019S SO IMPORTANT HIDDEN?",
-    "url": "https://www.livemint.com/news/trends/why-billionaire-lucy-guo-wants-meta-to-disclose-instagram-story-data-in-defamation-dispute-what-s-so-important-hidden-11794411497555.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-11-11",
-    "topic": "ODISHA SIGNS PACT WITH JAPAN'S TOTTORI TO BOOST INVESTMENT, TECHNOLOGY TIES",
-    "headline": "ODISHA SIGNS PACT WITH JAPAN'S TOTTORI TO BOOST INVESTMENT, TECHNOLOGY TIES",
-    "url": "https://www.business-standard.com/economy/news/odisha-signs-pact-with-japan-s-tottori-to-boost-investment-technology-ties-126111101511_1.html",
-    "post_num": 5
-  },
-  {
     "date": "2026-11-12",
     "topic": "INDIA'S GULF OIL IMPORTS SURPASS RUSSIA FOR FIRST TIME SINCE IRAN WAR",
     "headline": "INDIA'S GULF OIL IMPORTS SURPASS RUSSIA FOR FIRST TIME SINCE IRAN WAR",
@@ -417,6 +382,41 @@
     "topic": "DEFENCE SUPPLY CHAIN GAPS FLAGGED AS TEJAS MARK 1A DELIVERIES TO IAF FACE MAJOR DELAYS",
     "headline": "DEFENCE SUPPLY CHAIN GAPS FLAGGED AS TEJAS MARK 1A DELIVERIES TO IAF FACE MAJOR DELAYS",
     "url": "https://www.livemint.com/news/india/why-is-hal-under-fire-defence-supply-chain-gaps-flagged-as-tejas-mark-1a-aircraft-deliveries-to-iaf-face-major-delays-11794889422693.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-11-17",
+    "topic": "US ELECTRONIC SPY AGENCY SUFFERS CLASSIFIED NETWORK OUTAGE",
+    "headline": "US ELECTRONIC SPY AGENCY SUFFERS CLASSIFIED NETWORK OUTAGE",
+    "url": "https://www.livemint.com/news/us-news/us-electronic-spy-agency-suffers-classified-network-outage-11794941399379.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-11-17",
+    "topic": "BANGLADESH APPAREL EXPORTS TO EU FALL NEARLY 12% AS CHINA GAINS MARKET SHARE: WHAT WENT WRONG?",
+    "headline": "BANGLADESH APPAREL EXPORTS TO EU FALL NEARLY 12% AS CHINA GAINS MARKET SHARE: WHAT WENT WRONG?",
+    "url": "https://www.livemint.com/news/world/bangladesh-apparel-exports-to-eu-fall-nearly-12-as-china-gains-market-share-what-went-wrong-11794937183115.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-11-17",
+    "topic": "CHINA\u2019S EXPORT ENGINE FACES A REALITY CHECK AS DOMESTIC DEMAND FALTERS: CAN OVERSEAS MARKETS SUSTAIN ITS GROWTH?",
+    "headline": "CHINA\u2019S EXPORT ENGINE FACES A REALITY CHECK AS DOMESTIC DEMAND FALTERS: CAN OVERSEAS MARKETS SUSTAIN ITS GROWTH?",
+    "url": "https://www.livemint.com/news/world/chinas-export-engine-faces-a-reality-check-as-domestic-demand-falters-can-overseas-markets-sustain-its-growth-11794936408242.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-11-17",
+    "topic": "GOOGLE JOINS THE TECH OUTAGE TREND BY ANNOUNCING IT\u2019S NOT HAVING ONE",
+    "headline": "GOOGLE JOINS THE TECH OUTAGE TREND BY ANNOUNCING IT\u2019S NOT HAVING ONE",
+    "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+    "post_num": 4
+  },
+  {
+    "date": "2026-11-17",
+    "topic": "INDUSTRY SEEKS TAX BREAKS, STRONGER PLI PUSH IN PRE-BUDGET CONSULTATIONS",
+    "headline": "INDUSTRY SEEKS TAX BREAKS, STRONGER PLI PUSH IN PRE-BUDGET CONSULTATIONS",
+    "url": "https://www.livemint.com/news/india/industry-seeks-tax-breaks-stronger-pli-push-in-pre-budget-consultations-11794925302075.html",
     "post_num": 5
   }
 ]
