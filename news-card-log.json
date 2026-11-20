@@ -1,41 +1,6 @@
 [
   {
     "date": "2026-11-14",
-    "topic": "\u2018TRAUMA IS MORE EMOTIONAL THAN FINANCIAL\u2019: AMID QUALCOMM LAYOFFS, EMPLOYEES SHARE PERSONAL STORIES OF ANXIETY",
-    "headline": "\u2018TRAUMA IS MORE EMOTIONAL THAN FINANCIAL\u2019: AMID QUALCOMM LAYOFFS, EMPLOYEES SHARE PERSONAL STORIES OF ANXIETY",
-    "url": "https://www.livemint.com/news/trends/trauma-is-more-emotional-than-financial-amid-qualcomm-layoffs-employees-share-personal-stories-of-anxiety-11794642950605.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-11-14",
-    "topic": "STIGLITZ WARNS AI BUBBLE COULD BURST, URGES INDIA TO PROTECT ITS SERVICES SECTOR",
-    "headline": "STIGLITZ WARNS AI BUBBLE COULD BURST, URGES INDIA TO PROTECT ITS SERVICES SECTOR",
-    "url": "https://www.livemint.com/news/india/joseph-stiglitz-ai-bubble-india-services-sector-11794639658801.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-11-14",
-    "topic": "WEST BENGAL SIR IMPACT: ARMY ASPIRANT MOVES CALCUTTA HC AFTER HE WAS DENIED DOMICILE CERTIFICATE | HERE\u2019S WHY",
-    "headline": "WEST BENGAL SIR IMPACT: ARMY ASPIRANT MOVES CALCUTTA HC AFTER HE WAS DENIED DOMICILE CERTIFICATE | HERE\u2019S WHY",
-    "url": "https://www.livemint.com/news/india/west-bengal-sir-impact-army-aspirant-moves-calcutta-hc-after-he-was-denied-domicile-certificate-here-s-why-11794641127562.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-11-14",
-    "topic": "FICCI CALLS FOR COMPREHENSIVE INDIA-AFRICA TRADE FRAMEWORK TO BOOST TIES",
-    "headline": "FICCI CALLS FOR COMPREHENSIVE INDIA-AFRICA TRADE FRAMEWORK TO BOOST TIES",
-    "url": "https://www.business-standard.com/economy/news/ficci-calls-for-comprehensive-india-africa-trade-framework-to-boost-ties-126111400440_1.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-11-14",
-    "topic": "INDIA MUST RETAIN SATELLITE \u2018KILL SWITCH\u2019, AVOID SINGLE-FIRM DEPENDENCE: MITTAL",
-    "headline": "INDIA MUST RETAIN SATELLITE \u2018KILL SWITCH\u2019, AVOID SINGLE-FIRM DEPENDENCE: MITTAL",
-    "url": "https://idrw.org/india-must-retain-satellite-kill-switch-avoid-single-firm-dependence-mittal/",
-    "post_num": 5
-  },
-  {
-    "date": "2026-11-14",
     "topic": "US PROMISES INDIA TARIFF ADVANTAGE OVER RIVALS: WHAT IT MEANS FOR EXPORTERS; CAN THEY OUTPACE VIETNAM AND CHINA?",
     "headline": "US PROMISES INDIA TARIFF ADVANTAGE OVER RIVALS: WHAT IT MEANS FOR EXPORTERS; CAN THEY OUTPACE VIETNAM AND CHINA?",
     "url": "https://www.livemint.com/news/world/us-promises-india-tariff-advantage-over-rivals-what-it-means-for-exporters-can-they-outpace-vietnam-and-china-11794668789670.html",
@@ -417,6 +382,41 @@
     "topic": "INDIA AIMS TO ACHIEVE $1 TRILLION EXPORTS THIS YEAR, SAYS PIYUSH GOYAL",
     "headline": "INDIA AIMS TO ACHIEVE $1 TRILLION EXPORTS THIS YEAR, SAYS PIYUSH GOYAL",
     "url": "https://www.business-standard.com/economy/news/india-aims-to-achieve-1-trillion-exports-this-year-says-piyush-goyal-126111901461_1.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-11-20",
+    "topic": "WORLD AIR FORCES DIRECTORY INDIA RAFALE: ACTIVE FIGHTER JETS INVENTORY REDUCED TO 32 FROM 35; DEFENCE MINISTRY QUESTIONS",
+    "headline": "WORLD AIR FORCES DIRECTORY INDIA RAFALE: ACTIVE FIGHTER JETS INVENTORY REDUCED TO 32 FROM 35; DEFENCE MINISTRY QUESTIONS",
+    "url": "https://www.livemint.com/news/india/world-air-forces-directory-india-rafale-active-fighter-jets-inventory-reduced-to-32-from-35-defence-ministry-questions-11795160870202.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-11-20",
+    "topic": "CANADA JOINS FBI, PUTS GOLDY BRAR ON TOP OF ITS 25 MOST-WANTED FUGITIVES LIST; ANNOUNCES BOUNTY, HERE\u2019S HOW MUCH",
+    "headline": "CANADA JOINS FBI, PUTS GOLDY BRAR ON TOP OF ITS 25 MOST-WANTED FUGITIVES LIST; ANNOUNCES BOUNTY, HERE\u2019S HOW MUCH",
+    "url": "https://www.livemint.com/news/india/canada-joins-fbi-puts-goldy-brar-on-top-of-its-25-most-wanted-fugitives-list-announces-bounty-here-s-how-much-11795150186419.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-11-20",
+    "topic": "CYCLONE AKVAN: 45 TRAINS CANCELLED, 28 RESCHEDULED; AIR INDIA, INDIGO ISSUE ADVISORIES - CHECK AFFECTED ROUTES",
+    "headline": "CYCLONE AKVAN: 45 TRAINS CANCELLED, 28 RESCHEDULED; AIR INDIA, INDIGO ISSUE ADVISORIES - CHECK AFFECTED ROUTES",
+    "url": "https://www.livemint.com/news/india/cyclone-akvan-45-trains-cancelled-28-rescheduled-air-india-indigo-issue-advisories-check-affected-routes-11795148322555.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-11-20",
+    "topic": "CYBERATTACK: RUSSIAN HACKERS ALLEGEDLY STEAL CUSTOMER DATA FROM JPMORGAN CHASE, VISA AND MASTERCARD; SOCIAL MEDIA REACTS",
+    "headline": "CYBERATTACK: RUSSIAN HACKERS ALLEGEDLY STEAL CUSTOMER DATA FROM JPMORGAN CHASE, VISA AND MASTERCARD; SOCIAL MEDIA REACTS",
+    "url": "https://www.livemint.com/news/us-news/cyberattack-russian-hackers-allegedly-steal-customer-data-from-jpmorgan-chase-visa-and-mastercard-social-media-reacts-11795145547056.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-11-20",
+    "topic": "JAISHANKAR FLAGS \u2018WEAPONISATION\u2019 OF RESOURCES AT INDIA-JAPAN 2+2 TALKS",
+    "headline": "JAISHANKAR FLAGS \u2018WEAPONISATION\u2019 OF RESOURCES AT INDIA-JAPAN 2+2 TALKS",
+    "url": "https://idrw.org/jaishankar-flags-weaponisation-of-resources-at-india-japan-22-talks/",
     "post_num": 5
   }
 ]
