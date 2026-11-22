@@ -1,41 +1,6 @@
 [
   {
     "date": "2026-11-16",
-    "topic": "WHOLESALE INFLATION HITS SERIES HIGH OF 12.29% IN OCT ON FUEL PRICE SURGE",
-    "headline": "WHOLESALE INFLATION HITS SERIES HIGH OF 12.29% IN OCT ON FUEL PRICE SURGE",
-    "url": "https://www.business-standard.com/economy/news/wholesale-inflation-october-2026-series-high-fuel-power-prices-126111601037_1.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-11-16",
-    "topic": "WEEKLY POLICY WATCH: PM MODI'S ASEAN VISIT AND WPI INFLATION IN FOCUS",
-    "headline": "WEEKLY POLICY WATCH: PM MODI'S ASEAN VISIT AND WPI INFLATION IN FOCUS",
-    "url": "https://www.business-standard.com/economy/news/modi-philippines-asean-summit-wpi-inflation-unemployment-forex-reserve-126111600783_1.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-11-16",
-    "topic": "US FLIGHT CANCELLATIONS TOP 17,000 IN WORST TECH-RELATED OUTAGE",
-    "headline": "US FLIGHT CANCELLATIONS TOP 17,000 IN WORST TECH-RELATED OUTAGE",
-    "url": "https://www.livemint.com/news/us-news/us-flight-cancellations-top-17-000-in-worst-tech-related-outage-11794804901069.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-11-16",
-    "topic": "\u2018NOT TECHNICALLY POSSIBLE\u2019: UNION MINISTER SURESH GOPI RULES OUT IMMEDIATE FUEL PRICE CUT, CITES \u20b942,000 CRORE LOSS",
-    "headline": "\u2018NOT TECHNICALLY POSSIBLE\u2019: UNION MINISTER SURESH GOPI RULES OUT IMMEDIATE FUEL PRICE CUT, CITES \u20b942,000 CRORE LOSS",
-    "url": "https://www.livemint.com/news/india/not-technically-possible-suresh-gopi-rules-out-immediate-fuel-price-cut-cites-42-000-crore-loss-11794796216557.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-11-16",
-    "topic": "PUNE FIRM GETS IAF ORDER FOR ELECTRICAL COOLANOL UNIT FOR SU-30MKI",
-    "headline": "PUNE FIRM GETS IAF ORDER FOR ELECTRICAL COOLANOL UNIT FOR SU-30MKI",
-    "url": "https://idrw.org/techera-indian-air-force-electrical-coolanol-unit/",
-    "post_num": 5
-  },
-  {
-    "date": "2026-11-16",
     "topic": "INDIA'S INVESTMENTS IN US TREASURIES UP $38.4 BILLION IN JUNE-AUGUST",
     "headline": "INDIA'S INVESTMENTS IN US TREASURIES UP $38.4 BILLION IN JUNE-AUGUST",
     "url": "https://www.business-standard.com/economy/news/india-s-investments-in-us-treasuries-up-38-4-billion-in-june-august-126111601474_1.html",
@@ -417,6 +382,41 @@
     "topic": "INDIAN NAVAL ACADEMY PASSING OUT PARADE TO BE HELD ON 28 NOVEMBER 2026",
     "headline": "INDIAN NAVAL ACADEMY PASSING OUT PARADE TO BE HELD ON 28 NOVEMBER 2026",
     "url": "https://www.ssbcrack.com/2026/11/indian-naval-academy-passing-out-parade-to-be-held-on-28-november-2026.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-11-22",
+    "topic": "CLIMATE TALKS PUSH FOR PACT AFTER RIFTS ON FOSSIL FUELS, FINANCE",
+    "headline": "CLIMATE TALKS PUSH FOR PACT AFTER RIFTS ON FOSSIL FUELS, FINANCE",
+    "url": "https://www.livemint.com/news/climate-talks-push-for-pact-after-rifts-on-fossil-fuels-finance-11795332862463.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-11-22",
+    "topic": "THANKS TO PM MODI, GOLD PRICE DROPS \u20b965 LAKH PER KG: CTI WRITES OPEN LETTER, \u2018YOUR ADVICE HELPED PROTECT SAVINGS\u2019",
+    "headline": "THANKS TO PM MODI, GOLD PRICE DROPS \u20b965 LAKH PER KG: CTI WRITES OPEN LETTER, \u2018YOUR ADVICE HELPED PROTECT SAVINGS\u2019",
+    "url": "https://www.livemint.com/news/india/thanks-to-pm-modi-gold-price-drops-65-lakh-per-kg-cti-written-open-letter-your-advice-helped-protect-savings-11795330409616.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-11-22",
+    "topic": "OIL, GAS IMPORT BILL UP 60% IN OCT AS BRENT SURGES, LPG USE DECLINES",
+    "headline": "OIL, GAS IMPORT BILL UP 60% IN OCT AS BRENT SURGES, LPG USE DECLINES",
+    "url": "https://www.business-standard.com/economy/news/oil-gas-import-bill-up-60-in-oct-as-brent-surges-lpg-use-declines-126112200197_1.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-11-22",
+    "topic": "TRUMP THREATENS \u2018TREMENDOUS TAX\u2019 ON US FIRMS BUILDING DATA CENTRES ABROAD: COULD INDIA LOSE OUT?",
+    "headline": "TRUMP THREATENS \u2018TREMENDOUS TAX\u2019 ON US FIRMS BUILDING DATA CENTRES ABROAD: COULD INDIA LOSE OUT?",
+    "url": "https://www.livemint.com/news/world/trump-threatens-tremendous-tax-on-us-firms-building-data-centres-abroad-could-india-lose-out-11795320644379.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-11-22",
+    "topic": "\u2018NO ONE CAN TAKE AWAY LIVELIHOOD OF A SKILLED PERSON\u2019: PM MODI ON AI, CALLS FOR EQUAL RESPECT FOR ITI, IIT STUDENTS",
+    "headline": "\u2018NO ONE CAN TAKE AWAY LIVELIHOOD OF A SKILLED PERSON\u2019: PM MODI ON AI, CALLS FOR EQUAL RESPECT FOR ITI, IIT STUDENTS",
+    "url": "https://www.livemint.com/news/india/no-one-can-take-away-livelihood-of-a-skilled-person-pm-modi-on-ai-calls-for-equal-respect-for-iti-iit-students-11795317394197.html",
     "post_num": 5
   }
 ]
