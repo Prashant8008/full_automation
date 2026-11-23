@@ -1,41 +1,6 @@
 [
   {
     "date": "2026-11-17",
-    "topic": "FICCI SEEKS MANUFACTURING DFI CITING RS 100 TRILLION CREDIT NEED OVER NEXT DECADE",
-    "headline": "FICCI SEEKS MANUFACTURING DFI CITING RS 100 TRILLION CREDIT NEED OVER NEXT DECADE",
-    "url": "https://www.business-standard.com/economy/news/ficci-budget-2027-manufacturing-dfi-rs-100-trillion-credit-pli-battery-components-126111700634_1.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-11-17",
-    "topic": "SC PUTS SHIFTING OF 8.5 LAKH BOOKS FROM 135-YEAR-OLD CENTRAL SECRETARIAT LIBRARY ON HOLD",
-    "headline": "SC PUTS SHIFTING OF 8.5 LAKH BOOKS FROM 135-YEAR-OLD CENTRAL SECRETARIAT LIBRARY ON HOLD",
-    "url": "https://www.livemint.com/news/india/central-secretariat-library-relocation-row-sc-pulls-up-centre-puts-shifting-of-8-5-lakh-books-on-hold-what-we-know-11794905619424.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-11-17",
-    "topic": "INDIA'S GDP GROWTH LIKELY TO SLOW TO 5-QUARTER LOW OF 7.5% IN Q2: ICRA",
-    "headline": "INDIA'S GDP GROWTH LIKELY TO SLOW TO 5-QUARTER LOW OF 7.5% IN Q2: ICRA",
-    "url": "https://www.business-standard.com/economy/news/gdp-growth-likely-to-ease-to-5-quarter-low-of-7-5-in-july-september-icra-126111700547_1.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-11-17",
-    "topic": "EU IMPOSES ANTI-DUMPING DUTIES ON STEEL IMPORTS FROM INDIA AND FOUR OTHER NATIONS",
-    "headline": "EU IMPOSES ANTI-DUMPING DUTIES ON STEEL IMPORTS FROM INDIA AND FOUR OTHER NATIONS",
-    "url": "https://www.business-standard.com/economy/news/eu-imposes-anti-dumping-duty-on-steel-imports-from-india-4-other-nations-126111700316_1.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-11-17",
-    "topic": "DEFENCE SUPPLY CHAIN GAPS FLAGGED AS TEJAS MARK 1A DELIVERIES TO IAF FACE MAJOR DELAYS",
-    "headline": "DEFENCE SUPPLY CHAIN GAPS FLAGGED AS TEJAS MARK 1A DELIVERIES TO IAF FACE MAJOR DELAYS",
-    "url": "https://www.livemint.com/news/india/why-is-hal-under-fire-defence-supply-chain-gaps-flagged-as-tejas-mark-1a-aircraft-deliveries-to-iaf-face-major-delays-11794889422693.html",
-    "post_num": 5
-  },
-  {
-    "date": "2026-11-17",
     "topic": "US ELECTRONIC SPY AGENCY SUFFERS CLASSIFIED NETWORK OUTAGE",
     "headline": "US ELECTRONIC SPY AGENCY SUFFERS CLASSIFIED NETWORK OUTAGE",
     "url": "https://www.livemint.com/news/us-news/us-electronic-spy-agency-suffers-classified-network-outage-11794941399379.html",
@@ -417,6 +382,41 @@
     "topic": "HOW AN IIT GRADUATE FOUND HIS STARTUP FORMULA: 12 FAILED GAMES, A FAILED SAAS APP AND 300 CUSTOMERS",
     "headline": "HOW AN IIT GRADUATE FOUND HIS STARTUP FORMULA: 12 FAILED GAMES, A FAILED SAAS APP AND 300 CUSTOMERS",
     "url": "https://www.livemint.com/news/trends/how-an-iit-graduate-found-his-startup-formula-12-failed-games-a-failed-saas-app-and-300-customers-11795361369739.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-11-23",
+    "topic": "PM MODI MEETS NEPAL PM BALENDRA SHAH, ANNOUNCES $1.6 BILLION AID PACKAGE FOR HIMALAYAN NATION'S FLOOD RECOVERY",
+    "headline": "PM MODI MEETS NEPAL PM BALENDRA SHAH, ANNOUNCES $1.6 BILLION AID PACKAGE FOR HIMALAYAN NATION'S FLOOD RECOVERY",
+    "url": "https://www.livemint.com/news/india/pm-modi-meets-nepal-pm-balendra-shah-announces-1-6-billion-aid-package-for-himalayan-nations-flood-recovery-11795425668391.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-11-23",
+    "topic": "INDIA TO GROW 7% IN FY27, EL NINO IMPACT TO DRIVE FOOD PRICES HIGHER: S&P",
+    "headline": "INDIA TO GROW 7% IN FY27, EL NINO IMPACT TO DRIVE FOOD PRICES HIGHER: S&P",
+    "url": "https://www.business-standard.com/economy/news/india-to-grow-7-pc-in-fy27-el-nino-impact-to-drive-food-prices-higher-s-p-126112300548_1.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-11-23",
+    "topic": "VIRAL VIDEO: CANADA PM MARK CARNEY ROASTS DONALD TRUMP, INVITES IMPERSONATOR TO MOCK THE AMERICAN PRESIDENT | WATCH",
+    "headline": "VIRAL VIDEO: CANADA PM MARK CARNEY ROASTS DONALD TRUMP, INVITES IMPERSONATOR TO MOCK THE AMERICAN PRESIDENT | WATCH",
+    "url": "https://www.livemint.com/news/trends/viral-video-canada-pm-mark-carney-roasts-donald-trump-invites-impersonator-to-mock-the-american-president-watch-11795420044110.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-11-23",
+    "topic": "WIDER ACCESS TO FINANCE, DIGITAL ECONOMY KEY TO ERADICATE POVERTY: FM",
+    "headline": "WIDER ACCESS TO FINANCE, DIGITAL ECONOMY KEY TO ERADICATE POVERTY: FM",
+    "url": "https://www.business-standard.com/economy/news/wider-access-to-finance-digital-economy-key-to-eradicate-poverty-fm-126112300473_1.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-11-23",
+    "topic": "INDIA'S PRIVATE SECTOR ACTIVITY HITS FIVE-MONTH HIGH IN NOVEMBER: FLASH PMI",
+    "headline": "INDIA'S PRIVATE SECTOR ACTIVITY HITS FIVE-MONTH HIGH IN NOVEMBER: FLASH PMI",
+    "url": "https://www.business-standard.com/economy/news/india-private-sector-activity-five-month-high-november-2026-flash-pmi-126112300435_1.html",
     "post_num": 5
   }
 ]
