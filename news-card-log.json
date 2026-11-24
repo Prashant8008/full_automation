@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-11-17",
-    "topic": "US ELECTRONIC SPY AGENCY SUFFERS CLASSIFIED NETWORK OUTAGE",
-    "headline": "US ELECTRONIC SPY AGENCY SUFFERS CLASSIFIED NETWORK OUTAGE",
-    "url": "https://www.livemint.com/news/us-news/us-electronic-spy-agency-suffers-classified-network-outage-11794941399379.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-11-17",
-    "topic": "BANGLADESH APPAREL EXPORTS TO EU FALL NEARLY 12% AS CHINA GAINS MARKET SHARE: WHAT WENT WRONG?",
-    "headline": "BANGLADESH APPAREL EXPORTS TO EU FALL NEARLY 12% AS CHINA GAINS MARKET SHARE: WHAT WENT WRONG?",
-    "url": "https://www.livemint.com/news/world/bangladesh-apparel-exports-to-eu-fall-nearly-12-as-china-gains-market-share-what-went-wrong-11794937183115.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-11-17",
-    "topic": "CHINA\u2019S EXPORT ENGINE FACES A REALITY CHECK AS DOMESTIC DEMAND FALTERS: CAN OVERSEAS MARKETS SUSTAIN ITS GROWTH?",
-    "headline": "CHINA\u2019S EXPORT ENGINE FACES A REALITY CHECK AS DOMESTIC DEMAND FALTERS: CAN OVERSEAS MARKETS SUSTAIN ITS GROWTH?",
-    "url": "https://www.livemint.com/news/world/chinas-export-engine-faces-a-reality-check-as-domestic-demand-falters-can-overseas-markets-sustain-its-growth-11794936408242.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-11-17",
-    "topic": "GOOGLE JOINS THE TECH OUTAGE TREND BY ANNOUNCING IT\u2019S NOT HAVING ONE",
-    "headline": "GOOGLE JOINS THE TECH OUTAGE TREND BY ANNOUNCING IT\u2019S NOT HAVING ONE",
-    "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
-    "post_num": 4
-  },
-  {
-    "date": "2026-11-17",
-    "topic": "INDUSTRY SEEKS TAX BREAKS, STRONGER PLI PUSH IN PRE-BUDGET CONSULTATIONS",
-    "headline": "INDUSTRY SEEKS TAX BREAKS, STRONGER PLI PUSH IN PRE-BUDGET CONSULTATIONS",
-    "url": "https://www.livemint.com/news/india/industry-seeks-tax-breaks-stronger-pli-push-in-pre-budget-consultations-11794925302075.html",
-    "post_num": 5
-  },
-  {
     "date": "2026-11-18",
     "topic": "'SOME DISHES ARE BEST SERVED COLD': TOP LET TERRORIST LATEEF BHAT KILLED IN KULGAM ENCOUNTER, DAYS AFTER CRPF ATTACK",
     "headline": "'SOME DISHES ARE BEST SERVED COLD': TOP LET TERRORIST LATEEF BHAT KILLED IN KULGAM ENCOUNTER, DAYS AFTER CRPF ATTACK",
@@ -417,6 +382,41 @@
     "topic": "INDIA'S PRIVATE SECTOR ACTIVITY HITS FIVE-MONTH HIGH IN NOVEMBER: FLASH PMI",
     "headline": "INDIA'S PRIVATE SECTOR ACTIVITY HITS FIVE-MONTH HIGH IN NOVEMBER: FLASH PMI",
     "url": "https://www.business-standard.com/economy/news/india-private-sector-activity-five-month-high-november-2026-flash-pmi-126112300435_1.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-11-24",
+    "topic": "BANKS ROLL OUT RELIEF MEASURES TO CONTAIN STRESS IN \u20b912 TRILLION AGRI BOOK",
+    "headline": "BANKS ROLL OUT RELIEF MEASURES TO CONTAIN STRESS IN \u20b912 TRILLION AGRI BOOK",
+    "url": "https://www.livemint.com/news/lenders-ease-recovery-offer-loan-recasts-to-shield-rs-12-trillion-agri-book-11795424843565.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-11-24",
+    "topic": "TRUMP HALTS DETONATION IN IOWA, PUTS ONUS ON INCOMING GOVERNOR",
+    "headline": "TRUMP HALTS DETONATION IN IOWA, PUTS ONUS ON INCOMING GOVERNOR",
+    "url": "https://www.livemint.com/news/us-news/trump-halts-detonation-in-iowa-puts-onus-on-incoming-governor-11795465270968.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-11-24",
+    "topic": "INDIA INC RESPONDS TO PM MODI'S CALL, SEEKS GREATER REGULATORY TRANSPARENCY",
+    "headline": "INDIA INC RESPONDS TO PM MODI'S CALL, SEEKS GREATER REGULATORY TRANSPARENCY",
+    "url": "https://www.business-standard.com/economy/news/india-inc-responds-to-pm-modi-s-call-seeks-greater-regulatory-transparency-126112301461_1.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-11-24",
+    "topic": "ANTHROPIC LAUNCHES CLAUDE SHIP, LETTING AI AGENTS REVIEW, FIX, AND APPROVE CODE CHANGES",
+    "headline": "ANTHROPIC LAUNCHES CLAUDE SHIP, LETTING AI AGENTS REVIEW, FIX, AND APPROVE CODE CHANGES",
+    "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+    "post_num": 4
+  },
+  {
+    "date": "2026-11-24",
+    "topic": "SUPERTAKE RAISES $20M TO LET AI AGENTS TURN YOUR MARKET PREDICTIONS INTO STOCK PORTFOLIOS",
+    "headline": "SUPERTAKE RAISES $20M TO LET AI AGENTS TURN YOUR MARKET PREDICTIONS INTO STOCK PORTFOLIOS",
+    "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
     "post_num": 5
   }
 ]
