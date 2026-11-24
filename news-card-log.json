@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-11-18",
-    "topic": "GOVT INVITES FRESH BIDS FOR DUTY-FREE IMPORT OF 215,044 TONNES OF RAW SUGAR",
-    "headline": "GOVT INVITES FRESH BIDS FOR DUTY-FREE IMPORT OF 215,044 TONNES OF RAW SUGAR",
-    "url": "https://www.business-standard.com/economy/news/govt-invites-fresh-bids-for-duty-free-import-of-215-044-tonnes-of-raw-sugar-126111801455_1.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-11-18",
-    "topic": "US INTELLIGENCE CHIEF RULES OUT CYBERATTACK AS FLIGHT GROUNDING, TECH OUTAGES FUEL SCRUTINY OF TRUMP POST MIDTERM POLLS",
-    "headline": "US INTELLIGENCE CHIEF RULES OUT CYBERATTACK AS FLIGHT GROUNDING, TECH OUTAGES FUEL SCRUTINY OF TRUMP POST MIDTERM POLLS",
-    "url": "https://www.livemint.com/news/us-news/us-intelligence-chief-rules-out-cyberattack-as-flight-grounding-tech-outages-fuel-scrutiny-of-trump-post-midterm-polls-11795024187675.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-11-18",
-    "topic": "\u2018BRING HIM HOME BEFORE IT IS TOO LATE\u2019: JAILED FORMER NAVY VETERAN PURNENDU TIWARY HOSPITALISED IN QATAR, SAYS FAMILY",
-    "headline": "\u2018BRING HIM HOME BEFORE IT IS TOO LATE\u2019: JAILED FORMER NAVY VETERAN PURNENDU TIWARY HOSPITALISED IN QATAR, SAYS FAMILY",
-    "url": "https://www.livemint.com/news/world/bring-him-home-before-it-is-too-late-jailed-former-navy-veteran-purnendu-tiwary-hospitalised-in-qatar-says-family-11795018119415.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-11-18",
-    "topic": "RUPEE STRENGTH, NOT WEAKNESS, MAY POSE CHALLENGE IN FY28: CEA NAGESWARAN",
-    "headline": "RUPEE STRENGTH, NOT WEAKNESS, MAY POSE CHALLENGE IN FY28: CEA NAGESWARAN",
-    "url": "https://www.business-standard.com/economy/news/lower-crude-oil-prices-could-bring-huge-windfall-for-india-in-fy28-cea-126111801445_1.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-11-18",
-    "topic": "BANDHAN BANK TAKES OVER GHATKOPAR METRO STATION BRANDING RIGHTS, TO STRENGTHEN ITS PRESENCE IN MUMBAI",
-    "headline": "BANDHAN BANK TAKES OVER GHATKOPAR METRO STATION BRANDING RIGHTS, TO STRENGTHEN ITS PRESENCE IN MUMBAI",
-    "url": "https://www.livemint.com/news/india/bandhan-bank-takes-over-ghatkopar-metro-station-branding-rights-to-strengthen-its-presence-in-mumbai-11795013362986.html",
-    "post_num": 5
-  },
-  {
     "date": "2026-11-19",
     "topic": "CAPITAL GAINS ON MUTUAL FUND UNITS NOT TAXABLE IN INDIA UNDER MAURITIUS TREATY, RULES DELHI HC",
     "headline": "CAPITAL GAINS ON MUTUAL FUND UNITS NOT TAXABLE IN INDIA UNDER MAURITIUS TREATY, RULES DELHI HC",
@@ -417,6 +382,41 @@
     "topic": "PUNE STARTUP NAVERIA SPACE TARGETS HIGH-SPEED AND SUPERSONIC UAVS",
     "headline": "PUNE STARTUP NAVERIA SPACE TARGETS HIGH-SPEED AND SUPERSONIC UAVS",
     "url": "https://idrw.org/naveria-space-technologies-india-high-speed-supersonic-uav/",
+    "post_num": 5
+  },
+  {
+    "date": "2026-11-24",
+    "topic": "HOW RUSSIA\u2019S WAR MACHINE TRAPS ASIAN WORKERS",
+    "headline": "HOW RUSSIA\u2019S WAR MACHINE TRAPS ASIAN WORKERS",
+    "url": "https://www.livemint.com/news/world/how-russia-s-war-machine-traps-asian-workers-11795548937268.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-11-24",
+    "topic": "HOW THE IRAN WAR DROVE INDIA AND CHINA TO RECORD RUSSIAN OIL IMPORTS IN 2026, AND WHY PURCHASES MAY EASE IN 2027",
+    "headline": "HOW THE IRAN WAR DROVE INDIA AND CHINA TO RECORD RUSSIAN OIL IMPORTS IN 2026, AND WHY PURCHASES MAY EASE IN 2027",
+    "url": "https://www.livemint.com/news/world/how-the-iran-war-drove-india-and-china-to-record-russian-oil-imports-in-2026-and-why-purchases-may-ease-in-2027-11795538208871.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-11-24",
+    "topic": "PROTEIN INFLATION SPIKES DUE TO RISING FEED AND FODDER COSTS, SHOWS DATA",
+    "headline": "PROTEIN INFLATION SPIKES DUE TO RISING FEED AND FODDER COSTS, SHOWS DATA",
+    "url": "https://www.business-standard.com/economy/news/protein-inflation-spikes-due-to-rising-feed-and-fodder-costs-shows-data-126112401016_1.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-11-24",
+    "topic": "IN ALL-HANDS MEETING, JENSEN HUANG THANKS WHITE HOUSE AND SAYS HE\u2019S IN THERAPY",
+    "headline": "IN ALL-HANDS MEETING, JENSEN HUANG THANKS WHITE HOUSE AND SAYS HE\u2019S IN THERAPY",
+    "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+    "post_num": 4
+  },
+  {
+    "date": "2026-11-24",
+    "topic": "EVEN THE BEST AI AGENTS STRUGGLE WITH EVERYDAY LIFE",
+    "headline": "EVEN THE BEST AI AGENTS STRUGGLE WITH EVERYDAY LIFE",
+    "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
     "post_num": 5
   }
 ]
