@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-11-19",
-    "topic": "US, CHINA LEAD AI EXPANSION AS DATA CENTRE CARBON EMISSIONS PROJECTED TO JUMP 70% BY 2030: REPORT",
-    "headline": "US, CHINA LEAD AI EXPANSION AS DATA CENTRE CARBON EMISSIONS PROJECTED TO JUMP 70% BY 2030: REPORT",
-    "url": "https://www.livemint.com/news/world/us-china-lead-ai-expansion-as-data-centre-carbon-emissions-projected-to-jump-70-by-2030-report-11795116730206.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-11-19",
-    "topic": "GTA 6 DEVELOPERS WORRY ABOUT LAYOFFS DESPITE WORKING ON ROCKSTAR'S \u2018BIGGEST\u2019 GAME: \u2018WE HAVE HAD NO INDICATION\u2019",
-    "headline": "GTA 6 DEVELOPERS WORRY ABOUT LAYOFFS DESPITE WORKING ON ROCKSTAR'S \u2018BIGGEST\u2019 GAME: \u2018WE HAVE HAD NO INDICATION\u2019",
-    "url": "https://www.livemint.com/news/trends/gta-6-developers-worry-about-layoffs-despite-working-on-rockstars-biggest-game-we-have-had-no-indication-11795111117857.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-11-19",
-    "topic": "ICJ HOLDS MYANMAR ACCOUNTABLE FOR ROHINGYA GENOCIDE, ORDERS COMPENSATION AND SAFE RETURN",
-    "headline": "ICJ HOLDS MYANMAR ACCOUNTABLE FOR ROHINGYA GENOCIDE, ORDERS COMPENSATION AND SAFE RETURN",
-    "url": "https://www.livemint.com/news/world/icj-holds-myanmar-accountable-for-rohingya-genocide-orders-compensation-and-safe-return-11795110415214.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-11-19",
-    "topic": "TRUMP-XI-PUTIN SUMMIT IN CHINA: WHAT THE THREE LEADERS AGREED ON AND WHAT THEY LEFT OUT \u2014 5 KEY TAKEAWAYS",
-    "headline": "TRUMP-XI-PUTIN SUMMIT IN CHINA: WHAT THE THREE LEADERS AGREED ON AND WHAT THEY LEFT OUT \u2014 5 KEY TAKEAWAYS",
-    "url": "https://www.livemint.com/news/world/trumpxiputin-summit-in-china-what-the-three-leaders-agreed-on-and-what-they-left-out-5-key-takeaways-11795107791856.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-11-19",
-    "topic": "INDIA AIMS TO ACHIEVE $1 TRILLION EXPORTS THIS YEAR, SAYS PIYUSH GOYAL",
-    "headline": "INDIA AIMS TO ACHIEVE $1 TRILLION EXPORTS THIS YEAR, SAYS PIYUSH GOYAL",
-    "url": "https://www.business-standard.com/economy/news/india-aims-to-achieve-1-trillion-exports-this-year-says-piyush-goyal-126111901461_1.html",
-    "post_num": 5
-  },
-  {
     "date": "2026-11-20",
     "topic": "WORLD AIR FORCES DIRECTORY INDIA RAFALE: ACTIVE FIGHTER JETS INVENTORY REDUCED TO 32 FROM 35; DEFENCE MINISTRY QUESTIONS",
     "headline": "WORLD AIR FORCES DIRECTORY INDIA RAFALE: ACTIVE FIGHTER JETS INVENTORY REDUCED TO 32 FROM 35; DEFENCE MINISTRY QUESTIONS",
@@ -417,6 +382,41 @@
     "topic": "US FINANCIAL CRIMES BUREAU TAKES SOME SYSTEMS OFFLINE AFTER \u2018UNAUTHORISED ACCESS\u2019 AS CYBER ATTACKS CONTINUE",
     "headline": "US FINANCIAL CRIMES BUREAU TAKES SOME SYSTEMS OFFLINE AFTER \u2018UNAUTHORISED ACCESS\u2019 AS CYBER ATTACKS CONTINUE",
     "url": "https://www.livemint.com/news/us-news/us-financial-crimes-bureau-takes-some-systems-offline-after-unauthorised-access-as-cyber-attacks-continue-11795594540875.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-11-25",
+    "topic": "ELECTRONICS EXPORTS FROM INDIA TO CROSS $60 BN IN FY27: MEITY OFFICIAL",
+    "headline": "ELECTRONICS EXPORTS FROM INDIA TO CROSS $60 BN IN FY27: MEITY OFFICIAL",
+    "url": "https://www.business-standard.com/economy/news/electronics-exports-from-india-to-cross-60-bn-in-fy27-meity-official-126112501247_1.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-11-25",
+    "topic": "NEW US TARIFF MAY GIVE INDIA EDGE OVER ASIAN PEERS IF TRADE DEAL DONE: GTRI",
+    "headline": "NEW US TARIFF MAY GIVE INDIA EDGE OVER ASIAN PEERS IF TRADE DEAL DONE: GTRI",
+    "url": "https://www.business-standard.com/world-news/new-us-tariff-may-give-india-edge-over-asian-peers-if-trade-deal-done-gtri-126112501238_1.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-11-25",
+    "topic": "VOLTAS ORDERED TO PAY \u20b933,770 FOR DAMAGING CUSTOMER'S AC DURING REINSTALLATION",
+    "headline": "VOLTAS ORDERED TO PAY \u20b933,770 FOR DAMAGING CUSTOMER'S AC DURING REINSTALLATION",
+    "url": "https://www.livemint.com/news/india/voltas-ordered-to-pay-rs-33-770-for-damaging-customers-ac-during-reinstallation-11795627336763.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-11-25",
+    "topic": "SECTION 301 PROBE: INDIA REJECTS US CLAIM OF STRUCTURAL EXCESS CAPACITY",
+    "headline": "SECTION 301 PROBE: INDIA REJECTS US CLAIM OF STRUCTURAL EXCESS CAPACITY",
+    "url": "https://www.business-standard.com/economy/news/section-301-probe-india-rejects-us-claim-of-structural-excess-capacity-126112501293_1.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-11-25",
+    "topic": "DELHI PARKS GET NEW RATE CARD: \u20b91 FOR SCHOOL PICNICS, \u20b95,000 PRE-WEDDING SHOOTS, \u20b91 LAKH FILM SHOOTS",
+    "headline": "DELHI PARKS GET NEW RATE CARD: \u20b91 FOR SCHOOL PICNICS, \u20b95,000 PRE-WEDDING SHOOTS, \u20b91 LAKH FILM SHOOTS",
+    "url": "https://www.livemint.com/news/india/delhi-parks-get-new-rate-card-1-for-school-picnics-5-000-pre-wedding-shoots-1-lakh-film-shoots-11795626614129.html",
     "post_num": 5
   }
 ]
