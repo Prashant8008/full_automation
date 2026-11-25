@@ -1,41 +1,6 @@
 [
   {
     "date": "2026-11-19",
-    "topic": "CAPITAL GAINS ON MUTUAL FUND UNITS NOT TAXABLE IN INDIA UNDER MAURITIUS TREATY, RULES DELHI HC",
-    "headline": "CAPITAL GAINS ON MUTUAL FUND UNITS NOT TAXABLE IN INDIA UNDER MAURITIUS TREATY, RULES DELHI HC",
-    "url": "https://www.livemint.com/news/india/delhi-high-court-mauritius-investor-mutual-fund-gains-tax-india-mauritius-treaty-11795072545439.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-11-19",
-    "topic": "INDIA PLANS AIRCRAFT HEALTH RULES OVERHAUL TO CURB CROSS-BORDER DISEASES",
-    "headline": "INDIA PLANS AIRCRAFT HEALTH RULES OVERHAUL TO CURB CROSS-BORDER DISEASES",
-    "url": "https://www.livemint.com/news/india-draft-airport-health-rules-2026-fines-airlines-passengers-11795067492650.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-11-19",
-    "topic": "BULK SCOTCH IMPORTS FACE 163% DUTY: REASONS, IMPACT AND KEY DETAILS HERE",
-    "headline": "BULK SCOTCH IMPORTS FACE 163% DUTY: REASONS, IMPACT AND KEY DETAILS HERE",
-    "url": "https://www.business-standard.com/economy/news/bulk-scotch-imports-face-163-duty-reasons-impact-and-key-details-here-126111900553_1.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-11-19",
-    "topic": "ECONOMIC AFFAIRS SECY CALLS FOR HIGHER WAGES TO SPUR HOUSEHOLD SPENDING",
-    "headline": "ECONOMIC AFFAIRS SECY CALLS FOR HIGHER WAGES TO SPUR HOUSEHOLD SPENDING",
-    "url": "https://www.business-standard.com/economy/news/economic-affairs-secy-calls-for-higher-wages-to-spur-household-spending-126111900488_1.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-11-19",
-    "topic": "WHO IS PRACHI SAROOP? SENIOR IRS OFFICER SEEKS VOLUNTARY RETIREMENT, SPARKING SPECULATION IN REVENUE DEPARTMENT",
-    "headline": "WHO IS PRACHI SAROOP? SENIOR IRS OFFICER SEEKS VOLUNTARY RETIREMENT, SPARKING SPECULATION IN REVENUE DEPARTMENT",
-    "url": "https://www.livemint.com/news/india/who-is-prachi-saroop-senior-irs-officer-seeks-voluntary-retirement-sparking-speculation-in-revenue-department-11795067525982.html",
-    "post_num": 5
-  },
-  {
-    "date": "2026-11-19",
     "topic": "US, CHINA LEAD AI EXPANSION AS DATA CENTRE CARBON EMISSIONS PROJECTED TO JUMP 70% BY 2030: REPORT",
     "headline": "US, CHINA LEAD AI EXPANSION AS DATA CENTRE CARBON EMISSIONS PROJECTED TO JUMP 70% BY 2030: REPORT",
     "url": "https://www.livemint.com/news/world/us-china-lead-ai-expansion-as-data-centre-carbon-emissions-projected-to-jump-70-by-2030-report-11795116730206.html",
@@ -417,6 +382,41 @@
     "topic": "EVEN THE BEST AI AGENTS STRUGGLE WITH EVERYDAY LIFE",
     "headline": "EVEN THE BEST AI AGENTS STRUGGLE WITH EVERYDAY LIFE",
     "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+    "post_num": 5
+  },
+  {
+    "date": "2026-11-25",
+    "topic": "EGG PRICES CRASH UP TO 20% IN INDIA AS TAMIL NADU BIRD FLU OUTBREAK DISRUPTS EXPORTS; POULTRY FARMERS HIT",
+    "headline": "EGG PRICES CRASH UP TO 20% IN INDIA AS TAMIL NADU BIRD FLU OUTBREAK DISRUPTS EXPORTS; POULTRY FARMERS HIT",
+    "url": "https://www.livemint.com/news/india/egg-prices-crash-up-to-20-in-india-as-tamil-nadu-bird-flu-outbreak-disrupts-exports-poultry-farmers-hit-11795601866027.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-11-25",
+    "topic": "MOSPI PANEL RECOMMENDS GST, PFMS DATA FOR STATE-WISE GDP ESTIMATES",
+    "headline": "MOSPI PANEL RECOMMENDS GST, PFMS DATA FOR STATE-WISE GDP ESTIMATES",
+    "url": "https://www.business-standard.com/economy/news/mospi-panel-recommends-gst-pfms-data-for-state-wise-gdp-estimates-126112500728_1.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-11-25",
+    "topic": "MAHARASHTRA PROJECTS REVENUE DEFICIT DESPITE STRONG TAX BASE, LOW DEBT: RPT",
+    "headline": "MAHARASHTRA PROJECTS REVENUE DEFICIT DESPITE STRONG TAX BASE, LOW DEBT: RPT",
+    "url": "https://www.business-standard.com/economy/news/maharashtra-projects-revenue-deficit-despite-strong-tax-base-low-debt-rpt-126112500641_1.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-11-25",
+    "topic": "TN VETTRI SUMMIT: KRISHNAGIRI GETS \u20b99,542 CRORE INVESTMENT COMMITMENTS",
+    "headline": "TN VETTRI SUMMIT: KRISHNAGIRI GETS \u20b99,542 CRORE INVESTMENT COMMITMENTS",
+    "url": "https://www.business-standard.com/economy/news/krishnagiri-tamil-nadu-investments-rs-9542-crore-shipbuilding-thoothukudi-126112500550_1.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-11-25",
+    "topic": "US FINANCIAL CRIMES BUREAU TAKES SOME SYSTEMS OFFLINE AFTER \u2018UNAUTHORISED ACCESS\u2019 AS CYBER ATTACKS CONTINUE",
+    "headline": "US FINANCIAL CRIMES BUREAU TAKES SOME SYSTEMS OFFLINE AFTER \u2018UNAUTHORISED ACCESS\u2019 AS CYBER ATTACKS CONTINUE",
+    "url": "https://www.livemint.com/news/us-news/us-financial-crimes-bureau-takes-some-systems-offline-after-unauthorised-access-as-cyber-attacks-continue-11795594540875.html",
     "post_num": 5
   }
 ]
