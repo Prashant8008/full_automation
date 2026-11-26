@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-11-20",
-    "topic": "TRUMP SAYS US CLOSE TO MEXICO TRADE DEAL, LESS SO WITH CANADA",
-    "headline": "TRUMP SAYS US CLOSE TO MEXICO TRADE DEAL, LESS SO WITH CANADA",
-    "url": "https://www.livemint.com/news/us-news/trump-says-us-close-to-mexico-trade-deal-less-so-with-canada-11795199854274.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-11-20",
-    "topic": "FROM ARAMCO TO SAUDI\u2019S $1.2 TRILLION WEALTH FUND HQ: WHY HOUTHIS ARE TARGETING KINGDOM\u2019S ECONOMIC NERVE CENTRES",
-    "headline": "FROM ARAMCO TO SAUDI\u2019S $1.2 TRILLION WEALTH FUND HQ: WHY HOUTHIS ARE TARGETING KINGDOM\u2019S ECONOMIC NERVE CENTRES",
-    "url": "https://www.livemint.com/news/world/from-aramco-to-saudi-s-1-2-trillion-wealth-fund-hq-why-houthis-are-targeting-kingdom-s-economic-nerve-centres-11795196418099.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-11-20",
-    "topic": "CEA FLAGS DERIVATIVES BOOM AS INDIA STRUGGLES TO MOBILISE LONG-TERM CAPITAL",
-    "headline": "CEA FLAGS DERIVATIVES BOOM AS INDIA STRUGGLES TO MOBILISE LONG-TERM CAPITAL",
-    "url": "https://www.livemint.com/news/cea-flags-derivatives-boom-as-india-struggles-to-mobilise-long-term-capital-11795181184277.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-11-20",
-    "topic": "WORLD BANK TO ASSIST CAG IN URBAN GOVERNANCE AUDIT FOR 101 INDIAN CITIES",
-    "headline": "WORLD BANK TO ASSIST CAG IN URBAN GOVERNANCE AUDIT FOR 101 INDIAN CITIES",
-    "url": "https://www.livemint.com/news/cag-world-bank-urban-infra-finance-audit-101-cities-11795178588529.html",
-    "post_num": 4
-  },
-  {
-    "date": "2026-11-20",
-    "topic": "WHY PETROL AND DIESEL PRICES STAYED STABLE IN INDIA DESPITE GLOBAL OIL SHOCK AMID IRAN WAR, HARDEEP PURI EXPLAINS",
-    "headline": "WHY PETROL AND DIESEL PRICES STAYED STABLE IN INDIA DESPITE GLOBAL OIL SHOCK AMID IRAN WAR, HARDEEP PURI EXPLAINS",
-    "url": "https://www.livemint.com/news/india/why-petrol-and-diesel-prices-stayed-stable-in-india-despite-global-oil-shock-amid-iran-war-hardeep-puri-explains-11795189754787.html",
-    "post_num": 5
-  },
-  {
     "date": "2026-11-21",
     "topic": "IIT BOMBAY GRADUATE LANDS \u20b923 LPA JOB OFFER, FINDS HIMSELF UNEMPLOYED IN SIX MONTHS; SEEKS CAREER ADVICE ON X",
     "headline": "IIT BOMBAY GRADUATE LANDS \u20b923 LPA JOB OFFER, FINDS HIMSELF UNEMPLOYED IN SIX MONTHS; SEEKS CAREER ADVICE ON X",
@@ -417,6 +382,41 @@
     "topic": "VEDA AERONAUTICS DEVELOPS ALL-IN-ONE AGS-30 FIRE CONTROL",
     "headline": "VEDA AERONAUTICS DEVELOPS ALL-IN-ONE AGS-30 FIRE CONTROL",
     "url": "https://idrw.org/veda-aeronautics-develops-all-in-one-ags-30-fire-control/",
+    "post_num": 5
+  },
+  {
+    "date": "2026-11-26",
+    "topic": "CHINA\u2019S DRONES ARE RESHAPING ASIA\u2019S MILITARIES",
+    "headline": "CHINA\u2019S DRONES ARE RESHAPING ASIA\u2019S MILITARIES",
+    "url": "https://www.livemint.com/news/world/chinas-drones-are-reshaping-asiasmilitaries-11795728346880.html",
+    "post_num": 1
+  },
+  {
+    "date": "2026-11-26",
+    "topic": "KUWAIT SAYS IRANIAN DRONE STRIKE KILLED TWO ITALIAN WORKERS",
+    "headline": "KUWAIT SAYS IRANIAN DRONE STRIKE KILLED TWO ITALIAN WORKERS",
+    "url": "https://www.livemint.com/news/kuwait-says-iranian-drone-strike-killed-two-italian-workers-11795725187362.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-11-26",
+    "topic": "\u2018MASSIVE, PURPOSEFUL ERROR\u2019: TRUMP SEEKS PROBE INTO ALLEGED \u2018FAKE\u2019 US GDP FIGURES AFTER GROWTH REVISED TO 4.3%",
+    "headline": "\u2018MASSIVE, PURPOSEFUL ERROR\u2019: TRUMP SEEKS PROBE INTO ALLEGED \u2018FAKE\u2019 US GDP FIGURES AFTER GROWTH REVISED TO 4.3%",
+    "url": "https://www.livemint.com/news/us-news/massive-purposeful-error-trump-seeks-probe-into-alleged-fake-us-gdp-figures-after-growth-revised-to-43-11795716885185.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-11-26",
+    "topic": "SAURAV DAS PASSPORT ISSUE: MEA EXPLAINS WHY CJP CO-CONVENOR WAS STOPPED FROM FLYING TO LONDON; DETAILS HERE",
+    "headline": "SAURAV DAS PASSPORT ISSUE: MEA EXPLAINS WHY CJP CO-CONVENOR WAS STOPPED FROM FLYING TO LONDON; DETAILS HERE",
+    "url": "https://www.livemint.com/news/india/saurav-das-passport-issue-mea-explains-why-cjp-co-convenor-was-stopped-from-flying-to-london-details-here-11795715330034.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-11-26",
+    "topic": "SC SUGGESTS PARLIAMENT TO BRING AMENDMENT TO SECTION 26E OF SARFAESI ACT",
+    "headline": "SC SUGGESTS PARLIAMENT TO BRING AMENDMENT TO SECTION 26E OF SARFAESI ACT",
+    "url": "https://www.business-standard.com/industry/news/sc-suggests-parliament-to-bring-amendment-to-section-26e-of-sarfaesi-act-126112601249_1.html",
     "post_num": 5
   }
 ]
