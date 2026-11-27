@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-11-21",
-    "topic": "HOW A CLASSROOM INCIDENT INSPIRED 17-YEAR-OLD TO INVENT A DUST-FREE THRESHING MACHINE, WINNING INSPIRE AWARD",
-    "headline": "HOW A CLASSROOM INCIDENT INSPIRED 17-YEAR-OLD TO INVENT A DUST-FREE THRESHING MACHINE, WINNING INSPIRE AWARD",
-    "url": "https://www.livemint.com/news/india/how-dust-entering-her-classroom-inspired-17-year-old-student-to-invent-low-cost-threshing-machine-winning-inspire-award-11795279138346.html",
-    "post_num": 1
-  },
-  {
-    "date": "2026-11-21",
-    "topic": "INDIA, CANADA CONCLUDE SIXTH ROUND OF TALKS FOR PROPOSED TRADE PACT",
-    "headline": "INDIA, CANADA CONCLUDE SIXTH ROUND OF TALKS FOR PROPOSED TRADE PACT",
-    "url": "https://www.business-standard.com/economy/news/india-canada-conclude-sixth-round-of-talks-for-proposed-trade-pact-126112100793_1.html",
-    "post_num": 2
-  },
-  {
-    "date": "2026-11-21",
-    "topic": "WHO IS VIDHYA PARSHURAMKAR? IIT GRADUATE\u2019S MILLET INNOVATION EARNS HER A PLACE ON TIME\u2019S 100 NEXT INDIA 2026 LIST",
-    "headline": "WHO IS VIDHYA PARSHURAMKAR? IIT GRADUATE\u2019S MILLET INNOVATION EARNS HER A PLACE ON TIME\u2019S 100 NEXT INDIA 2026 LIST",
-    "url": "https://www.livemint.com/news/trends/who-is-vidhya-parshuramkar-iit-graduate-s-millet-innovation-earns-her-a-place-on-time-s-100-next-india-2026-list-11795271566009.html",
-    "post_num": 3
-  },
-  {
-    "date": "2026-11-21",
-    "topic": "HERE ARE THE TOP AI AGENTS THAT CAN LIVE IN YOUR TEXT MESSAGES",
-    "headline": "HERE ARE THE TOP AI AGENTS THAT CAN LIVE IN YOUR TEXT MESSAGES",
-    "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "post_num": 4
-  },
-  {
-    "date": "2026-11-21",
-    "topic": "INDIAN NAVAL ACADEMY PASSING OUT PARADE TO BE HELD ON 28 NOVEMBER 2026",
-    "headline": "INDIAN NAVAL ACADEMY PASSING OUT PARADE TO BE HELD ON 28 NOVEMBER 2026",
-    "url": "https://www.ssbcrack.com/2026/11/indian-naval-academy-passing-out-parade-to-be-held-on-28-november-2026.html",
-    "post_num": 5
-  },
-  {
     "date": "2026-11-22",
     "topic": "CLIMATE TALKS PUSH FOR PACT AFTER RIFTS ON FOSSIL FUELS, FINANCE",
     "headline": "CLIMATE TALKS PUSH FOR PACT AFTER RIFTS ON FOSSIL FUELS, FINANCE",
@@ -417,6 +382,41 @@
     "topic": "INDIA INC MARGINS MAY FALL 50-75 BPS, REVENUE GROWTH AT 18-20% IN Q3: ICRA",
     "headline": "INDIA INC MARGINS MAY FALL 50-75 BPS, REVENUE GROWTH AT 18-20% IN Q3: ICRA",
     "url": "https://www.business-standard.com/companies/news/india-inc-margins-may-fall-50-75-bps-revenue-growth-at-18-20-in-q3-icra-126112700206_1.html",
+    "post_num": 5
+  },
+  {
+    "date": "2026-11-27",
+    "topic": "BAE H\u00c4GGLUNDS LANDS RECORD $6B DEAL FOR 400+ CV90S FROM FIVE NATO NATIONS",
+    "headline": "BAE H\u00c4GGLUNDS LANDS RECORD $6B DEAL FOR 400+ CV90S FROM FIVE NATO NATIONS",
+    "url": "https://breakingdefense.com/2026/11/bae-hagglunds-lands-record-6b-deal-for-400-cv90s-from-five-nato-nations/",
+    "post_num": 1
+  },
+  {
+    "date": "2026-11-27",
+    "topic": "RBI URGES BANKS TO EXPEDITE MSME LENDING, REDUCE RELIANCE ON COLLATERAL",
+    "headline": "RBI URGES BANKS TO EXPEDITE MSME LENDING, REDUCE RELIANCE ON COLLATERAL",
+    "url": "https://www.business-standard.com/economy/news/rbi-urges-banks-to-expedite-msme-lending-reduce-reliance-on-collateral-126112701194_1.html",
+    "post_num": 2
+  },
+  {
+    "date": "2026-11-27",
+    "topic": "INDIA SPENDS \u20b96-7 TRILLION EXTRA A YEAR ON ENERGY IMPORTS: PM'S ADVISOR",
+    "headline": "INDIA SPENDS \u20b96-7 TRILLION EXTRA A YEAR ON ENERGY IMPORTS: PM'S ADVISOR",
+    "url": "https://www.business-standard.com/economy/news/high-energy-prices-cost-india-an-extra-6-7-trn-annually-tarun-kapoor-126112700837_1.html",
+    "post_num": 3
+  },
+  {
+    "date": "2026-11-27",
+    "topic": "VOTER DATA AT RISK? ELECTION COMMISSION WEBSITE FLAW\u2014NOW FIXED\u2014LEFT PERSONAL DETAILS AND IDS EXPOSED, PROBE FINDS",
+    "headline": "VOTER DATA AT RISK? ELECTION COMMISSION WEBSITE FLAW\u2014NOW FIXED\u2014LEFT PERSONAL DETAILS AND IDS EXPOSED, PROBE FINDS",
+    "url": "https://www.livemint.com/news/india/voter-data-at-risk-election-commission-website-flaw-now-fixed-left-personal-details-and-ids-exposed-probe-finds-11795774911856.html",
+    "post_num": 4
+  },
+  {
+    "date": "2026-11-27",
+    "topic": "WHO IS RAUL JOHN AJU? INDIA\u2019S \u2018AI KID\u2019 WHO MADE HIS FIRST VIDEO AT 9 AND CLICKED A SELFIE WITH VLADIMIR PUTIN",
+    "headline": "WHO IS RAUL JOHN AJU? INDIA\u2019S \u2018AI KID\u2019 WHO MADE HIS FIRST VIDEO AT 9 AND CLICKED A SELFIE WITH VLADIMIR PUTIN",
+    "url": "https://www.livemint.com/news/india/who-is-raul-john-aju-india-s-ai-kid-who-made-his-first-video-at-9-and-clicked-a-selfie-vladimir-putin-11795773503554.html",
     "post_num": 5
   }
 ]
